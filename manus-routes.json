@@ -1,5 +1,6 @@
 {
   "routes": [
-    { "path": "/", "title": "King in the Game — Oyun yayıncısı" }
+    { "path": "/", "title": "King in the Game — Game publisher" },
+    { "path": "/games.html", "title": "King in the Game — Game Catalog" }
   ]
 }
