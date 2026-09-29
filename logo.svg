@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="King in the Game mark">
+  <rect width="512" height="512" fill="#070A12"/>
+  <path d="M126 104h260l-22 292H148L126 104Z" fill="#8B5CF6"/>
+  <path d="M126 104h260l-26 64H152l-26-64Z" fill="#C8F169"/>
+  <path d="M180 104 210 42l48 48 48-48 30 62H180Z" fill="#F3F5F7"/>
+  <path d="m256 190 22 46 50 7-36 35 9 50-45-24-45 24 9-50-36-35 50-7 22-46Z" fill="#070A12"/>
+  <path d="M220 306h72v42h-72z" fill="#C8F169"/>
+</svg>
