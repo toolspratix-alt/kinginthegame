@@ -2,3 +2,5 @@ User-agent: *
 Allow: /
 Disallow: /api/
 Sitemap: https://kinginthegame.com/sitemap.xml
+
+Disallow: /PUBLISHER_SETUP.md

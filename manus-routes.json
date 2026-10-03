@@ -3,6 +3,9 @@
     { "path": "/", "title": "King in the Game — HTML5 Games" },
     { "path": "/play.html", "title": "King in the Game — Play Game" },
     { "path": "/games.html", "title": "King in the Game — Game Catalog" },
-    { "path": "/about.html", "title": "King in the Game — About" }
+    { "path": "/about.html", "title": "King in the Game — About" },
+    { "path": "/privacy.html", "title": "King in the Game — Privacy" },
+    { "path": "/terms.html", "title": "King in the Game — Terms" },
+    { "path": "/contact.html", "title": "King in the Game — Contact" }
   ]
 }
