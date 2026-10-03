@@ -6,6 +6,7 @@
     { "path": "/about.html", "title": "King in the Game — About" },
     { "path": "/privacy.html", "title": "King in the Game — Privacy" },
     { "path": "/terms.html", "title": "King in the Game — Terms" },
-    { "path": "/contact.html", "title": "King in the Game — Contact" }
+    { "path": "/contact.html", "title": "King in the Game — Contact" },
+    { "path": "/platforms.html", "title": "King in the Game — Distribution" }
   ]
 }

@@ -1,0 +1,3 @@
+Contact: https://github.com/toolspratix-alt/kinginthegame/issues
+Preferred-Languages: en, tr
+Canonical: https://kinginthegame.com/.well-known/security.txt
