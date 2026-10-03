@@ -27,9 +27,6 @@ Apply as a Partner for widget/API/link distribution. After approval, add the sup
 
 Apply through Business Alliances as a publisher. After onboarding, use the assigned Unique Link, API or SDK rather than copying games. Confirm the commercial share, invoice flow, payment threshold, payout timing and Turkey availability in writing before launch.
 
-### CrazyGames and Poki
-
-These are primarily developer submission and curation programs, not general catalog networks for a publisher’s own site. Submit an owned/licensed game through their developer process only when you control the required rights and can use their SDK. Do not represent the King in the Game catalog as a CrazyGames or Poki partnership without written approval.
 
 ## Required before enabling any provider
 
