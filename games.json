@@ -105,19 +105,6 @@
     "cover": "/assets/screenshots/ninja-clash-heroes.jpg"
   },
   {
-    "id": "incredible-city-monster-hunk-hero-survival",
-    "title": "Incredible City Monster Hunk Hero Survival",
-    "genre": "Action",
-    "genreKey": "action",
-    "label": "Monster / Survival",
-    "art": "art-smash",
-    "symbol": "✸",
-    "embed": "https://www.arcadegames.com.es/game/incredible-city-monster-hunk-hero-survival",
-    "provider": "GameMonetize",
-    "source": "https://www.arcadegames.com.es/game/incredible-city-monster-hunk-hero-survival",
-    "cover": "/assets/screenshots/incredible-city-monster-hunk-hero-survival.jpg"
-  },
-  {
     "id": "alien-quarantine",
     "title": "Alien Quarantine",
     "genre": "Action",
