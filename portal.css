@@ -9,3 +9,15 @@
 .hero-feature:after{content:none!important;background:none!important}
 .hero-glow{display:none!important;box-shadow:none!important}
 .game-art span{display:none!important}
+/* Niche editorial homepage */
+.niche-hero{min-height:620px;background:var(--bg);grid-template-columns:1.05fr .82fr;border-bottom:1px solid var(--line)}
+.niche-hero .hero-content p{max-width:470px}
+.hero-note{display:flex;gap:18px;align-items:flex-start;margin-top:42px;color:var(--muted);font:11px/1.6 var(--mono);text-transform:uppercase;letter-spacing:.08em}
+.hero-note .mono{font-size:12px;color:var(--violet)}
+.focus-section{display:grid;grid-template-columns:.8fr 1.2fr;gap:8vw;padding:95px clamp(18px,8vw,125px) 80px;border-bottom:1px solid var(--line)}
+.focus-intro h2{font:600 clamp(38px,5vw,66px)/.95 var(--display);letter-spacing:-.07em;margin:18px 0 22px}.focus-intro h2 em{font-style:normal;color:var(--violet)}.focus-intro p{max-width:350px;color:var(--muted);line-height:1.75;font-size:14px}
+.focus-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:1px;background:var(--line);border:1px solid var(--line)}
+.focus-card{min-height:175px;padding:23px;background:var(--surface);transition:background .2s}.focus-card:hover{background:var(--surface2)}.focus-card .mono{display:block;margin-bottom:35px;color:var(--muted);font-size:9px}.focus-card strong{display:block;font:500 23px var(--display);letter-spacing:-.04em;margin-bottom:8px}.focus-card p{margin:0;color:var(--muted);font-size:12px;line-height:1.6;max-width:235px}
+.niche-categories{padding-top:78px}.niche-categories .category-title h2{font-size:clamp(38px,5vw,66px)}.niche-catalog{padding-top:22px}.niche-catalog .catalog-head{padding-bottom:22px}.niche-catalog .catalog-head h2{font-size:24px}
+@media(max-width:900px){.niche-hero{grid-template-columns:1fr}.focus-section{display:block;padding-top:70px}.focus-intro{margin-bottom:42px}}
+@media(max-width:520px){.focus-grid{grid-template-columns:1fr}.focus-card{min-height:145px}.focus-card .mono{margin-bottom:22px}.hero-note{margin-top:30px}}
