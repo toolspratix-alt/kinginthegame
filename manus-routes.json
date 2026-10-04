@@ -1,12 +1,92 @@
 {
   "routes": [
-    { "path": "/", "title": "King in the Game — HTML5 Games" },
-    { "path": "/play.html", "title": "King in the Game — Play Game" },
-    { "path": "/games.html", "title": "King in the Game — Game Catalog" },
-    { "path": "/about.html", "title": "King in the Game — About" },
-    { "path": "/privacy.html", "title": "King in the Game — Privacy" },
-    { "path": "/terms.html", "title": "King in the Game — Terms" },
-    { "path": "/contact.html", "title": "King in the Game — Contact" },
-    { "path": "/platforms.html", "title": "King in the Game — Distribution" }
+    {
+      "path": "/",
+      "title": "King in the Game — HTML5 Games"
+    },
+    {
+      "path": "/play.html",
+      "title": "King in the Game — Play Game"
+    },
+    {
+      "path": "/games.html",
+      "title": "King in the Game — Game Catalog"
+    },
+    {
+      "path": "/about.html",
+      "title": "King in the Game — About"
+    },
+    {
+      "path": "/privacy.html",
+      "title": "King in the Game — Privacy"
+    },
+    {
+      "path": "/terms.html",
+      "title": "King in the Game — Terms"
+    },
+    {
+      "path": "/contact.html",
+      "title": "King in the Game — Contact"
+    },
+    {
+      "path": "/platforms.html",
+      "title": "King in the Game — Distribution"
+    },
+    {
+      "path": "/games/monster-truck-off-road-2.html",
+      "title": "Monster Truck Off Road 2 — Play Free Online"
+    },
+    {
+      "path": "/games/urban-military-strike.html",
+      "title": "Urban Military Strike — Play Free Online"
+    },
+    {
+      "path": "/games/dead-zone-sniper.html",
+      "title": "Dead Zone Sniper — Play Free Online"
+    },
+    {
+      "path": "/games/rocket-clash-3d.html",
+      "title": "Rocket Clash 3D — Play Free Online"
+    },
+    {
+      "path": "/games/subway-clash-3d.html",
+      "title": "Subway Clash 3D — Play Free Online"
+    },
+    {
+      "path": "/games/subway-clash-2.html",
+      "title": "Subway Clash 2 — Play Free Online"
+    },
+    {
+      "path": "/games/zombie-clash-3d.html",
+      "title": "Zombie Clash 3D — Play Free Online"
+    },
+    {
+      "path": "/games/ninja-clash-heroes.html",
+      "title": "Ninja Clash Heroes — Play Free Online"
+    },
+    {
+      "path": "/games/alien-quarantine.html",
+      "title": "Alien Quarantine — Play Free Online"
+    },
+    {
+      "path": "/games/realistic-tanks-poopy-war.html",
+      "title": "Realistic Tanks Poopy War — Play Free Online"
+    },
+    {
+      "path": "/games/armour-clash.html",
+      "title": "Armour Clash — Play Free Online"
+    },
+    {
+      "path": "/games/woms-world-of-master-survivors.html",
+      "title": "WOMS World of Master Survivors — Play Free Online"
+    },
+    {
+      "path": "/games/fort-clash-survival.html",
+      "title": "Fort Clash Survival — Play Free Online"
+    },
+    {
+      "path": "/games/battle-of-orcs.html",
+      "title": "Battle of Orcs — Play Free Online"
+    }
   ]
 }
