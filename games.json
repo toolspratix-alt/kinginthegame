@@ -1,58 +1,5 @@
 [
   {
-    "id": "monster-chef",
-    "title": "Monster Chef",
-    "genre": "Casual",
-    "genreKey": "casual",
-    "label": "Cook / Combine",
-    "art": "art-chef",
-    "symbol": "✦",
-    "embed": "https://html5.gamemonetize.games/bgdpkpt8yys7kbihrpzdr1ui5pwyl1jc/",
-    "provider": "GameMonetize",
-    "source": "https://gamemonetize.com/monster-chef-game",
-    "featured": true,
-    "cover": "/assets/covers/monster-chef.jpg"
-  },
-  {
-    "id": "smash-yard",
-    "title": "Smash Yard",
-    "genre": "Action",
-    "genreKey": "action",
-    "label": "Drive / Smash",
-    "art": "art-smash",
-    "symbol": "✹",
-    "embed": "https://html5.gamemonetize.games/40eh4ezzyojwexag8yzwf0t64iqfj944/",
-    "provider": "GameMonetize",
-    "source": "https://gamemonetize.com/smash-yard-game",
-    "cover": "/assets/covers/smash-yard.jpg"
-  },
-  {
-    "id": "animal-pair",
-    "title": "Animal Pair",
-    "genre": "Casual",
-    "genreKey": "casual",
-    "label": "Match / Memory",
-    "art": "art-animal",
-    "symbol": "♣",
-    "embed": "https://html5.gamemonetize.games/943achq6sxf10jbqe7tfm77p8p95lcbs/",
-    "provider": "GameMonetize",
-    "source": "https://gamemonetize.com/animal-pair-card-match-game",
-    "cover": "/assets/covers/animal-pair.jpg"
-  },
-  {
-    "id": "9-ball-pool",
-    "title": "9 Ball Pool 3D",
-    "genre": "Sports",
-    "genreKey": "sports",
-    "label": "Aim / Break",
-    "art": "art-pool",
-    "symbol": "9",
-    "embed": "https://html5.gamemonetize.games/76h776f513292abtxz26npz9em4phv2w/",
-    "provider": "GameMonetize",
-    "source": "https://gamemonetize.com/9-ball-pool-3d-game",
-    "cover": "/assets/covers/9-ball-pool.jpg"
-  },
-  {
     "id": "monster-truck-off-road-2",
     "title": "Monster Truck Off Road 2",
     "genre": "Action",
@@ -63,7 +10,8 @@
     "embed": "https://html5.gamemonetize.co/ijep00ffovz7d1fdagujupadca9ad0li/",
     "provider": "GameMonetize",
     "source": "https://html5.gamemonetize.co/ijep00ffovz7d1fdagujupadca9ad0li/",
-    "cover": "/assets/covers/monster-truck-off-road-2.jpg"
+    "cover": "/assets/covers/monster-truck-off-road-2.jpg",
+    "featured": true
   },
   {
     "id": "urban-military-strike",
