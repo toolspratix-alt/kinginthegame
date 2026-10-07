@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><rect width="64" height="64" fill="#070A12"/><path d="M14 16h36l-3 35H17L14 16Z" fill="#8B5CF6"/><path d="M14 16h36l-4 9H18l-4-9Z" fill="#C8F169"/><path d="m25 16 4-9 7 7 7-7 4 9H25Z" fill="#F3F5F7"/><path d="m32 28 4 8 9 1-7 6 2 9-8-4-8 4 2-9-7-6 9-1 4-8Z" fill="#070A12"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="King in the Game">
+<defs><linearGradient id="b" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#173B70"/><stop offset="1" stop-color="#071326"/></linearGradient><linearGradient id="g" x1="0" x2="1"><stop stop-color="#FFF0A7"/><stop offset="1" stop-color="#B46D20"/></linearGradient></defs>
+<path d="M32 2 56 11v22c0 15-10 24-24 29C18 57 8 48 8 33V11L32 2Z" fill="url(#b)" stroke="#8FEAFF" stroke-width="2"/>
+<path d="m17 14 5-9 6 6 4-8 4 8 6-6 5 9-7 4H24l-7-4Z" fill="url(#g)"/>
+<path d="M16 29c2-11 8-17 13-14l3 3 3-3c5-3 11 3 13 14l-3 15-7 9-6 3-6-3-7-9-3-15Z" fill="url(#g)"/>
+<path d="M22 30c3-4 7-5 10-2l-3 5-6 2-3-2 2-3Zm20 0c-3-4-7-5-10-2l3 5 6 2 3-2-2-3Z" fill="#102343"/>
+<path d="m29 39 3-2 3 2-3 3-3-3Zm-3 4c4 4 8 4 12 0l-1 9-5 4-5-4-1-9Z" fill="#F8F2D6" stroke="#162846" stroke-width="1.5"/>
+</svg>

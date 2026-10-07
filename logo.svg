@@ -1,8 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="King in the Game mark">
-  <rect width="512" height="512" fill="#070A12"/>
-  <path d="M126 104h260l-22 292H148L126 104Z" fill="#8B5CF6"/>
-  <path d="M126 104h260l-26 64H152l-26-64Z" fill="#C8F169"/>
-  <path d="M180 104 210 42l48 48 48-48 30 62H180Z" fill="#F3F5F7"/>
-  <path d="m256 190 22 46 50 7-36 35 9 50-45-24-45 24 9-50-36-35 50-7 22-46Z" fill="#070A12"/>
-  <path d="M220 306h72v42h-72z" fill="#C8F169"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="King in the Game lion gaming crest">
+<defs><linearGradient id="shield" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#173B70"/><stop offset="1" stop-color="#071326"/></linearGradient><linearGradient id="gold" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#FFF0A7"/><stop offset=".45" stop-color="#D9A83B"/><stop offset="1" stop-color="#8A541A"/></linearGradient><linearGradient id="mane" x1="0" x2="1"><stop stop-color="#FFF2B1"/><stop offset="1" stop-color="#B46D20"/></linearGradient></defs>
+<path d="M256 18 420 78v158c0 116-69 205-164 252C161 441 92 352 92 236V78L256 18Z" fill="url(#shield)" stroke="#8FEAFF" stroke-width="10"/>
+<path d="M167 82 194 31l37 38 25-50 25 50 37-38 27 51-44 19H211l-44-19Z" fill="url(#gold)" stroke="#FFF4BE" stroke-width="6" stroke-linejoin="round"/>
+<path d="M151 190c12-61 45-91 77-79l28 25 28-25c32-12 65 18 77 79l-16 113-50 75-39 22-39-22-50-75-16-113Z" fill="url(#mane)" stroke="#FBE7A0" stroke-width="7"/>
+<path d="M183 155c-24 22-35 61-27 105l29-22 20-49-22-34Zm146 0c24 22 35 61 27 105l-29-22-20-49 22-34Z" fill="#C08329"/>
+<path d="M194 191c20-20 39-26 62-14l-19 37-39 14-18-18 14-19Zm124 0c-20-20-39-26-62-14l19 37 39 14 18-18-14-19Z" fill="#102343"/>
+<path d="m223 206 19 8-17 13-18-6 16-15Zm66 0-19 8 17 13 18-6-16-15Z" fill="#8FEAFF"/>
+<path d="M256 208c-25 0-47 28-47 62 0 40 23 68 47 68s47-28 47-68c0-34-22-62-47-62Z" fill="#F8F2D6"/>
+<path d="m236 251 20-13 20 13-20 18-20-18Z" fill="#162846"/><path d="M256 269v27m-31 8c18 19 44 19 62 0" fill="none" stroke="#162846" stroke-width="8" stroke-linecap="round"/>
+<path d="M176 338c29 27 51 44 80 44s51-17 80-44l-9 70-38 37-33-22-33 22-38-37-9-70Z" fill="#0B1B35" stroke="#8FEAFF" stroke-width="7"/>
+<path d="M194 383c-35-7-67 16-76 57 36 24 71 29 101 16l20-32-45-41Zm124 0c35-7 67 16 76 57-36 24-71 29-101 16l-20-32 45-41Z" fill="#1C548C" stroke="#8FEAFF" stroke-width="7"/>
+<path d="M203 416h28m-14-14v28m90-14h28m-14-14v28" stroke="#F3D36B" stroke-width="8" stroke-linecap="round"/><circle cx="326" cy="407" r="7" fill="#F3D36B"/><circle cx="350" cy="428" r="7" fill="#F3D36B"/>
 </svg>
