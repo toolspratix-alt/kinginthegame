@@ -2,8 +2,8 @@
   {
     "id": "monster-truck-off-road-2",
     "title": "Monster Truck Off Road 2",
-    "genre": "Action",
-    "genreKey": "action",
+    "genre": "Racing",
+    "genreKey": "racing",
     "label": "Drive / Off Road",
     "art": "art-smash",
     "symbol": "✹",
@@ -146,8 +146,8 @@
   {
     "id": "woms-world-of-master-survivors",
     "title": "WOMS World of Master Survivors",
-    "genre": "Action",
-    "genreKey": "action",
+    "genre": "Strategy",
+    "genreKey": "strategy",
     "label": "Survival / Strategy",
     "art": "art-chef",
     "symbol": "✹",
@@ -172,8 +172,8 @@
   {
     "id": "battle-of-orcs",
     "title": "Battle of Orcs",
-    "genre": "Action",
-    "genreKey": "action",
+    "genre": "Strategy",
+    "genreKey": "strategy",
     "label": "Strategy / Battle",
     "art": "art-animal",
     "symbol": "♜",
