@@ -5,32 +5,8 @@
       "title": "King in the Game — HTML5 Games"
     },
     {
-      "path": "/play.html",
-      "title": "King in the Game — Play Game"
-    },
-    {
-      "path": "/games.html",
-      "title": "King in the Game — Game Catalog"
-    },
-    {
       "path": "/about.html",
       "title": "King in the Game — About"
-    },
-    {
-      "path": "/privacy.html",
-      "title": "King in the Game — Privacy"
-    },
-    {
-      "path": "/terms.html",
-      "title": "King in the Game — Terms"
-    },
-    {
-      "path": "/contact.html",
-      "title": "King in the Game — Contact"
-    },
-    {
-      "path": "/platforms.html",
-      "title": "King in the Game — Distribution"
     },
     {
       "path": "/games/monster-truck-off-road-2.html",
@@ -89,8 +65,56 @@
       "title": "Battle of Orcs — Play Free Online"
     },
     {
+      "path": "/games/battle-tung-tung-sahur-2player-game.html",
+      "title": "Battle Tung Tung Sahur 2Player — Play Free Online"
+    },
+    {
+      "path": "/games/collect-brainrot-arena-game.html",
+      "title": "Collect Brainrot Arena — Play Free Online"
+    },
+    {
+      "path": "/games/mobile-legends-slime-3v3-game.html",
+      "title": "Mobile Legends Slime 3v3 — Play Free Online"
+    },
+    {
+      "path": "/games/shooter-zombie-survival-game.html",
+      "title": "Shooter Zombie Survival — Play Free Online"
+    },
+    {
+      "path": "/games/elemental-barrage-game.html",
+      "title": "Elemental Barrage — Play Free Online"
+    },
+    {
+      "path": "/games/gift-of-alchemy-game.html",
+      "title": "Gift Of Alchemy — Play Free Online"
+    },
+    {
+      "path": "/games/among-dungeon-game.html",
+      "title": "Among Dungeon — Play Free Online"
+    },
+    {
+      "path": "/games/ramp-truck-mayhem-game.html",
+      "title": "Ramp Truck Mayhem — Play Free Online"
+    },
+    {
+      "path": "/games/animal-racing-2-game.html",
+      "title": "Animal Racing 2 — Play Free Online"
+    },
+    {
+      "path": "/games/snow-plow-jeep-simulator-game.html",
+      "title": "Snow Plow Jeep Simulator — Play Free Online"
+    },
+    {
+      "path": "/games/winter-monster-trucks-race-game.html",
+      "title": "Winter Monster Trucks Race — Play Free Online"
+    },
+    {
+      "path": "/games/last-garage-zombie-road-game.html",
+      "title": "Last Garage: Zombie Road — Play Free Online"
+    },
+    {
       "path": "/action-shooter-games.html",
-      "title": "Action & Shooter Browser Games — King in the Game"
+      "title": "King in the Game — Focused Collections"
     }
   ]
 }
