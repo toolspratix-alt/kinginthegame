@@ -51,7 +51,7 @@ module.exports = async (req, res) => {
       });
     } catch (error) {
       console.error('comments_get_failed', error.message, error.details || '');
-      return json(res, 503, { error: 'Comments are temporarily unavailable', code: error.message });
+      return json(res, 503, { error: 'Comments are temporarily unavailable', code: error.message, detail: error.details || null });
     }
   }
 
@@ -84,7 +84,7 @@ module.exports = async (req, res) => {
       return json(res, 200, { vote: Array.isArray(updated) ? updated[0] : updated });
     } catch (error) {
       console.error('comments_post_failed', error.message, error.details || '');
-      return json(res, 503, { error: 'This action is temporarily unavailable', code: error.message });
+      return json(res, 503, { error: 'This action is temporarily unavailable', code: error.message, detail: error.details || null });
     }
   }
 
