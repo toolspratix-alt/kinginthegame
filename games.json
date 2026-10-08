@@ -10,7 +10,7 @@
     "embed": "https://html5.gamemonetize.co/ijep00ffovz7d1fdagujupadca9ad0li/",
     "provider": "GameMonetize",
     "source": "https://html5.gamemonetize.co/ijep00ffovz7d1fdagujupadca9ad0li/",
-    "cover": "/assets/screenshots/monster-truck-off-road-2.jpg",
+    "cover": "/assets/screenshots/monster-truck-off-road-2.webp",
     "featured": true
   },
   {
@@ -24,7 +24,7 @@
     "embed": "https://html5.gamemonetize.co/wmnb3xo7van507ku4m52u7csrco1f6qb/",
     "provider": "GameMonetize",
     "source": "https://html5.gamemonetize.co/wmnb3xo7van507ku4m52u7csrco1f6qb/",
-    "cover": "/assets/screenshots/urban-military-strike.jpg"
+    "cover": "/assets/screenshots/urban-military-strike.webp"
   },
   {
     "id": "dead-zone-sniper",
@@ -37,7 +37,7 @@
     "embed": "https://html5.gamemonetize.co/wwogdycex7xw5e73ig0sf7f1s2b7t47p/",
     "provider": "GameMonetize",
     "source": "https://html5.gamemonetize.co/wwogdycex7xw5e73ig0sf7f1s2b7t47p/",
-    "cover": "/assets/screenshots/dead-zone-sniper.jpg"
+    "cover": "/assets/screenshots/dead-zone-sniper.webp"
   },
   {
     "id": "rocket-clash-3d",
@@ -50,7 +50,7 @@
     "embed": "https://html5.gamemonetize.co/jiybs4emy2vc1utvpov7qgfmgnzdwcaf/",
     "provider": "GameMonetize",
     "source": "https://html5.gamemonetize.co/jiybs4emy2vc1utvpov7qgfmgnzdwcaf/",
-    "cover": "/assets/screenshots/rocket-clash-3d.jpg"
+    "cover": "/assets/screenshots/rocket-clash-3d.webp"
   },
   {
     "id": "subway-clash-3d",
@@ -63,7 +63,7 @@
     "embed": "https://html5.gamemonetize.co/nduhdua0yup2i0k4llj5wjplk62np2md/",
     "provider": "GameMonetize",
     "source": "https://html5.gamemonetize.co/nduhdua0yup2i0k4llj5wjplk62np2md/",
-    "cover": "/assets/screenshots/subway-clash-3d.jpg"
+    "cover": "/assets/screenshots/subway-clash-3d.webp"
   },
   {
     "id": "subway-clash-2",
@@ -76,7 +76,7 @@
     "embed": "https://html5.gamemonetize.co/dbzradmpi79aiwvq4xryeic8kwqp615v/",
     "provider": "GameMonetize",
     "source": "https://html5.gamemonetize.co/dbzradmpi79aiwvq4xryeic8kwqp615v/",
-    "cover": "/assets/screenshots/subway-clash-2.jpg"
+    "cover": "/assets/screenshots/subway-clash-2.webp"
   },
   {
     "id": "zombie-clash-3d",
@@ -89,7 +89,7 @@
     "embed": "https://html5.gamemonetize.co/qf4bszktq31gtznbfro0ih23k7dg53ws/",
     "provider": "GameMonetize",
     "source": "https://html5.gamemonetize.co/qf4bszktq31gtznbfro0ih23k7dg53ws/",
-    "cover": "/assets/screenshots/zombie-clash-3d.jpg"
+    "cover": "/assets/screenshots/zombie-clash-3d.webp"
   },
   {
     "id": "ninja-clash-heroes",
@@ -102,7 +102,7 @@
     "embed": "https://html5.gamemonetize.co/bxj9kkuzrjval3mh9cr20tvlrc3cxsw9/",
     "provider": "GameMonetize",
     "source": "https://html5.gamemonetize.co/bxj9kkuzrjval3mh9cr20tvlrc3cxsw9/",
-    "cover": "/assets/screenshots/ninja-clash-heroes.jpg"
+    "cover": "/assets/screenshots/ninja-clash-heroes.webp"
   },
   {
     "id": "alien-quarantine",
@@ -115,7 +115,7 @@
     "embed": "https://html5.gamemonetize.co/0qisjurcsxvvmszq08zh60i85n363kgz/",
     "provider": "GameMonetize",
     "source": "https://html5.gamemonetize.co/0qisjurcsxvvmszq08zh60i85n363kgz/",
-    "cover": "/assets/screenshots/alien-quarantine.jpg"
+    "cover": "/assets/screenshots/alien-quarantine.webp"
   },
   {
     "id": "realistic-tanks-poopy-war",
@@ -128,7 +128,7 @@
     "embed": "https://html5.gamemonetize.co/uyry5c6ia2qyme3582cb1jvfkldl0qj5/",
     "provider": "GameMonetize",
     "source": "https://html5.gamemonetize.co/uyry5c6ia2qyme3582cb1jvfkldl0qj5/",
-    "cover": "/assets/screenshots/realistic-tanks-poopy-war.jpg"
+    "cover": "/assets/screenshots/realistic-tanks-poopy-war.webp"
   },
   {
     "id": "armour-clash",
@@ -141,7 +141,7 @@
     "embed": "https://html5.gamemonetize.co/um4xfulrle0wayb32u1wfw3vpx3lnyli/",
     "provider": "GameMonetize",
     "source": "https://html5.gamemonetize.co/um4xfulrle0wayb32u1wfw3vpx3lnyli/",
-    "cover": "/assets/screenshots/armour-clash.jpg"
+    "cover": "/assets/screenshots/armour-clash.webp"
   },
   {
     "id": "woms-world-of-master-survivors",
@@ -154,7 +154,7 @@
     "embed": "https://html5.gamemonetize.co/ucrwra0xix0cevrxifilv1by6wps90xf/",
     "provider": "GameMonetize",
     "source": "https://html5.gamemonetize.co/ucrwra0xix0cevrxifilv1by6wps90xf/",
-    "cover": "/assets/screenshots/woms-world-of-master-survivors.jpg"
+    "cover": "/assets/screenshots/woms-world-of-master-survivors.webp"
   },
   {
     "id": "fort-clash-survival",
@@ -167,7 +167,7 @@
     "embed": "https://html5.gamemonetize.co/hwx6v25biq7www5qh9jxe7vjda61r1fg/",
     "provider": "GameMonetize",
     "source": "https://html5.gamemonetize.co/hwx6v25biq7www5qh9jxe7vjda61r1fg/",
-    "cover": "/assets/screenshots/fort-clash-survival.jpg"
+    "cover": "/assets/screenshots/fort-clash-survival.webp"
   },
   {
     "id": "battle-of-orcs",
@@ -180,7 +180,7 @@
     "embed": "https://html5.gamemonetize.co/jfsf85h2w8m5k168c0nuks2g0dx30k3j/",
     "provider": "GameMonetize",
     "source": "https://html5.gamemonetize.co/jfsf85h2w8m5k168c0nuks2g0dx30k3j/",
-    "cover": "/assets/screenshots/battle-of-orcs.jpg"
+    "cover": "/assets/screenshots/battle-of-orcs.webp"
   },
   {
     "id": "battle-tung-tung-sahur-2player-game",
@@ -196,7 +196,7 @@
     "embed": "https://html5.gamemonetize.co/oqdhfw0lgqnslcbui0vpeyqao696j1m5/",
     "provider": "GameMonetize",
     "source": "https://gamemonetize.com/battle-tung-tung-sahur-2player-game",
-    "cover": "/assets/screenshots/battle-tung-tung-sahur-2player-game.jpg",
+    "cover": "/assets/screenshots/battle-tung-tung-sahur-2player-game.webp",
     "whySelected": "It adds a clearly competitive two-player format to the action collection.",
     "howToPlay": "Move into the arena, challenge the other player and hold the chest longer than your opponent."
   },
@@ -214,7 +214,7 @@
     "embed": "https://html5.gamemonetize.co/3d46x6qf4gjpq9nn4u1wntkd2a35uor8/",
     "provider": "GameMonetize",
     "source": "https://gamemonetize.com/collect-brainrot-arena-game",
-    "cover": "/assets/screenshots/collect-brainrot-arena-game.jpg",
+    "cover": "/assets/screenshots/collect-brainrot-arena-game.webp",
     "whySelected": "It brings objective-based arena play and collection strategy beyond standard shooting.",
     "howToPlay": "Collect Lucky Blocks, unlock Brainrots, improve your collection and protect your base from rival thieves."
   },
@@ -232,7 +232,7 @@
     "embed": "https://html5.gamemonetize.co/ez9xm9fpyax3wv4ve6jei7m62k5kwdy6/",
     "provider": "GameMonetize",
     "source": "https://gamemonetize.com/mobile-legends-slime-3v3-game",
-    "cover": "/assets/screenshots/mobile-legends-slime-3v3-game.jpg",
+    "cover": "/assets/screenshots/mobile-legends-slime-3v3-game.webp",
     "whySelected": "It gives the PvP collection a clear team-based arena identity.",
     "howToPlay": "Choose a slime character, learn its ability set and work with your team to win arena battles."
   },
@@ -250,7 +250,7 @@
     "embed": "https://html5.gamemonetize.co/t1mqe8cvqn6jxu1nalxly418789tcodl/",
     "provider": "GameMonetize",
     "source": "https://gamemonetize.com/shooter-zombie-survival-game",
-    "cover": "/assets/screenshots/shooter-zombie-survival-game.jpg",
+    "cover": "/assets/screenshots/shooter-zombie-survival-game.webp",
     "whySelected": "It adds progression and survival pressure to the action collection.",
     "howToPlay": "Fight zombie waves, collect cash and buy weapon upgrades before the next challenge."
   },
@@ -268,7 +268,7 @@
     "embed": "https://html5.gamemonetize.co/khneo8mnfzpm7fmxwr70or0tieye6uyu/",
     "provider": "GameMonetize",
     "source": "https://gamemonetize.com/elemental-barrage-game",
-    "cover": "/assets/screenshots/elemental-barrage-game.jpg",
+    "cover": "/assets/screenshots/elemental-barrage-game.webp",
     "whySelected": "It fits mini strategy through positioning, timing and upgrade choices.",
     "howToPlay": "Drag to aim, release the elemental barrage and use pickups to create stronger combinations."
   },
@@ -286,7 +286,7 @@
     "embed": "https://html5.gamemonetize.co/p9df7xdknianjytoz02juu21dl143l2s/",
     "provider": "GameMonetize",
     "source": "https://gamemonetize.com/gift-of-alchemy-game",
-    "cover": "/assets/screenshots/gift-of-alchemy-game.jpg",
+    "cover": "/assets/screenshots/gift-of-alchemy-game.webp",
     "whySelected": "It broadens the strategy lane with a puzzle-like fantasy theme and deliberate decisions.",
     "howToPlay": "Experiment with the available alchemy interactions and follow the discovery path to revive the craft."
   },
@@ -304,7 +304,7 @@
     "embed": "https://html5.gamemonetize.co/ag8hqc5musjuub3su73s7sg5zryrx3b7/",
     "provider": "GameMonetize",
     "source": "https://gamemonetize.com/among-dungeon-game",
-    "cover": "/assets/screenshots/among-dungeon-game.jpg",
+    "cover": "/assets/screenshots/among-dungeon-game.webp",
     "whySelected": "It adds a lightweight survival and route-planning experience to the strategy-adjacent collection.",
     "howToPlay": "Move through each level, avoid hazards and reach the exit while managing the timing of your steps."
   },
@@ -322,7 +322,7 @@
     "embed": "https://html5.gamemonetize.co/7d6804efwpz7pybjuvaq4tljwnusrel9/",
     "provider": "GameMonetize",
     "source": "https://gamemonetize.com/ramp-truck-mayhem-game",
-    "cover": "/assets/screenshots/ramp-truck-mayhem-game.jpg",
+    "cover": "/assets/screenshots/ramp-truck-mayhem-game.webp",
     "whySelected": "It strengthens the off-road identity with a focused stunt and momentum loop.",
     "howToPlay": "Launch the truck from ramps, manage airtime and land safely while pushing toward the finish."
   },
@@ -340,7 +340,7 @@
     "embed": "https://html5.gamemonetize.co/0nhrb2tzz0oglo3bj9oqs4zjxebt32yj/",
     "provider": "GameMonetize",
     "source": "https://gamemonetize.com/animal-racing-2-game",
-    "cover": "/assets/screenshots/animal-racing-2-game.jpg",
+    "cover": "/assets/screenshots/animal-racing-2-game.webp",
     "whySelected": "It adds variety to racing with transformation mechanics and obstacle-based decisions.",
     "howToPlay": "Run the course, respond quickly to transformation prompts and outsmart opponents across the route."
   },
@@ -358,7 +358,7 @@
     "embed": "https://html5.gamemonetize.co/4vx3x522bia16lgp4i78woqkaojfgmol/",
     "provider": "GameMonetize",
     "source": "https://gamemonetize.com/snow-plow-jeep-simulator-game",
-    "cover": "/assets/screenshots/snow-plow-jeep-simulator-game.jpg",
+    "cover": "/assets/screenshots/snow-plow-jeep-simulator-game.webp",
     "whySelected": "It expands the category from racing alone into driving challenges and vehicle simulation.",
     "howToPlay": "Drive the snow plow through the town, clear the routes and manage the vehicle across snowy terrain."
   },
@@ -376,7 +376,7 @@
     "embed": "https://html5.gamemonetize.co/qiyxg1ahq3my8dpp5z7bzoj3d2182lqs/",
     "provider": "GameMonetize",
     "source": "https://gamemonetize.com/winter-monster-trucks-race-game",
-    "cover": "/assets/screenshots/winter-monster-trucks-race-game.jpg",
+    "cover": "/assets/screenshots/winter-monster-trucks-race-game.webp",
     "whySelected": "It gives racing a traditional level-and-upgrade loop with a seasonal off-road setting.",
     "howToPlay": "Drive through winter tracks, collect coins and upgrade the monster truck as you clear levels."
   },
@@ -394,7 +394,7 @@
     "embed": "https://html5.gamemonetize.co/v8dz10q6cfukpco6k4xqp0xauhuyc7kc/",
     "provider": "GameMonetize",
     "source": "https://gamemonetize.com/last-garage-zombie-road-game",
-    "cover": "/assets/screenshots/last-garage-zombie-road-game.jpg",
+    "cover": "/assets/screenshots/last-garage-zombie-road-game.webp",
     "whySelected": "It connects racing and tactical survival through driving, route reading and threat management.",
     "howToPlay": "Drive through each district, avoid obstacles and use the vehicle weapons when enemies block the route."
   }
