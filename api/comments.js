@@ -14,7 +14,8 @@ async function supabase(path, options = {}) {
   const url = process.env.SUPABASE_URL;
   const key = process.env.SUPABASE_ANON_KEY;
   if (!url || !key) throw new Error('supabase_not_configured');
-  const response = await fetch(`${url.replace(/\/$/, '')}/rest/v1/${path}`, {
+  const baseUrl = url.replace(/\/rest\/v1\/?$/, '').replace(/\/$/, '');
+  const response = await fetch(`${baseUrl}/rest/v1/${path}`, {
     ...options,
     headers: {
       apikey: key,
