@@ -74,3 +74,11 @@
 .reaction-icon{font-weight:700}
 .comment-form-row small{max-width:58%}
 @media(max-width:600px){.comment-form-row small{max-width:none}.community-section{padding-left:16px;padding-right:16px}.reaction-panel{padding-left:0;padding-right:0}}
+
+/* Readable community fields on the dark theme. */
+.community-section .comment-form input,
+.community-section .comment-form textarea{color:var(--text)!important;background:#080b12!important;caret-color:var(--lime)!important}
+.community-section .comment-form input::placeholder,
+.community-section .comment-form textarea::placeholder{color:#aeb8c8!important;opacity:1}
+.community-section .comment-form input:focus,
+.community-section .comment-form textarea:focus{color:#fff!important;border-color:var(--lime)!important;box-shadow:0 0 0 2px rgba(200,241,105,.12)}
