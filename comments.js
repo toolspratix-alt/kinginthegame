@@ -1,0 +1,40 @@
+(() => {
+  const game = window.KITG_GAME;
+  const root = document.getElementById('community-section');
+  if (!game || !root) return;
+  const gameId = game.id || location.pathname.split('/').pop().replace(/\.html$/, '');
+  const copy = {
+    en:{title:'Player comments',name:'Your name',comment:'Write a comment…',send:'Post comment',like:'Like',dislike:'Dislike',empty:'Be the first to comment.',loading:'Loading comments…',thanks:'Thanks — your comment is live.',error:'Could not complete that action. Try again.',privacy:'Please keep comments respectful. No links or markup.'},
+    tr:{title:'Oyuncu yorumları',name:'Adınız',comment:'Yorumunuzu yazın…',send:'Yorumu yayınla',like:'Beğen',dislike:'Beğenme',empty:'İlk yorumu siz yazın.',loading:'Yorumlar yükleniyor…',thanks:'Teşekkürler — yorumunuz yayınlandı.',error:'İşlem tamamlanamadı. Lütfen tekrar deneyin.',privacy:'Lütfen saygılı yorumlar yazın. Link ve kod kullanılamaz.'},
+    de:{title:'Spielerkommentare',name:'Dein Name',comment:'Kommentar schreiben…',send:'Kommentar posten',like:'Gefällt mir',dislike:'Gefällt mir nicht',empty:'Schreibe den ersten Kommentar.',loading:'Kommentare werden geladen…',thanks:'Danke — dein Kommentar ist online.',error:'Aktion nicht möglich. Bitte erneut versuchen.',privacy:'Bitte respektvoll bleiben. Keine Links oder Markups.'},
+    es:{title:'Comentarios',name:'Tu nombre',comment:'Escribe un comentario…',send:'Publicar comentario',like:'Me gusta',dislike:'No me gusta',empty:'Sé el primero en comentar.',loading:'Cargando comentarios…',thanks:'Gracias — tu comentario ya está publicado.',error:'No se pudo completar. Inténtalo de nuevo.',privacy:'Sé respetuoso. No se permiten enlaces ni código.'},
+    fr:{title:'Commentaires',name:'Votre nom',comment:'Écrire un commentaire…',send:'Publier',like:"J'aime",dislike:"Je n'aime pas",empty:'Soyez le premier à commenter.',loading:'Chargement des commentaires…',thanks:'Merci — votre commentaire est publié.',error:'Action impossible. Réessayez.',privacy:'Restez respectueux. Aucun lien ni code.'},
+    it:{title:'Commenti dei giocatori',name:'Il tuo nome',comment:'Scrivi un commento…',send:'Pubblica commento',like:'Mi piace',dislike:'Non mi piace',empty:'Sii il primo a commentare.',loading:'Caricamento commenti…',thanks:'Grazie — il commento è online.',error:'Azione non riuscita. Riprova.',privacy:'Sii rispettoso. Niente link o codice.'},
+    pt:{title:'Comentários',name:'Seu nome',comment:'Escreva um comentário…',send:'Publicar comentário',like:'Gostei',dislike:'Não gostei',empty:'Seja o primeiro a comentar.',loading:'Carregando comentários…',thanks:'Obrigado — seu comentário está publicado.',error:'Não foi possível concluir. Tente novamente.',privacy:'Seja respeitoso. Sem links ou código.'},
+    pl:{title:'Komentarze graczy',name:'Twoje imię',comment:'Napisz komentarz…',send:'Opublikuj komentarz',like:'Lubię',dislike:'Nie lubię',empty:'Dodaj pierwszy komentarz.',loading:'Ładowanie komentarzy…',thanks:'Dziękujemy — komentarz jest opublikowany.',error:'Nie udało się. Spróbuj ponownie.',privacy:'Zachowaj szacunek. Bez linków i kodu.'},
+    nl:{title:'Spelersreacties',name:'Je naam',comment:'Schrijf een reactie…',send:'Reactie plaatsen',like:'Vind ik leuk',dislike:'Vind ik niet leuk',empty:'Plaats de eerste reactie.',loading:'Reacties laden…',thanks:'Bedankt — je reactie staat online.',error:'Actie mislukt. Probeer opnieuw.',privacy:'Blijf respectvol. Geen links of code.'},
+    ja:{title:'プレイヤーコメント',name:'名前',comment:'コメントを書く…',send:'投稿する',like:'いいね',dislike:'よくないね',empty:'最初のコメントを書きましょう。',loading:'コメントを読み込み中…',thanks:'ありがとうございます。コメントを投稿しました。',error:'処理できませんでした。もう一度お試しください。',privacy:'敬意を持って投稿してください。リンクやコードは不可です。'},
+    ko:{title:'플레이어 댓글',name:'이름',comment:'댓글을 작성하세요…',send:'댓글 게시',like:'좋아요',dislike:'싫어요',empty:'첫 댓글을 남겨보세요.',loading:'댓글을 불러오는 중…',thanks:'감사합니다. 댓글이 게시되었습니다.',error:'처리할 수 없습니다. 다시 시도하세요.',privacy:'서로 존중해 주세요. 링크와 코드는 사용할 수 없습니다.'},
+    zh:{title:'玩家评论',name:'你的名字',comment:'写下评论…',send:'发表评论',like:'喜欢',dislike:'不喜欢',empty:'来发表第一条评论吧。',loading:'正在加载评论…',thanks:'谢谢，评论已发布。',error:'操作失败，请重试。',privacy:'请文明交流。不允许链接或代码。'},
+    ar:{title:'تعليقات اللاعبين',name:'اسمك',comment:'اكتب تعليقًا…',send:'نشر التعليق',like:'إعجاب',dislike:'لم يعجبني',empty:'كن أول من يكتب تعليقًا.',loading:'جار تحميل التعليقات…',thanks:'شكرًا — تم نشر تعليقك.',error:'تعذر إكمال العملية. حاول مجددًا.',privacy:'يرجى احترام الآخرين. الروابط والأكواد غير مسموحة.'}
+  };
+  const lang = localStorage.getItem('kitg-language') || 'en';
+  const t = copy[lang] || copy.en;
+  const esc = value => String(value).replace(/[&<>'"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;',"'":'&#39;','"':'&quot;'}[c]));
+  const visitorKey = 'kitg-visitor-id';
+  const visitorId = localStorage.getItem(visitorKey) || `${crypto.randomUUID()}-${Date.now()}`;
+  localStorage.setItem(visitorKey, visitorId);
+  root.innerHTML = `<div class="community-head"><div><span class="mono">COMMUNITY / ${esc(game.title)}</span><h2>${t.title}</h2></div><div class="reaction-bar"><button type="button" data-vote="1" aria-label="${t.like}">♡ <span id="like-count">0</span></button><button type="button" data-vote="-1" aria-label="${t.dislike}">♧ <span id="dislike-count">0</span></button></div></div><form id="comment-form" class="comment-form"><input id="comment-name" name="display_name" maxlength="40" required placeholder="${t.name}" autocomplete="nickname"><textarea id="comment-body" name="body" maxlength="800" required placeholder="${t.comment}"></textarea><div class="comment-form-row"><small>${t.privacy}</small><button class="portal-button" type="submit">${t.send} <span>↗</span></button></div></form><p id="community-status" class="community-status" role="status">${t.loading}</p><div id="comment-list" class="comment-list"></div>`;
+  const status = document.getElementById('community-status');
+  const list = document.getElementById('comment-list');
+  const render = data => {
+    document.getElementById('like-count').textContent = data.likes || 0;
+    document.getElementById('dislike-count').textContent = data.dislikes || 0;
+    list.innerHTML = data.comments?.length ? data.comments.map(c => `<article class="comment-item"><div><strong>${esc(c.display_name)}</strong><time>${new Date(c.created_at).toLocaleDateString()}</time></div><p>${esc(c.body)}</p></article>`).join('') : `<p class="comment-empty">${t.empty}</p>`;
+    status.textContent = '';
+  };
+  const load = async () => { try { const r=await fetch(`/api/comments?game_id=${encodeURIComponent(gameId)}`); if(!r.ok) throw 0; render(await r.json()); } catch { status.textContent=t.error; } };
+  root.querySelectorAll('[data-vote]').forEach(button => button.addEventListener('click', async () => { button.disabled=true; try { await fetch('/api/comments',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({action:'vote',game_id:gameId,visitor_id:visitorId,vote:Number(button.dataset.vote)})}); await load(); } catch { status.textContent=t.error; } finally { button.disabled=false; } }));
+  document.getElementById('comment-form').addEventListener('submit', async e => { e.preventDefault(); const form=e.currentTarget; const data={action:'comment',game_id:gameId,display_name:form.display_name.value,body:form.body.value}; const button=form.querySelector('button'); button.disabled=true; status.textContent=t.loading; try { const r=await fetch('/api/comments',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(data)}); if(!r.ok) throw 0; form.reset(); status.textContent=t.thanks; await load(); } catch { status.textContent=t.error; } finally { button.disabled=false; } });
+  load();
+})();

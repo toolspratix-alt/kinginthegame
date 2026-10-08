@@ -1,0 +1,87 @@
+const { randomUUID } = require('node:crypto');
+
+function json(res, status, body) {
+  res.status(status).setHeader('Content-Type', 'application/json; charset=utf-8');
+  res.setHeader('Cache-Control', 'no-store');
+  return res.end(JSON.stringify(body));
+}
+
+function clean(value, max) {
+  return String(value || '').trim().slice(0, max);
+}
+
+async function supabase(path, options = {}) {
+  const url = process.env.SUPABASE_URL;
+  const key = process.env.SUPABASE_ANON_KEY;
+  if (!url || !key) throw new Error('Supabase environment is not configured');
+  const response = await fetch(`${url.replace(/\/$/, '')}/rest/v1/${path}`, {
+    ...options,
+    headers: {
+      apikey: key,
+      Authorization: `Bearer ${key}`,
+      'Content-Type': 'application/json',
+      Prefer: options.method === 'POST' || options.method === 'PATCH' ? 'return=representation' : undefined,
+      ...(options.headers || {})
+    }
+  });
+  const text = await response.text();
+  let data = null;
+  try { data = text ? JSON.parse(text) : null; } catch { data = { raw: text }; }
+  if (!response.ok) throw new Error(data?.message || data?.hint || 'Supabase request failed');
+  return data;
+}
+
+module.exports = async (req, res) => {
+  if (req.method === 'GET') {
+    const gameId = clean(req.query?.game_id, 100);
+    if (!gameId) return json(res, 400, { error: 'game_id is required' });
+    try {
+      const [comments, votes] = await Promise.all([
+        supabase(`game_comments?game_id=eq.${encodeURIComponent(gameId)}&select=id,game_id,display_name,body,created_at&order=created_at.desc&limit=100`),
+        supabase(`game_votes?game_id=eq.${encodeURIComponent(gameId)}&select=vote`)
+      ]);
+      return json(res, 200, {
+        comments: Array.isArray(comments) ? comments : [],
+        likes: Array.isArray(votes) ? votes.filter(v => v.vote === 1).length : 0,
+        dislikes: Array.isArray(votes) ? votes.filter(v => v.vote === -1).length : 0
+      });
+    } catch (error) {
+      return json(res, 503, { error: 'Comments are temporarily unavailable' });
+    }
+  }
+
+  if (req.method === 'POST') {
+    const body = req.body || {};
+    const gameId = clean(body.game_id, 100);
+    const action = clean(body.action, 20);
+    if (!gameId || !['comment', 'vote'].includes(action)) return json(res, 400, { error: 'Invalid request' });
+
+    try {
+      if (action === 'comment') {
+        const displayName = clean(body.display_name, 40);
+        const comment = clean(body.body, 800);
+        if (displayName.length < 2 || comment.length < 2) return json(res, 400, { error: 'Name and comment are required' });
+        if (/https?:\/\//i.test(comment) || /<[^>]+>/.test(comment)) return json(res, 400, { error: 'Links and markup are not allowed' });
+        const created = await supabase('game_comments', {
+          method: 'POST', body: JSON.stringify({ game_id: gameId, display_name: displayName, body: comment })
+        });
+        return json(res, 201, { comment: Array.isArray(created) ? created[0] : created });
+      }
+
+      const visitorId = clean(body.visitor_id, 80);
+      const vote = Number(body.vote);
+      if (visitorId.length < 16 || ![-1, 1].includes(vote)) return json(res, 400, { error: 'Invalid vote' });
+      const updated = await supabase('game_votes?on_conflict=game_id,visitor_id', {
+        method: 'POST',
+        body: JSON.stringify({ game_id: gameId, visitor_id: visitorId, vote }),
+        headers: { Prefer: 'resolution=merge-duplicates,return=representation' }
+      });
+      return json(res, 200, { vote: Array.isArray(updated) ? updated[0] : updated });
+    } catch (error) {
+      return json(res, 503, { error: 'This action is temporarily unavailable' });
+    }
+  }
+
+  res.setHeader('Allow', 'GET, POST');
+  return json(res, 405, { error: 'Method not allowed' });
+};
