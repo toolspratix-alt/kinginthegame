@@ -38,7 +38,7 @@
         appendScript('https://code.jquery.com/jquery-3.7.1.min.js', 'gamemonetize-jquery', loadOfficialPlayer);
         observer.disconnect();
       }
-    }, { rootMargin: '700px 0px' });
+    }, { rootMargin: '0px' });
     observer.observe(block);
   } else {
     appendScript('https://code.jquery.com/jquery-3.7.1.min.js', 'gamemonetize-jquery', loadOfficialPlayer);
