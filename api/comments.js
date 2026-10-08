@@ -13,21 +13,25 @@ function clean(value, max) {
 async function supabase(path, options = {}) {
   const url = process.env.SUPABASE_URL;
   const key = process.env.SUPABASE_ANON_KEY;
-  if (!url || !key) throw new Error('Supabase environment is not configured');
+  if (!url || !key) throw new Error('supabase_not_configured');
   const response = await fetch(`${url.replace(/\/$/, '')}/rest/v1/${path}`, {
     ...options,
     headers: {
       apikey: key,
       Authorization: `Bearer ${key}`,
       'Content-Type': 'application/json',
-      Prefer: options.method === 'POST' || options.method === 'PATCH' ? 'return=representation' : undefined,
+      ...(options.method === 'POST' || options.method === 'PATCH' ? { Prefer: 'return=representation' } : {}),
       ...(options.headers || {})
     }
   });
   const text = await response.text();
   let data = null;
   try { data = text ? JSON.parse(text) : null; } catch { data = { raw: text }; }
-  if (!response.ok) throw new Error(data?.message || data?.hint || 'Supabase request failed');
+  if (!response.ok) {
+    const error = new Error(`supabase_http_${response.status}`);
+    error.details = data?.message || data?.hint || data?.code || 'Supabase request failed';
+    throw error;
+  }
   return data;
 }
 
@@ -46,7 +50,8 @@ module.exports = async (req, res) => {
         dislikes: Array.isArray(votes) ? votes.filter(v => v.vote === -1).length : 0
       });
     } catch (error) {
-      return json(res, 503, { error: 'Comments are temporarily unavailable' });
+      console.error('comments_get_failed', error.message, error.details || '');
+      return json(res, 503, { error: 'Comments are temporarily unavailable', code: error.message });
     }
   }
 
@@ -78,7 +83,8 @@ module.exports = async (req, res) => {
       });
       return json(res, 200, { vote: Array.isArray(updated) ? updated[0] : updated });
     } catch (error) {
-      return json(res, 503, { error: 'This action is temporarily unavailable' });
+      console.error('comments_post_failed', error.message, error.details || '');
+      return json(res, 503, { error: 'This action is temporarily unavailable', code: error.message });
     }
   }
 
