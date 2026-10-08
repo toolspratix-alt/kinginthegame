@@ -46,3 +46,19 @@
   .portal-hero{min-height:0}
   .hero-feature{content-visibility:auto;contain-intrinsic-size:290px}
 }
+
+/* Refined community block: voting stays directly below the game, comments follow. */
+.community-section{background:linear-gradient(145deg,rgba(16,22,34,.92),rgba(8,11,18,.72));border:1px solid var(--line);padding:28px clamp(18px,3vw,34px) 30px;margin-top:28px}
+.community-head{padding-bottom:22px;border-bottom:1px solid var(--line)}
+.community-head h2{font-size:clamp(28px,4vw,40px);margin-bottom:0}
+.reaction-panel{display:flex;align-items:center;justify-content:space-between;gap:18px;padding:18px 0 20px;border-bottom:1px solid var(--line)}
+.reaction-question{font:500 15px var(--display);color:var(--text)}
+.reaction-bar{display:flex;gap:8px}
+.reaction-bar button{display:flex;align-items:center;gap:8px;min-width:112px;justify-content:center;background:var(--bg);border:1px solid var(--line);color:var(--muted);padding:10px 13px;cursor:pointer;font:10px var(--mono);text-transform:uppercase;letter-spacing:.04em;transition:color .2s,border-color .2s,background .2s}
+.reaction-bar button:hover,.reaction-bar button:focus-visible{color:var(--lime);border-color:var(--lime);background:var(--surface2)}
+.reaction-bar button b{font-weight:500;color:var(--text)}.reaction-icon{font:22px var(--sans);line-height:1;color:var(--lime)}
+.comment-form{background:rgba(16,22,34,.7);border:1px solid var(--line);padding:20px;margin-top:20px}
+.comment-form-intro{display:flex;justify-content:space-between;align-items:center;gap:15px;margin-bottom:14px}.comment-form-intro strong{font:500 14px var(--display);color:var(--text)}
+.comment-form input,.comment-form textarea{background:var(--bg);border-color:rgba(238,242,247,.16)}
+.comment-form-row{margin-top:4px}.comment-list{margin-top:10px}.comment-item{background:var(--bg);border-color:rgba(238,242,247,.1)}
+@media(max-width:600px){.reaction-panel{align-items:stretch;flex-direction:column}.reaction-bar{width:100%}.reaction-bar button{flex:1;min-width:0}.comment-form-intro{align-items:start;flex-direction:column;gap:7px}}
