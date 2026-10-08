@@ -52,3 +52,9 @@ create policy "Anyone can update own vote"
 grant usage on schema public to anon, authenticated;
 grant select, insert on public.game_comments to anon, authenticated;
 grant select, insert, update on public.game_votes to anon, authenticated;
+
+drop policy if exists "Anyone can remove a vote" on public.game_votes;
+create policy "Anyone can remove a vote"
+  on public.game_votes for delete using (true);
+
+grant delete on public.game_votes to anon, authenticated;

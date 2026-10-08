@@ -41,14 +41,16 @@ module.exports = async (req, res) => {
     const gameId = clean(req.query?.game_id, 100);
     if (!gameId) return json(res, 400, { error: 'game_id is required' });
     try {
+      const visitorId = clean(req.query?.visitor_id, 80);
       const [comments, votes] = await Promise.all([
         supabase(`game_comments?game_id=eq.${encodeURIComponent(gameId)}&select=id,game_id,display_name,body,created_at&order=created_at.desc&limit=100`),
-        supabase(`game_votes?game_id=eq.${encodeURIComponent(gameId)}&select=vote`)
+        supabase(`game_votes?game_id=eq.${encodeURIComponent(gameId)}&select=vote,visitor_id`)
       ]);
       return json(res, 200, {
         comments: Array.isArray(comments) ? comments : [],
         likes: Array.isArray(votes) ? votes.filter(v => v.vote === 1).length : 0,
-        dislikes: Array.isArray(votes) ? votes.filter(v => v.vote === -1).length : 0
+        dislikes: Array.isArray(votes) ? votes.filter(v => v.vote === -1).length : 0,
+        viewerVote: visitorId && Array.isArray(votes) ? (votes.find(v => v.visitor_id === visitorId)?.vote || 0) : 0
       });
     } catch (error) {
       console.error('comments_get_failed', error.message, error.details || '');
@@ -76,7 +78,11 @@ module.exports = async (req, res) => {
 
       const visitorId = clean(body.visitor_id, 80);
       const vote = Number(body.vote);
-      if (visitorId.length < 16 || ![-1, 1].includes(vote)) return json(res, 400, { error: 'Invalid vote' });
+      if (visitorId.length < 16 || ![-1, 0, 1].includes(vote)) return json(res, 400, { error: 'Invalid vote' });
+      if (vote === 0) {
+        await supabase(`game_votes?game_id=eq.${encodeURIComponent(gameId)}&visitor_id=eq.${encodeURIComponent(visitorId)}`, { method: 'DELETE' });
+        return json(res, 200, { vote: 0 });
+      }
       const updated = await supabase('game_votes?on_conflict=game_id,visitor_id', {
         method: 'POST',
         body: JSON.stringify({ game_id: gameId, visitor_id: visitorId, vote }),
