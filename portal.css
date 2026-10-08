@@ -62,3 +62,15 @@
 .comment-form input,.comment-form textarea{background:var(--bg);border-color:rgba(238,242,247,.16)}
 .comment-form-row{margin-top:4px}.comment-list{margin-top:10px}.comment-item{background:var(--bg);border-color:rgba(238,242,247,.1)}
 @media(max-width:600px){.reaction-panel{align-items:stretch;flex-direction:column}.reaction-bar{width:100%}.reaction-bar button{flex:1;min-width:0}.comment-form-intro{align-items:start;flex-direction:column;gap:7px}}
+
+/* Final community layout correction */
+.community-section{width:min(100%,820px);overflow:hidden;border-radius:2px}
+.comment-form{display:block}
+.comment-form input,.comment-form textarea{display:block;width:100%;margin:0 0 10px;min-height:46px}
+.comment-form textarea{min-height:120px}
+.reaction-panel{background:rgba(200,241,105,.035);margin:0 -1px;padding-left:14px;padding-right:14px}
+.reaction-bar button.selected{color:var(--bg);background:var(--lime);border-color:var(--lime)}
+.reaction-bar button.selected b{color:var(--bg)}
+.reaction-icon{font-weight:700}
+.comment-form-row small{max-width:58%}
+@media(max-width:600px){.comment-form-row small{max-width:none}.community-section{padding-left:16px;padding-right:16px}.reaction-panel{padding-left:0;padding-right:0}}
