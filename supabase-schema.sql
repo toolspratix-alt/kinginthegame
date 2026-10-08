@@ -47,3 +47,8 @@ create policy "Anyone can update own vote"
   on public.game_votes for update using (true) with check (true);
 
 -- The Vercel API validates and constrains public input before forwarding it.
+
+-- Required grants for the public anon key used by the Vercel API.
+grant usage on schema public to anon, authenticated;
+grant select, insert on public.game_comments to anon, authenticated;
+grant select, insert, update on public.game_votes to anon, authenticated;
