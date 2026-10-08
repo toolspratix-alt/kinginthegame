@@ -27,3 +27,11 @@
 .portal-brand{gap:14px}
 .portal-brand img{width:58px;height:58px;object-fit:cover;border-radius:10px;box-shadow:0 0 24px rgba(44,196,255,.22)}
 @media(max-width:520px){.portal-header{min-height:84px;height:auto}.portal-brand img{width:54px;height:54px}}
+
+.walkthrough-section{max-width:820px;margin:42px 0 0;padding:26px 0 0;border-top:1px solid var(--line)}
+.walkthrough-section h2{font:600 30px var(--display);margin:0 0 8px}
+.walkthrough-lead{color:var(--muted);line-height:1.7;margin:0 0 18px}
+.walkthrough-frame{width:100%;min-height:270px;background:#05070d;border:1px solid var(--line);display:grid;place-items:center;overflow:hidden}
+.walkthrough-frame #gamemonetize-video{width:100%;min-height:270px}
+.walkthrough-status{color:var(--muted);font:10px var(--mono);letter-spacing:.08em;text-transform:uppercase;padding:24px;text-align:center}
+.walkthrough-section.walkthrough-unavailable .walkthrough-frame{min-height:90px}
