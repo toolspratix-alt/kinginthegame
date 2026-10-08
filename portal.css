@@ -35,3 +35,6 @@
 .walkthrough-frame #gamemonetize-video{width:100%;min-height:270px}
 .walkthrough-status{color:var(--muted);font:10px var(--mono);letter-spacing:.08em;text-transform:uppercase;padding:24px;text-align:center}
 .walkthrough-section.walkthrough-unavailable .walkthrough-frame{min-height:90px}
+
+/* Stable media boxes prevent layout shift while third-party content loads. */
+.walkthrough-frame{aspect-ratio:16/9;min-height:0}.walkthrough-frame #gamemonetize-video{height:100%;min-height:0}
