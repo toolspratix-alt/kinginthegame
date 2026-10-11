@@ -119,6 +119,566 @@
     {
       "path": "/action-shooter-games.html",
       "title": "King in the Game — Focused Collections"
+    },
+    {
+      "path": "/ru/",
+      "title": "PvP, стратегия и гоночные игры в браузере | King in the Game — Русский"
+    },
+    {
+      "path": "/ru/games/monster-truck-off-road-2.html",
+      "title": "Monster Truck Off Road 2 — Русский"
+    },
+    {
+      "path": "/ru/games/urban-military-strike.html",
+      "title": "Urban Military Strike — Русский"
+    },
+    {
+      "path": "/ru/games/dead-zone-sniper.html",
+      "title": "Dead Zone Sniper — Русский"
+    },
+    {
+      "path": "/ru/games/rocket-clash-3d.html",
+      "title": "Rocket Clash 3D — Русский"
+    },
+    {
+      "path": "/ru/games/subway-clash-3d.html",
+      "title": "Subway Clash 3D — Русский"
+    },
+    {
+      "path": "/ru/games/subway-clash-2.html",
+      "title": "Subway Clash 2 — Русский"
+    },
+    {
+      "path": "/ru/games/zombie-clash-3d.html",
+      "title": "Zombie Clash 3D — Русский"
+    },
+    {
+      "path": "/ru/games/ninja-clash-heroes.html",
+      "title": "Ninja Clash Heroes — Русский"
+    },
+    {
+      "path": "/ru/games/alien-quarantine.html",
+      "title": "Alien Quarantine — Русский"
+    },
+    {
+      "path": "/ru/games/realistic-tanks-poopy-war.html",
+      "title": "Realistic Tanks Poopy War — Русский"
+    },
+    {
+      "path": "/ru/games/armour-clash.html",
+      "title": "Armour Clash — Русский"
+    },
+    {
+      "path": "/ru/games/woms-world-of-master-survivors.html",
+      "title": "WOMS World of Master Survivors — Русский"
+    },
+    {
+      "path": "/ru/games/fort-clash-survival.html",
+      "title": "Fort Clash Survival — Русский"
+    },
+    {
+      "path": "/ru/games/battle-of-orcs.html",
+      "title": "Battle of Orcs — Русский"
+    },
+    {
+      "path": "/ru/games/battle-tung-tung-sahur-2player-game.html",
+      "title": "Battle Tung Tung Sahur 2Player — Русский"
+    },
+    {
+      "path": "/ru/games/collect-brainrot-arena-game.html",
+      "title": "Collect Brainrot Arena — Русский"
+    },
+    {
+      "path": "/ru/games/mobile-legends-slime-3v3-game.html",
+      "title": "Mobile Legends Slime 3v3 — Русский"
+    },
+    {
+      "path": "/ru/games/shooter-zombie-survival-game.html",
+      "title": "Shooter Zombie Survival — Русский"
+    },
+    {
+      "path": "/ru/games/elemental-barrage-game.html",
+      "title": "Elemental Barrage — Русский"
+    },
+    {
+      "path": "/ru/games/gift-of-alchemy-game.html",
+      "title": "Gift Of Alchemy — Русский"
+    },
+    {
+      "path": "/ru/games/among-dungeon-game.html",
+      "title": "Among Dungeon — Русский"
+    },
+    {
+      "path": "/ru/games/ramp-truck-mayhem-game.html",
+      "title": "Ramp Truck Mayhem — Русский"
+    },
+    {
+      "path": "/ru/games/animal-racing-2-game.html",
+      "title": "Animal Racing 2 — Русский"
+    },
+    {
+      "path": "/ru/games/snow-plow-jeep-simulator-game.html",
+      "title": "Snow Plow Jeep Simulator — Русский"
+    },
+    {
+      "path": "/ru/games/winter-monster-trucks-race-game.html",
+      "title": "Winter Monster Trucks Race — Русский"
+    },
+    {
+      "path": "/ru/games/last-garage-zombie-road-game.html",
+      "title": "Last Garage: Zombie Road — Русский"
+    },
+    {
+      "path": "/ru/games/online-kitpvp-50vs50-game.html",
+      "title": "Online KitPvP: 50vs50 — Русский"
+    },
+    {
+      "path": "/id/",
+      "title": "Game Browser PvP, Strategi, dan Balap | King in the Game — Bahasa Indonesia"
+    },
+    {
+      "path": "/id/games/monster-truck-off-road-2.html",
+      "title": "Monster Truck Off Road 2 — Bahasa Indonesia"
+    },
+    {
+      "path": "/id/games/urban-military-strike.html",
+      "title": "Urban Military Strike — Bahasa Indonesia"
+    },
+    {
+      "path": "/id/games/dead-zone-sniper.html",
+      "title": "Dead Zone Sniper — Bahasa Indonesia"
+    },
+    {
+      "path": "/id/games/rocket-clash-3d.html",
+      "title": "Rocket Clash 3D — Bahasa Indonesia"
+    },
+    {
+      "path": "/id/games/subway-clash-3d.html",
+      "title": "Subway Clash 3D — Bahasa Indonesia"
+    },
+    {
+      "path": "/id/games/subway-clash-2.html",
+      "title": "Subway Clash 2 — Bahasa Indonesia"
+    },
+    {
+      "path": "/id/games/zombie-clash-3d.html",
+      "title": "Zombie Clash 3D — Bahasa Indonesia"
+    },
+    {
+      "path": "/id/games/ninja-clash-heroes.html",
+      "title": "Ninja Clash Heroes — Bahasa Indonesia"
+    },
+    {
+      "path": "/id/games/alien-quarantine.html",
+      "title": "Alien Quarantine — Bahasa Indonesia"
+    },
+    {
+      "path": "/id/games/realistic-tanks-poopy-war.html",
+      "title": "Realistic Tanks Poopy War — Bahasa Indonesia"
+    },
+    {
+      "path": "/id/games/armour-clash.html",
+      "title": "Armour Clash — Bahasa Indonesia"
+    },
+    {
+      "path": "/id/games/woms-world-of-master-survivors.html",
+      "title": "WOMS World of Master Survivors — Bahasa Indonesia"
+    },
+    {
+      "path": "/id/games/fort-clash-survival.html",
+      "title": "Fort Clash Survival — Bahasa Indonesia"
+    },
+    {
+      "path": "/id/games/battle-of-orcs.html",
+      "title": "Battle of Orcs — Bahasa Indonesia"
+    },
+    {
+      "path": "/id/games/battle-tung-tung-sahur-2player-game.html",
+      "title": "Battle Tung Tung Sahur 2Player — Bahasa Indonesia"
+    },
+    {
+      "path": "/id/games/collect-brainrot-arena-game.html",
+      "title": "Collect Brainrot Arena — Bahasa Indonesia"
+    },
+    {
+      "path": "/id/games/mobile-legends-slime-3v3-game.html",
+      "title": "Mobile Legends Slime 3v3 — Bahasa Indonesia"
+    },
+    {
+      "path": "/id/games/shooter-zombie-survival-game.html",
+      "title": "Shooter Zombie Survival — Bahasa Indonesia"
+    },
+    {
+      "path": "/id/games/elemental-barrage-game.html",
+      "title": "Elemental Barrage — Bahasa Indonesia"
+    },
+    {
+      "path": "/id/games/gift-of-alchemy-game.html",
+      "title": "Gift Of Alchemy — Bahasa Indonesia"
+    },
+    {
+      "path": "/id/games/among-dungeon-game.html",
+      "title": "Among Dungeon — Bahasa Indonesia"
+    },
+    {
+      "path": "/id/games/ramp-truck-mayhem-game.html",
+      "title": "Ramp Truck Mayhem — Bahasa Indonesia"
+    },
+    {
+      "path": "/id/games/animal-racing-2-game.html",
+      "title": "Animal Racing 2 — Bahasa Indonesia"
+    },
+    {
+      "path": "/id/games/snow-plow-jeep-simulator-game.html",
+      "title": "Snow Plow Jeep Simulator — Bahasa Indonesia"
+    },
+    {
+      "path": "/id/games/winter-monster-trucks-race-game.html",
+      "title": "Winter Monster Trucks Race — Bahasa Indonesia"
+    },
+    {
+      "path": "/id/games/last-garage-zombie-road-game.html",
+      "title": "Last Garage: Zombie Road — Bahasa Indonesia"
+    },
+    {
+      "path": "/id/games/online-kitpvp-50vs50-game.html",
+      "title": "Online KitPvP: 50vs50 — Bahasa Indonesia"
+    },
+    {
+      "path": "/vi/",
+      "title": "Game Trình Duyệt PvP, Chiến Thuật và Đua Xe | King in the Game — Tiếng Việt"
+    },
+    {
+      "path": "/vi/games/monster-truck-off-road-2.html",
+      "title": "Monster Truck Off Road 2 — Tiếng Việt"
+    },
+    {
+      "path": "/vi/games/urban-military-strike.html",
+      "title": "Urban Military Strike — Tiếng Việt"
+    },
+    {
+      "path": "/vi/games/dead-zone-sniper.html",
+      "title": "Dead Zone Sniper — Tiếng Việt"
+    },
+    {
+      "path": "/vi/games/rocket-clash-3d.html",
+      "title": "Rocket Clash 3D — Tiếng Việt"
+    },
+    {
+      "path": "/vi/games/subway-clash-3d.html",
+      "title": "Subway Clash 3D — Tiếng Việt"
+    },
+    {
+      "path": "/vi/games/subway-clash-2.html",
+      "title": "Subway Clash 2 — Tiếng Việt"
+    },
+    {
+      "path": "/vi/games/zombie-clash-3d.html",
+      "title": "Zombie Clash 3D — Tiếng Việt"
+    },
+    {
+      "path": "/vi/games/ninja-clash-heroes.html",
+      "title": "Ninja Clash Heroes — Tiếng Việt"
+    },
+    {
+      "path": "/vi/games/alien-quarantine.html",
+      "title": "Alien Quarantine — Tiếng Việt"
+    },
+    {
+      "path": "/vi/games/realistic-tanks-poopy-war.html",
+      "title": "Realistic Tanks Poopy War — Tiếng Việt"
+    },
+    {
+      "path": "/vi/games/armour-clash.html",
+      "title": "Armour Clash — Tiếng Việt"
+    },
+    {
+      "path": "/vi/games/woms-world-of-master-survivors.html",
+      "title": "WOMS World of Master Survivors — Tiếng Việt"
+    },
+    {
+      "path": "/vi/games/fort-clash-survival.html",
+      "title": "Fort Clash Survival — Tiếng Việt"
+    },
+    {
+      "path": "/vi/games/battle-of-orcs.html",
+      "title": "Battle of Orcs — Tiếng Việt"
+    },
+    {
+      "path": "/vi/games/battle-tung-tung-sahur-2player-game.html",
+      "title": "Battle Tung Tung Sahur 2Player — Tiếng Việt"
+    },
+    {
+      "path": "/vi/games/collect-brainrot-arena-game.html",
+      "title": "Collect Brainrot Arena — Tiếng Việt"
+    },
+    {
+      "path": "/vi/games/mobile-legends-slime-3v3-game.html",
+      "title": "Mobile Legends Slime 3v3 — Tiếng Việt"
+    },
+    {
+      "path": "/vi/games/shooter-zombie-survival-game.html",
+      "title": "Shooter Zombie Survival — Tiếng Việt"
+    },
+    {
+      "path": "/vi/games/elemental-barrage-game.html",
+      "title": "Elemental Barrage — Tiếng Việt"
+    },
+    {
+      "path": "/vi/games/gift-of-alchemy-game.html",
+      "title": "Gift Of Alchemy — Tiếng Việt"
+    },
+    {
+      "path": "/vi/games/among-dungeon-game.html",
+      "title": "Among Dungeon — Tiếng Việt"
+    },
+    {
+      "path": "/vi/games/ramp-truck-mayhem-game.html",
+      "title": "Ramp Truck Mayhem — Tiếng Việt"
+    },
+    {
+      "path": "/vi/games/animal-racing-2-game.html",
+      "title": "Animal Racing 2 — Tiếng Việt"
+    },
+    {
+      "path": "/vi/games/snow-plow-jeep-simulator-game.html",
+      "title": "Snow Plow Jeep Simulator — Tiếng Việt"
+    },
+    {
+      "path": "/vi/games/winter-monster-trucks-race-game.html",
+      "title": "Winter Monster Trucks Race — Tiếng Việt"
+    },
+    {
+      "path": "/vi/games/last-garage-zombie-road-game.html",
+      "title": "Last Garage: Zombie Road — Tiếng Việt"
+    },
+    {
+      "path": "/vi/games/online-kitpvp-50vs50-game.html",
+      "title": "Online KitPvP: 50vs50 — Tiếng Việt"
+    },
+    {
+      "path": "/th/",
+      "title": "เกมเบราว์เซอร์ PvP กลยุทธ์ และแข่งรถ | King in the Game — ไทย"
+    },
+    {
+      "path": "/th/games/monster-truck-off-road-2.html",
+      "title": "Monster Truck Off Road 2 — ไทย"
+    },
+    {
+      "path": "/th/games/urban-military-strike.html",
+      "title": "Urban Military Strike — ไทย"
+    },
+    {
+      "path": "/th/games/dead-zone-sniper.html",
+      "title": "Dead Zone Sniper — ไทย"
+    },
+    {
+      "path": "/th/games/rocket-clash-3d.html",
+      "title": "Rocket Clash 3D — ไทย"
+    },
+    {
+      "path": "/th/games/subway-clash-3d.html",
+      "title": "Subway Clash 3D — ไทย"
+    },
+    {
+      "path": "/th/games/subway-clash-2.html",
+      "title": "Subway Clash 2 — ไทย"
+    },
+    {
+      "path": "/th/games/zombie-clash-3d.html",
+      "title": "Zombie Clash 3D — ไทย"
+    },
+    {
+      "path": "/th/games/ninja-clash-heroes.html",
+      "title": "Ninja Clash Heroes — ไทย"
+    },
+    {
+      "path": "/th/games/alien-quarantine.html",
+      "title": "Alien Quarantine — ไทย"
+    },
+    {
+      "path": "/th/games/realistic-tanks-poopy-war.html",
+      "title": "Realistic Tanks Poopy War — ไทย"
+    },
+    {
+      "path": "/th/games/armour-clash.html",
+      "title": "Armour Clash — ไทย"
+    },
+    {
+      "path": "/th/games/woms-world-of-master-survivors.html",
+      "title": "WOMS World of Master Survivors — ไทย"
+    },
+    {
+      "path": "/th/games/fort-clash-survival.html",
+      "title": "Fort Clash Survival — ไทย"
+    },
+    {
+      "path": "/th/games/battle-of-orcs.html",
+      "title": "Battle of Orcs — ไทย"
+    },
+    {
+      "path": "/th/games/battle-tung-tung-sahur-2player-game.html",
+      "title": "Battle Tung Tung Sahur 2Player — ไทย"
+    },
+    {
+      "path": "/th/games/collect-brainrot-arena-game.html",
+      "title": "Collect Brainrot Arena — ไทย"
+    },
+    {
+      "path": "/th/games/mobile-legends-slime-3v3-game.html",
+      "title": "Mobile Legends Slime 3v3 — ไทย"
+    },
+    {
+      "path": "/th/games/shooter-zombie-survival-game.html",
+      "title": "Shooter Zombie Survival — ไทย"
+    },
+    {
+      "path": "/th/games/elemental-barrage-game.html",
+      "title": "Elemental Barrage — ไทย"
+    },
+    {
+      "path": "/th/games/gift-of-alchemy-game.html",
+      "title": "Gift Of Alchemy — ไทย"
+    },
+    {
+      "path": "/th/games/among-dungeon-game.html",
+      "title": "Among Dungeon — ไทย"
+    },
+    {
+      "path": "/th/games/ramp-truck-mayhem-game.html",
+      "title": "Ramp Truck Mayhem — ไทย"
+    },
+    {
+      "path": "/th/games/animal-racing-2-game.html",
+      "title": "Animal Racing 2 — ไทย"
+    },
+    {
+      "path": "/th/games/snow-plow-jeep-simulator-game.html",
+      "title": "Snow Plow Jeep Simulator — ไทย"
+    },
+    {
+      "path": "/th/games/winter-monster-trucks-race-game.html",
+      "title": "Winter Monster Trucks Race — ไทย"
+    },
+    {
+      "path": "/th/games/last-garage-zombie-road-game.html",
+      "title": "Last Garage: Zombie Road — ไทย"
+    },
+    {
+      "path": "/th/games/online-kitpvp-50vs50-game.html",
+      "title": "Online KitPvP: 50vs50 — ไทย"
+    },
+    {
+      "path": "/hi/",
+      "title": "PvP, रणनीति और रेसिंग ब्राउज़र गेम्स | King in the Game — हिन्दी"
+    },
+    {
+      "path": "/hi/games/monster-truck-off-road-2.html",
+      "title": "Monster Truck Off Road 2 — हिन्दी"
+    },
+    {
+      "path": "/hi/games/urban-military-strike.html",
+      "title": "Urban Military Strike — हिन्दी"
+    },
+    {
+      "path": "/hi/games/dead-zone-sniper.html",
+      "title": "Dead Zone Sniper — हिन्दी"
+    },
+    {
+      "path": "/hi/games/rocket-clash-3d.html",
+      "title": "Rocket Clash 3D — हिन्दी"
+    },
+    {
+      "path": "/hi/games/subway-clash-3d.html",
+      "title": "Subway Clash 3D — हिन्दी"
+    },
+    {
+      "path": "/hi/games/subway-clash-2.html",
+      "title": "Subway Clash 2 — हिन्दी"
+    },
+    {
+      "path": "/hi/games/zombie-clash-3d.html",
+      "title": "Zombie Clash 3D — हिन्दी"
+    },
+    {
+      "path": "/hi/games/ninja-clash-heroes.html",
+      "title": "Ninja Clash Heroes — हिन्दी"
+    },
+    {
+      "path": "/hi/games/alien-quarantine.html",
+      "title": "Alien Quarantine — हिन्दी"
+    },
+    {
+      "path": "/hi/games/realistic-tanks-poopy-war.html",
+      "title": "Realistic Tanks Poopy War — हिन्दी"
+    },
+    {
+      "path": "/hi/games/armour-clash.html",
+      "title": "Armour Clash — हिन्दी"
+    },
+    {
+      "path": "/hi/games/woms-world-of-master-survivors.html",
+      "title": "WOMS World of Master Survivors — हिन्दी"
+    },
+    {
+      "path": "/hi/games/fort-clash-survival.html",
+      "title": "Fort Clash Survival — हिन्दी"
+    },
+    {
+      "path": "/hi/games/battle-of-orcs.html",
+      "title": "Battle of Orcs — हिन्दी"
+    },
+    {
+      "path": "/hi/games/battle-tung-tung-sahur-2player-game.html",
+      "title": "Battle Tung Tung Sahur 2Player — हिन्दी"
+    },
+    {
+      "path": "/hi/games/collect-brainrot-arena-game.html",
+      "title": "Collect Brainrot Arena — हिन्दी"
+    },
+    {
+      "path": "/hi/games/mobile-legends-slime-3v3-game.html",
+      "title": "Mobile Legends Slime 3v3 — हिन्दी"
+    },
+    {
+      "path": "/hi/games/shooter-zombie-survival-game.html",
+      "title": "Shooter Zombie Survival — हिन्दी"
+    },
+    {
+      "path": "/hi/games/elemental-barrage-game.html",
+      "title": "Elemental Barrage — हिन्दी"
+    },
+    {
+      "path": "/hi/games/gift-of-alchemy-game.html",
+      "title": "Gift Of Alchemy — हिन्दी"
+    },
+    {
+      "path": "/hi/games/among-dungeon-game.html",
+      "title": "Among Dungeon — हिन्दी"
+    },
+    {
+      "path": "/hi/games/ramp-truck-mayhem-game.html",
+      "title": "Ramp Truck Mayhem — हिन्दी"
+    },
+    {
+      "path": "/hi/games/animal-racing-2-game.html",
+      "title": "Animal Racing 2 — हिन्दी"
+    },
+    {
+      "path": "/hi/games/snow-plow-jeep-simulator-game.html",
+      "title": "Snow Plow Jeep Simulator — हिन्दी"
+    },
+    {
+      "path": "/hi/games/winter-monster-trucks-race-game.html",
+      "title": "Winter Monster Trucks Race — हिन्दी"
+    },
+    {
+      "path": "/hi/games/last-garage-zombie-road-game.html",
+      "title": "Last Garage: Zombie Road — हिन्दी"
+    },
+    {
+      "path": "/hi/games/online-kitpvp-50vs50-game.html",
+      "title": "Online KitPvP: 50vs50 — हिन्दी"
     }
   ]
 }
