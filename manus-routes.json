@@ -679,6 +679,486 @@
     {
       "path": "/hi/games/online-kitpvp-50vs50-game.html",
       "title": "Online KitPvP: 50vs50 — हिन्दी"
+    },
+    {
+      "path": "/tr/games/online-kitpvp-50vs50-game.html",
+      "title": "online-kitpvp-50vs50-game — tr"
+    },
+    {
+      "path": "/tr/games/battle-of-orcs.html",
+      "title": "battle-of-orcs — tr"
+    },
+    {
+      "path": "/tr/games/mobile-legends-slime-3v3-game.html",
+      "title": "mobile-legends-slime-3v3-game — tr"
+    },
+    {
+      "path": "/tr/games/rocket-clash-3d.html",
+      "title": "rocket-clash-3d — tr"
+    },
+    {
+      "path": "/tr/games/woms-world-of-master-survivors.html",
+      "title": "woms-world-of-master-survivors — tr"
+    },
+    {
+      "path": "/tr/games/fort-clash-survival.html",
+      "title": "fort-clash-survival — tr"
+    },
+    {
+      "path": "/tr/games/monster-truck-off-road-2.html",
+      "title": "monster-truck-off-road-2 — tr"
+    },
+    {
+      "path": "/tr/games/ramp-truck-mayhem-game.html",
+      "title": "ramp-truck-mayhem-game — tr"
+    },
+    {
+      "path": "/tr/games/animal-racing-2-game.html",
+      "title": "animal-racing-2-game — tr"
+    },
+    {
+      "path": "/tr/games/last-garage-zombie-road-game.html",
+      "title": "last-garage-zombie-road-game — tr"
+    },
+    {
+      "path": "/de/games/online-kitpvp-50vs50-game.html",
+      "title": "online-kitpvp-50vs50-game — de"
+    },
+    {
+      "path": "/de/games/battle-of-orcs.html",
+      "title": "battle-of-orcs — de"
+    },
+    {
+      "path": "/de/games/mobile-legends-slime-3v3-game.html",
+      "title": "mobile-legends-slime-3v3-game — de"
+    },
+    {
+      "path": "/de/games/rocket-clash-3d.html",
+      "title": "rocket-clash-3d — de"
+    },
+    {
+      "path": "/de/games/woms-world-of-master-survivors.html",
+      "title": "woms-world-of-master-survivors — de"
+    },
+    {
+      "path": "/de/games/fort-clash-survival.html",
+      "title": "fort-clash-survival — de"
+    },
+    {
+      "path": "/de/games/monster-truck-off-road-2.html",
+      "title": "monster-truck-off-road-2 — de"
+    },
+    {
+      "path": "/de/games/ramp-truck-mayhem-game.html",
+      "title": "ramp-truck-mayhem-game — de"
+    },
+    {
+      "path": "/de/games/animal-racing-2-game.html",
+      "title": "animal-racing-2-game — de"
+    },
+    {
+      "path": "/de/games/last-garage-zombie-road-game.html",
+      "title": "last-garage-zombie-road-game — de"
+    },
+    {
+      "path": "/es/games/online-kitpvp-50vs50-game.html",
+      "title": "online-kitpvp-50vs50-game — es"
+    },
+    {
+      "path": "/es/games/battle-of-orcs.html",
+      "title": "battle-of-orcs — es"
+    },
+    {
+      "path": "/es/games/mobile-legends-slime-3v3-game.html",
+      "title": "mobile-legends-slime-3v3-game — es"
+    },
+    {
+      "path": "/es/games/rocket-clash-3d.html",
+      "title": "rocket-clash-3d — es"
+    },
+    {
+      "path": "/es/games/woms-world-of-master-survivors.html",
+      "title": "woms-world-of-master-survivors — es"
+    },
+    {
+      "path": "/es/games/fort-clash-survival.html",
+      "title": "fort-clash-survival — es"
+    },
+    {
+      "path": "/es/games/monster-truck-off-road-2.html",
+      "title": "monster-truck-off-road-2 — es"
+    },
+    {
+      "path": "/es/games/ramp-truck-mayhem-game.html",
+      "title": "ramp-truck-mayhem-game — es"
+    },
+    {
+      "path": "/es/games/animal-racing-2-game.html",
+      "title": "animal-racing-2-game — es"
+    },
+    {
+      "path": "/es/games/last-garage-zombie-road-game.html",
+      "title": "last-garage-zombie-road-game — es"
+    },
+    {
+      "path": "/fr/games/online-kitpvp-50vs50-game.html",
+      "title": "online-kitpvp-50vs50-game — fr"
+    },
+    {
+      "path": "/fr/games/battle-of-orcs.html",
+      "title": "battle-of-orcs — fr"
+    },
+    {
+      "path": "/fr/games/mobile-legends-slime-3v3-game.html",
+      "title": "mobile-legends-slime-3v3-game — fr"
+    },
+    {
+      "path": "/fr/games/rocket-clash-3d.html",
+      "title": "rocket-clash-3d — fr"
+    },
+    {
+      "path": "/fr/games/woms-world-of-master-survivors.html",
+      "title": "woms-world-of-master-survivors — fr"
+    },
+    {
+      "path": "/fr/games/fort-clash-survival.html",
+      "title": "fort-clash-survival — fr"
+    },
+    {
+      "path": "/fr/games/monster-truck-off-road-2.html",
+      "title": "monster-truck-off-road-2 — fr"
+    },
+    {
+      "path": "/fr/games/ramp-truck-mayhem-game.html",
+      "title": "ramp-truck-mayhem-game — fr"
+    },
+    {
+      "path": "/fr/games/animal-racing-2-game.html",
+      "title": "animal-racing-2-game — fr"
+    },
+    {
+      "path": "/fr/games/last-garage-zombie-road-game.html",
+      "title": "last-garage-zombie-road-game — fr"
+    },
+    {
+      "path": "/it/games/online-kitpvp-50vs50-game.html",
+      "title": "online-kitpvp-50vs50-game — it"
+    },
+    {
+      "path": "/it/games/battle-of-orcs.html",
+      "title": "battle-of-orcs — it"
+    },
+    {
+      "path": "/it/games/mobile-legends-slime-3v3-game.html",
+      "title": "mobile-legends-slime-3v3-game — it"
+    },
+    {
+      "path": "/it/games/rocket-clash-3d.html",
+      "title": "rocket-clash-3d — it"
+    },
+    {
+      "path": "/it/games/woms-world-of-master-survivors.html",
+      "title": "woms-world-of-master-survivors — it"
+    },
+    {
+      "path": "/it/games/fort-clash-survival.html",
+      "title": "fort-clash-survival — it"
+    },
+    {
+      "path": "/it/games/monster-truck-off-road-2.html",
+      "title": "monster-truck-off-road-2 — it"
+    },
+    {
+      "path": "/it/games/ramp-truck-mayhem-game.html",
+      "title": "ramp-truck-mayhem-game — it"
+    },
+    {
+      "path": "/it/games/animal-racing-2-game.html",
+      "title": "animal-racing-2-game — it"
+    },
+    {
+      "path": "/it/games/last-garage-zombie-road-game.html",
+      "title": "last-garage-zombie-road-game — it"
+    },
+    {
+      "path": "/pt/games/online-kitpvp-50vs50-game.html",
+      "title": "online-kitpvp-50vs50-game — pt"
+    },
+    {
+      "path": "/pt/games/battle-of-orcs.html",
+      "title": "battle-of-orcs — pt"
+    },
+    {
+      "path": "/pt/games/mobile-legends-slime-3v3-game.html",
+      "title": "mobile-legends-slime-3v3-game — pt"
+    },
+    {
+      "path": "/pt/games/rocket-clash-3d.html",
+      "title": "rocket-clash-3d — pt"
+    },
+    {
+      "path": "/pt/games/woms-world-of-master-survivors.html",
+      "title": "woms-world-of-master-survivors — pt"
+    },
+    {
+      "path": "/pt/games/fort-clash-survival.html",
+      "title": "fort-clash-survival — pt"
+    },
+    {
+      "path": "/pt/games/monster-truck-off-road-2.html",
+      "title": "monster-truck-off-road-2 — pt"
+    },
+    {
+      "path": "/pt/games/ramp-truck-mayhem-game.html",
+      "title": "ramp-truck-mayhem-game — pt"
+    },
+    {
+      "path": "/pt/games/animal-racing-2-game.html",
+      "title": "animal-racing-2-game — pt"
+    },
+    {
+      "path": "/pt/games/last-garage-zombie-road-game.html",
+      "title": "last-garage-zombie-road-game — pt"
+    },
+    {
+      "path": "/pl/games/online-kitpvp-50vs50-game.html",
+      "title": "online-kitpvp-50vs50-game — pl"
+    },
+    {
+      "path": "/pl/games/battle-of-orcs.html",
+      "title": "battle-of-orcs — pl"
+    },
+    {
+      "path": "/pl/games/mobile-legends-slime-3v3-game.html",
+      "title": "mobile-legends-slime-3v3-game — pl"
+    },
+    {
+      "path": "/pl/games/rocket-clash-3d.html",
+      "title": "rocket-clash-3d — pl"
+    },
+    {
+      "path": "/pl/games/woms-world-of-master-survivors.html",
+      "title": "woms-world-of-master-survivors — pl"
+    },
+    {
+      "path": "/pl/games/fort-clash-survival.html",
+      "title": "fort-clash-survival — pl"
+    },
+    {
+      "path": "/pl/games/monster-truck-off-road-2.html",
+      "title": "monster-truck-off-road-2 — pl"
+    },
+    {
+      "path": "/pl/games/ramp-truck-mayhem-game.html",
+      "title": "ramp-truck-mayhem-game — pl"
+    },
+    {
+      "path": "/pl/games/animal-racing-2-game.html",
+      "title": "animal-racing-2-game — pl"
+    },
+    {
+      "path": "/pl/games/last-garage-zombie-road-game.html",
+      "title": "last-garage-zombie-road-game — pl"
+    },
+    {
+      "path": "/nl/games/online-kitpvp-50vs50-game.html",
+      "title": "online-kitpvp-50vs50-game — nl"
+    },
+    {
+      "path": "/nl/games/battle-of-orcs.html",
+      "title": "battle-of-orcs — nl"
+    },
+    {
+      "path": "/nl/games/mobile-legends-slime-3v3-game.html",
+      "title": "mobile-legends-slime-3v3-game — nl"
+    },
+    {
+      "path": "/nl/games/rocket-clash-3d.html",
+      "title": "rocket-clash-3d — nl"
+    },
+    {
+      "path": "/nl/games/woms-world-of-master-survivors.html",
+      "title": "woms-world-of-master-survivors — nl"
+    },
+    {
+      "path": "/nl/games/fort-clash-survival.html",
+      "title": "fort-clash-survival — nl"
+    },
+    {
+      "path": "/nl/games/monster-truck-off-road-2.html",
+      "title": "monster-truck-off-road-2 — nl"
+    },
+    {
+      "path": "/nl/games/ramp-truck-mayhem-game.html",
+      "title": "ramp-truck-mayhem-game — nl"
+    },
+    {
+      "path": "/nl/games/animal-racing-2-game.html",
+      "title": "animal-racing-2-game — nl"
+    },
+    {
+      "path": "/nl/games/last-garage-zombie-road-game.html",
+      "title": "last-garage-zombie-road-game — nl"
+    },
+    {
+      "path": "/ja/games/online-kitpvp-50vs50-game.html",
+      "title": "online-kitpvp-50vs50-game — ja"
+    },
+    {
+      "path": "/ja/games/battle-of-orcs.html",
+      "title": "battle-of-orcs — ja"
+    },
+    {
+      "path": "/ja/games/mobile-legends-slime-3v3-game.html",
+      "title": "mobile-legends-slime-3v3-game — ja"
+    },
+    {
+      "path": "/ja/games/rocket-clash-3d.html",
+      "title": "rocket-clash-3d — ja"
+    },
+    {
+      "path": "/ja/games/woms-world-of-master-survivors.html",
+      "title": "woms-world-of-master-survivors — ja"
+    },
+    {
+      "path": "/ja/games/fort-clash-survival.html",
+      "title": "fort-clash-survival — ja"
+    },
+    {
+      "path": "/ja/games/monster-truck-off-road-2.html",
+      "title": "monster-truck-off-road-2 — ja"
+    },
+    {
+      "path": "/ja/games/ramp-truck-mayhem-game.html",
+      "title": "ramp-truck-mayhem-game — ja"
+    },
+    {
+      "path": "/ja/games/animal-racing-2-game.html",
+      "title": "animal-racing-2-game — ja"
+    },
+    {
+      "path": "/ja/games/last-garage-zombie-road-game.html",
+      "title": "last-garage-zombie-road-game — ja"
+    },
+    {
+      "path": "/ko/games/online-kitpvp-50vs50-game.html",
+      "title": "online-kitpvp-50vs50-game — ko"
+    },
+    {
+      "path": "/ko/games/battle-of-orcs.html",
+      "title": "battle-of-orcs — ko"
+    },
+    {
+      "path": "/ko/games/mobile-legends-slime-3v3-game.html",
+      "title": "mobile-legends-slime-3v3-game — ko"
+    },
+    {
+      "path": "/ko/games/rocket-clash-3d.html",
+      "title": "rocket-clash-3d — ko"
+    },
+    {
+      "path": "/ko/games/woms-world-of-master-survivors.html",
+      "title": "woms-world-of-master-survivors — ko"
+    },
+    {
+      "path": "/ko/games/fort-clash-survival.html",
+      "title": "fort-clash-survival — ko"
+    },
+    {
+      "path": "/ko/games/monster-truck-off-road-2.html",
+      "title": "monster-truck-off-road-2 — ko"
+    },
+    {
+      "path": "/ko/games/ramp-truck-mayhem-game.html",
+      "title": "ramp-truck-mayhem-game — ko"
+    },
+    {
+      "path": "/ko/games/animal-racing-2-game.html",
+      "title": "animal-racing-2-game — ko"
+    },
+    {
+      "path": "/ko/games/last-garage-zombie-road-game.html",
+      "title": "last-garage-zombie-road-game — ko"
+    },
+    {
+      "path": "/zh/games/online-kitpvp-50vs50-game.html",
+      "title": "online-kitpvp-50vs50-game — zh"
+    },
+    {
+      "path": "/zh/games/battle-of-orcs.html",
+      "title": "battle-of-orcs — zh"
+    },
+    {
+      "path": "/zh/games/mobile-legends-slime-3v3-game.html",
+      "title": "mobile-legends-slime-3v3-game — zh"
+    },
+    {
+      "path": "/zh/games/rocket-clash-3d.html",
+      "title": "rocket-clash-3d — zh"
+    },
+    {
+      "path": "/zh/games/woms-world-of-master-survivors.html",
+      "title": "woms-world-of-master-survivors — zh"
+    },
+    {
+      "path": "/zh/games/fort-clash-survival.html",
+      "title": "fort-clash-survival — zh"
+    },
+    {
+      "path": "/zh/games/monster-truck-off-road-2.html",
+      "title": "monster-truck-off-road-2 — zh"
+    },
+    {
+      "path": "/zh/games/ramp-truck-mayhem-game.html",
+      "title": "ramp-truck-mayhem-game — zh"
+    },
+    {
+      "path": "/zh/games/animal-racing-2-game.html",
+      "title": "animal-racing-2-game — zh"
+    },
+    {
+      "path": "/zh/games/last-garage-zombie-road-game.html",
+      "title": "last-garage-zombie-road-game — zh"
+    },
+    {
+      "path": "/ar/games/online-kitpvp-50vs50-game.html",
+      "title": "online-kitpvp-50vs50-game — ar"
+    },
+    {
+      "path": "/ar/games/battle-of-orcs.html",
+      "title": "battle-of-orcs — ar"
+    },
+    {
+      "path": "/ar/games/mobile-legends-slime-3v3-game.html",
+      "title": "mobile-legends-slime-3v3-game — ar"
+    },
+    {
+      "path": "/ar/games/rocket-clash-3d.html",
+      "title": "rocket-clash-3d — ar"
+    },
+    {
+      "path": "/ar/games/woms-world-of-master-survivors.html",
+      "title": "woms-world-of-master-survivors — ar"
+    },
+    {
+      "path": "/ar/games/fort-clash-survival.html",
+      "title": "fort-clash-survival — ar"
+    },
+    {
+      "path": "/ar/games/monster-truck-off-road-2.html",
+      "title": "monster-truck-off-road-2 — ar"
+    },
+    {
+      "path": "/ar/games/ramp-truck-mayhem-game.html",
+      "title": "ramp-truck-mayhem-game — ar"
+    },
+    {
+      "path": "/ar/games/animal-racing-2-game.html",
+      "title": "animal-racing-2-game — ar"
+    },
+    {
+      "path": "/ar/games/last-garage-zombie-road-game.html",
+      "title": "last-garage-zombie-road-game — ar"
     }
   ]
 }
