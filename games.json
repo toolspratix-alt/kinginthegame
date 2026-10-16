@@ -425,5 +425,23 @@
         "title": "Rocket Clash 3D"
       }
     ]
+  },
+  {
+    "id": "iron-legion-game",
+    "title": "Iron Legion",
+    "genre": "PvP & Multiplayer",
+    "genreKey": "action",
+    "label": "Real-Time Tank Battles",
+    "art": "art-smash",
+    "symbol": "✦",
+    "embed": "https://html5.gamemonetize.co/gkeofcoqengjzxlw0b09f2qrng35egbi/",
+    "provider": "GameMonetize",
+    "source": "https://gamemonetize.com/iron-legion-game",
+    "cover": "/assets/screenshots/iron-legion-game.webp",
+    "editorial": "Iron Legion brings real-time tank combat into the King in the Game PvP lane. Choose a classic tank, read the terrain and work with your team in battles designed for up to 20 players. The mix of vehicle handling, armor decisions and coordinated fire gives each short session a clear tactical rhythm.",
+    "whySelected": "It is a strong fit for the portal because it combines PvP, multiplayer teamwork, military action and vehicle combat in one focused browser game.",
+    "howToPlay": "Choose a tank that matches your approach, move with your team and use the terrain for cover. Light vehicles can scout and reposition quickly, while heavier tanks can hold lanes and absorb pressure. Watch the minimap, avoid exposing your side armor and push only when your team can support the move.",
+    "controls": "Use WASD or the arrow keys to move, the mouse to rotate the camera, the left mouse button to shoot and the right mouse button to aim.",
+    "audience": "Players who want browser-based multiplayer PvP with tanks, team objectives, upgrade choices and readable real-time combat."
   }
 ]
