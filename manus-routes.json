@@ -1177,6 +1177,438 @@
     "/id/games/iron-legion-game.html",
     "/vi/games/iron-legion-game.html",
     "/th/games/iron-legion-game.html",
-    "/hi/games/iron-legion-game.html"
+    "/hi/games/iron-legion-game.html",
+    {
+      "path": "/games/soccer-random-game.html",
+      "title": "Soccer Random — Play Free Online"
+    },
+    {
+      "path": "/tr/games/soccer-random-game.html",
+      "title": "Soccer Random — Play Free Online"
+    },
+    {
+      "path": "/de/games/soccer-random-game.html",
+      "title": "Soccer Random — Play Free Online"
+    },
+    {
+      "path": "/es/games/soccer-random-game.html",
+      "title": "Soccer Random — Play Free Online"
+    },
+    {
+      "path": "/fr/games/soccer-random-game.html",
+      "title": "Soccer Random — Play Free Online"
+    },
+    {
+      "path": "/it/games/soccer-random-game.html",
+      "title": "Soccer Random — Play Free Online"
+    },
+    {
+      "path": "/pt/games/soccer-random-game.html",
+      "title": "Soccer Random — Play Free Online"
+    },
+    {
+      "path": "/pl/games/soccer-random-game.html",
+      "title": "Soccer Random — Play Free Online"
+    },
+    {
+      "path": "/nl/games/soccer-random-game.html",
+      "title": "Soccer Random — Play Free Online"
+    },
+    {
+      "path": "/ja/games/soccer-random-game.html",
+      "title": "Soccer Random — Play Free Online"
+    },
+    {
+      "path": "/ko/games/soccer-random-game.html",
+      "title": "Soccer Random — Play Free Online"
+    },
+    {
+      "path": "/zh/games/soccer-random-game.html",
+      "title": "Soccer Random — Play Free Online"
+    },
+    {
+      "path": "/ar/games/soccer-random-game.html",
+      "title": "Soccer Random — Play Free Online"
+    },
+    {
+      "path": "/ru/games/soccer-random-game.html",
+      "title": "Soccer Random — Play Free Online"
+    },
+    {
+      "path": "/id/games/soccer-random-game.html",
+      "title": "Soccer Random — Play Free Online"
+    },
+    {
+      "path": "/vi/games/soccer-random-game.html",
+      "title": "Soccer Random — Play Free Online"
+    },
+    {
+      "path": "/th/games/soccer-random-game.html",
+      "title": "Soccer Random — Play Free Online"
+    },
+    {
+      "path": "/hi/games/soccer-random-game.html",
+      "title": "Soccer Random — Play Free Online"
+    },
+    {
+      "path": "/games/football-crash-2-game.html",
+      "title": "Football Crash 2 — Play Free Online"
+    },
+    {
+      "path": "/tr/games/football-crash-2-game.html",
+      "title": "Football Crash 2 — Play Free Online"
+    },
+    {
+      "path": "/de/games/football-crash-2-game.html",
+      "title": "Football Crash 2 — Play Free Online"
+    },
+    {
+      "path": "/es/games/football-crash-2-game.html",
+      "title": "Football Crash 2 — Play Free Online"
+    },
+    {
+      "path": "/fr/games/football-crash-2-game.html",
+      "title": "Football Crash 2 — Play Free Online"
+    },
+    {
+      "path": "/it/games/football-crash-2-game.html",
+      "title": "Football Crash 2 — Play Free Online"
+    },
+    {
+      "path": "/pt/games/football-crash-2-game.html",
+      "title": "Football Crash 2 — Play Free Online"
+    },
+    {
+      "path": "/pl/games/football-crash-2-game.html",
+      "title": "Football Crash 2 — Play Free Online"
+    },
+    {
+      "path": "/nl/games/football-crash-2-game.html",
+      "title": "Football Crash 2 — Play Free Online"
+    },
+    {
+      "path": "/ja/games/football-crash-2-game.html",
+      "title": "Football Crash 2 — Play Free Online"
+    },
+    {
+      "path": "/ko/games/football-crash-2-game.html",
+      "title": "Football Crash 2 — Play Free Online"
+    },
+    {
+      "path": "/zh/games/football-crash-2-game.html",
+      "title": "Football Crash 2 — Play Free Online"
+    },
+    {
+      "path": "/ar/games/football-crash-2-game.html",
+      "title": "Football Crash 2 — Play Free Online"
+    },
+    {
+      "path": "/ru/games/football-crash-2-game.html",
+      "title": "Football Crash 2 — Play Free Online"
+    },
+    {
+      "path": "/id/games/football-crash-2-game.html",
+      "title": "Football Crash 2 — Play Free Online"
+    },
+    {
+      "path": "/vi/games/football-crash-2-game.html",
+      "title": "Football Crash 2 — Play Free Online"
+    },
+    {
+      "path": "/th/games/football-crash-2-game.html",
+      "title": "Football Crash 2 — Play Free Online"
+    },
+    {
+      "path": "/hi/games/football-crash-2-game.html",
+      "title": "Football Crash 2 — Play Free Online"
+    },
+    {
+      "path": "/games/basketball-league-game.html",
+      "title": "Basketball League — Play Free Online"
+    },
+    {
+      "path": "/tr/games/basketball-league-game.html",
+      "title": "Basketball League — Play Free Online"
+    },
+    {
+      "path": "/de/games/basketball-league-game.html",
+      "title": "Basketball League — Play Free Online"
+    },
+    {
+      "path": "/es/games/basketball-league-game.html",
+      "title": "Basketball League — Play Free Online"
+    },
+    {
+      "path": "/fr/games/basketball-league-game.html",
+      "title": "Basketball League — Play Free Online"
+    },
+    {
+      "path": "/it/games/basketball-league-game.html",
+      "title": "Basketball League — Play Free Online"
+    },
+    {
+      "path": "/pt/games/basketball-league-game.html",
+      "title": "Basketball League — Play Free Online"
+    },
+    {
+      "path": "/pl/games/basketball-league-game.html",
+      "title": "Basketball League — Play Free Online"
+    },
+    {
+      "path": "/nl/games/basketball-league-game.html",
+      "title": "Basketball League — Play Free Online"
+    },
+    {
+      "path": "/ja/games/basketball-league-game.html",
+      "title": "Basketball League — Play Free Online"
+    },
+    {
+      "path": "/ko/games/basketball-league-game.html",
+      "title": "Basketball League — Play Free Online"
+    },
+    {
+      "path": "/zh/games/basketball-league-game.html",
+      "title": "Basketball League — Play Free Online"
+    },
+    {
+      "path": "/ar/games/basketball-league-game.html",
+      "title": "Basketball League — Play Free Online"
+    },
+    {
+      "path": "/ru/games/basketball-league-game.html",
+      "title": "Basketball League — Play Free Online"
+    },
+    {
+      "path": "/id/games/basketball-league-game.html",
+      "title": "Basketball League — Play Free Online"
+    },
+    {
+      "path": "/vi/games/basketball-league-game.html",
+      "title": "Basketball League — Play Free Online"
+    },
+    {
+      "path": "/th/games/basketball-league-game.html",
+      "title": "Basketball League — Play Free Online"
+    },
+    {
+      "path": "/hi/games/basketball-league-game.html",
+      "title": "Basketball League — Play Free Online"
+    },
+    {
+      "path": "/games/volley-clash-game.html",
+      "title": "VOLLEY CLASH — Play Free Online"
+    },
+    {
+      "path": "/tr/games/volley-clash-game.html",
+      "title": "VOLLEY CLASH — Play Free Online"
+    },
+    {
+      "path": "/de/games/volley-clash-game.html",
+      "title": "VOLLEY CLASH — Play Free Online"
+    },
+    {
+      "path": "/es/games/volley-clash-game.html",
+      "title": "VOLLEY CLASH — Play Free Online"
+    },
+    {
+      "path": "/fr/games/volley-clash-game.html",
+      "title": "VOLLEY CLASH — Play Free Online"
+    },
+    {
+      "path": "/it/games/volley-clash-game.html",
+      "title": "VOLLEY CLASH — Play Free Online"
+    },
+    {
+      "path": "/pt/games/volley-clash-game.html",
+      "title": "VOLLEY CLASH — Play Free Online"
+    },
+    {
+      "path": "/pl/games/volley-clash-game.html",
+      "title": "VOLLEY CLASH — Play Free Online"
+    },
+    {
+      "path": "/nl/games/volley-clash-game.html",
+      "title": "VOLLEY CLASH — Play Free Online"
+    },
+    {
+      "path": "/ja/games/volley-clash-game.html",
+      "title": "VOLLEY CLASH — Play Free Online"
+    },
+    {
+      "path": "/ko/games/volley-clash-game.html",
+      "title": "VOLLEY CLASH — Play Free Online"
+    },
+    {
+      "path": "/zh/games/volley-clash-game.html",
+      "title": "VOLLEY CLASH — Play Free Online"
+    },
+    {
+      "path": "/ar/games/volley-clash-game.html",
+      "title": "VOLLEY CLASH — Play Free Online"
+    },
+    {
+      "path": "/ru/games/volley-clash-game.html",
+      "title": "VOLLEY CLASH — Play Free Online"
+    },
+    {
+      "path": "/id/games/volley-clash-game.html",
+      "title": "VOLLEY CLASH — Play Free Online"
+    },
+    {
+      "path": "/vi/games/volley-clash-game.html",
+      "title": "VOLLEY CLASH — Play Free Online"
+    },
+    {
+      "path": "/th/games/volley-clash-game.html",
+      "title": "VOLLEY CLASH — Play Free Online"
+    },
+    {
+      "path": "/hi/games/volley-clash-game.html",
+      "title": "VOLLEY CLASH — Play Free Online"
+    },
+    {
+      "path": "/games/fiva-26-soccer-game.html",
+      "title": "Fiva 26: Soccer — Play Free Online"
+    },
+    {
+      "path": "/tr/games/fiva-26-soccer-game.html",
+      "title": "Fiva 26: Soccer — Play Free Online"
+    },
+    {
+      "path": "/de/games/fiva-26-soccer-game.html",
+      "title": "Fiva 26: Soccer — Play Free Online"
+    },
+    {
+      "path": "/es/games/fiva-26-soccer-game.html",
+      "title": "Fiva 26: Soccer — Play Free Online"
+    },
+    {
+      "path": "/fr/games/fiva-26-soccer-game.html",
+      "title": "Fiva 26: Soccer — Play Free Online"
+    },
+    {
+      "path": "/it/games/fiva-26-soccer-game.html",
+      "title": "Fiva 26: Soccer — Play Free Online"
+    },
+    {
+      "path": "/pt/games/fiva-26-soccer-game.html",
+      "title": "Fiva 26: Soccer — Play Free Online"
+    },
+    {
+      "path": "/pl/games/fiva-26-soccer-game.html",
+      "title": "Fiva 26: Soccer — Play Free Online"
+    },
+    {
+      "path": "/nl/games/fiva-26-soccer-game.html",
+      "title": "Fiva 26: Soccer — Play Free Online"
+    },
+    {
+      "path": "/ja/games/fiva-26-soccer-game.html",
+      "title": "Fiva 26: Soccer — Play Free Online"
+    },
+    {
+      "path": "/ko/games/fiva-26-soccer-game.html",
+      "title": "Fiva 26: Soccer — Play Free Online"
+    },
+    {
+      "path": "/zh/games/fiva-26-soccer-game.html",
+      "title": "Fiva 26: Soccer — Play Free Online"
+    },
+    {
+      "path": "/ar/games/fiva-26-soccer-game.html",
+      "title": "Fiva 26: Soccer — Play Free Online"
+    },
+    {
+      "path": "/ru/games/fiva-26-soccer-game.html",
+      "title": "Fiva 26: Soccer — Play Free Online"
+    },
+    {
+      "path": "/id/games/fiva-26-soccer-game.html",
+      "title": "Fiva 26: Soccer — Play Free Online"
+    },
+    {
+      "path": "/vi/games/fiva-26-soccer-game.html",
+      "title": "Fiva 26: Soccer — Play Free Online"
+    },
+    {
+      "path": "/th/games/fiva-26-soccer-game.html",
+      "title": "Fiva 26: Soccer — Play Free Online"
+    },
+    {
+      "path": "/hi/games/fiva-26-soccer-game.html",
+      "title": "Fiva 26: Soccer — Play Free Online"
+    },
+    {
+      "path": "/games/super-kick-boxing-game.html",
+      "title": "Super Kick Boxing — Play Free Online"
+    },
+    {
+      "path": "/tr/games/super-kick-boxing-game.html",
+      "title": "Super Kick Boxing — Play Free Online"
+    },
+    {
+      "path": "/de/games/super-kick-boxing-game.html",
+      "title": "Super Kick Boxing — Play Free Online"
+    },
+    {
+      "path": "/es/games/super-kick-boxing-game.html",
+      "title": "Super Kick Boxing — Play Free Online"
+    },
+    {
+      "path": "/fr/games/super-kick-boxing-game.html",
+      "title": "Super Kick Boxing — Play Free Online"
+    },
+    {
+      "path": "/it/games/super-kick-boxing-game.html",
+      "title": "Super Kick Boxing — Play Free Online"
+    },
+    {
+      "path": "/pt/games/super-kick-boxing-game.html",
+      "title": "Super Kick Boxing — Play Free Online"
+    },
+    {
+      "path": "/pl/games/super-kick-boxing-game.html",
+      "title": "Super Kick Boxing — Play Free Online"
+    },
+    {
+      "path": "/nl/games/super-kick-boxing-game.html",
+      "title": "Super Kick Boxing — Play Free Online"
+    },
+    {
+      "path": "/ja/games/super-kick-boxing-game.html",
+      "title": "Super Kick Boxing — Play Free Online"
+    },
+    {
+      "path": "/ko/games/super-kick-boxing-game.html",
+      "title": "Super Kick Boxing — Play Free Online"
+    },
+    {
+      "path": "/zh/games/super-kick-boxing-game.html",
+      "title": "Super Kick Boxing — Play Free Online"
+    },
+    {
+      "path": "/ar/games/super-kick-boxing-game.html",
+      "title": "Super Kick Boxing — Play Free Online"
+    },
+    {
+      "path": "/ru/games/super-kick-boxing-game.html",
+      "title": "Super Kick Boxing — Play Free Online"
+    },
+    {
+      "path": "/id/games/super-kick-boxing-game.html",
+      "title": "Super Kick Boxing — Play Free Online"
+    },
+    {
+      "path": "/vi/games/super-kick-boxing-game.html",
+      "title": "Super Kick Boxing — Play Free Online"
+    },
+    {
+      "path": "/th/games/super-kick-boxing-game.html",
+      "title": "Super Kick Boxing — Play Free Online"
+    },
+    {
+      "path": "/hi/games/super-kick-boxing-game.html",
+      "title": "Super Kick Boxing — Play Free Online"
+    }
   ]
 }
