@@ -11,7 +11,15 @@
     "provider": "GameMonetize",
     "source": "https://html5.gamemonetize.co/ijep00ffovz7d1fdagujupadca9ad0li/",
     "cover": "/assets/screenshots/monster-truck-off-road-2.webp",
-    "featured": true
+    "featured": true,
+    "editorial": "Choose a monster truck and drive through off-road stages with mountain trails, steep slopes, rocky paths, and obstacles. Reach checkpoints before time runs out for a clean finish.",
+    "controls": "Keyboard: W or Up Arrow accelerates; S or Down Arrow brakes/reverses; A or Left Arrow steers left; D or Right Arrow steers right; Space uses the handbrake. Touch: use the on-screen driving controls.",
+    "howToPlay": "Drive through the off-road stages and reach each checkpoint before the timer expires. Manage speed and vehicle damage as the route changes.",
+    "audience": "Players who enjoy vehicle-based off-road driving and checkpoint challenges.",
+    "whySelected": "It adds a checkpoint-based, vehicle-focused off-road option to the racing collection.",
+    "firstSessionTip": "Manage speed and vehicle damage as you make your way to the checkpoints before time runs out.",
+    "editorialSource": "https://gamemonetize.com/monster-truck-offroad-2-game",
+    "editorialSourceTitle": "Monster Truck Offroad 2 | Play Now Online for Free"
   },
   {
     "id": "urban-military-strike",
@@ -24,7 +32,15 @@
     "embed": "https://html5.gamemonetize.co/wmnb3xo7van507ku4m52u7csrco1f6qb/",
     "provider": "GameMonetize",
     "source": "https://html5.gamemonetize.co/wmnb3xo7van507ku4m52u7csrco1f6qb/",
-    "cover": "/assets/screenshots/urban-military-strike.webp"
+    "cover": "/assets/screenshots/urban-military-strike.webp",
+    "editorial": "GameMonetize describes Urban Military Strike as close-quarters combat across multi-level urban battlefields with shifting objectives. Its listing says survival depends on strategic positioning, squad communication, and split-second decisions.",
+    "controls": "WASD to move; mouse to click and aim; scroll wheel to switch to third-person; Ctrl to crouch; X to go prone; NUM to switch weapons; F2 for the cheat menu.",
+    "howToPlay": "Move through the multi-level urban battlefields, respond to the current objective, and coordinate positioning with your squad.",
+    "audience": "Players who enjoy squad-based urban shooters with changing objectives.",
+    "whySelected": "It gives the action collection a multi-level urban shooter with objective-driven squad play.",
+    "firstSessionTip": "Use the scroll wheel to switch to third-person view.",
+    "editorialSource": "https://gamemonetize.com/urban-military-strike-game",
+    "editorialSourceTitle": "Urban Military Strike | Play Now Online for Free"
   },
   {
     "id": "dead-zone-sniper",
@@ -37,7 +53,15 @@
     "embed": "https://html5.gamemonetize.co/wwogdycex7xw5e73ig0sf7f1s2b7t47p/",
     "provider": "GameMonetize",
     "source": "https://html5.gamemonetize.co/wwogdycex7xw5e73ig0sf7f1s2b7t47p/",
-    "cover": "/assets/screenshots/dead-zone-sniper.webp"
+    "cover": "/assets/screenshots/dead-zone-sniper.webp",
+    "editorial": "Use a sniper rifle to shoot hazmat soldiers in a contaminated area and survive until time runs out to advance to the next levels.",
+    "controls": "WASD: move; LMB: shoot; RMB: zoom; R: reload; P: pause.",
+    "howToPlay": "Use the sniper controls to shoot the hazmat soldiers and survive until the timer ends to advance to the next level.",
+    "audience": "Players who enjoy timed sniper levels and focused shooting challenges.",
+    "whySelected": "It adds a timer-based sniper challenge to the action and shooter collection.",
+    "firstSessionTip": "",
+    "editorialSource": "https://gamemonetize.com/dead-zone-sniper-game",
+    "editorialSourceTitle": "Dead Zone Sniper | Play Now Online for Free"
   },
   {
     "id": "rocket-clash-3d",
@@ -50,7 +74,15 @@
     "embed": "https://html5.gamemonetize.co/jiybs4emy2vc1utvpov7qgfmgnzdwcaf/",
     "provider": "GameMonetize",
     "source": "https://html5.gamemonetize.co/jiybs4emy2vc1utvpov7qgfmgnzdwcaf/",
-    "cover": "/assets/screenshots/rocket-clash-3d.webp"
+    "cover": "/assets/screenshots/rocket-clash-3d.webp",
+    "editorial": "Lead a special-forces resistance squad against enemy intelligence agents seeking control of a missile base. The fight takes place around an underground tunnel network, where the listing says a secret weapon is hidden and toxic rocket-fuel acid pools pose a hazard.",
+    "controls": "WASD — movement; C — crouch; SPACE — jump.",
+    "howToPlay": "Move through the underground tunnel network, look for the hidden weapon, and avoid the listed toxic rocket-fuel acid pools as you fight over the missile base.",
+    "audience": "Players who enjoy team-based sci-fi shooters and exploring an underground map.",
+    "whySelected": "It adds a squad-versus-squad shooter with a distinct missile-base setting to the action collection.",
+    "firstSessionTip": "Explore the underground tunnels to look for the secret weapon, and watch out for acid pools of toxic rocket fuel.",
+    "editorialSource": "https://gamemonetize.com/rocket-clash-3d-game",
+    "editorialSourceTitle": "Rocket Clash 3D | Play Now Online for Free"
   },
   {
     "id": "subway-clash-3d",
@@ -63,7 +95,15 @@
     "embed": "https://html5.gamemonetize.co/nduhdua0yup2i0k4llj5wjplk62np2md/",
     "provider": "GameMonetize",
     "source": "https://html5.gamemonetize.co/nduhdua0yup2i0k4llj5wjplk62np2md/",
-    "cover": "/assets/screenshots/subway-clash-3d.webp"
+    "cover": "/assets/screenshots/subway-clash-3d.webp",
+    "editorial": "Fight KGB soldiers in an underground Moscow metro area, picking up weapons to defend yourself and reach the top of the rank table.",
+    "controls": "WASD: move; C: crouch; Space: jump.",
+    "howToPlay": "Fight through the underground metro area, pick up weapons, and work toward the top of the rank table.",
+    "audience": "Players who enjoy 3D shooters set in an underground urban location.",
+    "whySelected": "It adds a compact metro-set shooter to the PvP and action selection.",
+    "firstSessionTip": "",
+    "editorialSource": "https://gamemonetize.com/subway-clash-3d-game",
+    "editorialSourceTitle": "Subway Clash 3D Game"
   },
   {
     "id": "subway-clash-2",
@@ -76,7 +116,15 @@
     "embed": "https://html5.gamemonetize.co/dbzradmpi79aiwvq4xryeic8kwqp615v/",
     "provider": "GameMonetize",
     "source": "https://html5.gamemonetize.co/dbzradmpi79aiwvq4xryeic8kwqp615v/",
-    "cover": "/assets/screenshots/subway-clash-2.webp"
+    "cover": "/assets/screenshots/subway-clash-2.webp",
+    "editorial": "As a GRU Special Forces commander, clear the old Moscow metro depot of criminal elements and lead your team forward. Pick up new weapons along the way; the depot’s nooks and passages may hide hiding places and other surprises.",
+    "controls": "",
+    "howToPlay": "Lead your team through the old metro depot, clear the criminal elements, and pick up new weapons as you advance.",
+    "audience": "Players who enjoy 3D shooters with exploration and weapon pickups.",
+    "whySelected": "It offers a second metro-set entry with a team-advance objective and exploration.",
+    "firstSessionTip": "Explore the depot’s nooks and passages for hiding places and other surprises.",
+    "editorialSource": "https://clash3d.com/subwaytwoclash3d",
+    "editorialSourceTitle": "Subway Clash 2 | Play 3D shooter in browser"
   },
   {
     "id": "zombie-clash-3d",
@@ -89,7 +137,15 @@
     "embed": "https://html5.gamemonetize.co/qf4bszktq31gtznbfro0ih23k7dg53ws/",
     "provider": "GameMonetize",
     "source": "https://html5.gamemonetize.co/qf4bszktq31gtznbfro0ih23k7dg53ws/",
-    "cover": "/assets/screenshots/zombie-clash-3d.webp"
+    "cover": "/assets/screenshots/zombie-clash-3d.webp",
+    "editorial": "Join the Harlequins in a fight to reclaim an abandoned circus from zombies, using a double-barrelled shotgun or an explosive-arrow crossbow. The listing says victory can be achieved by sneaking the Scarecrow dummy from the Mad Circus and delivering it to the enemy base.",
+    "controls": "WASD: move; Space: jump; C: crouch; right mouse button: aim; Tab: show score table.",
+    "howToPlay": "Join the Harlequins and contest the abandoned circus. One listed win condition is to take the Scarecrow dummy from the Mad Circus and deliver it to the enemy base.",
+    "audience": "Players who enjoy objective-driven zombie team shooters.",
+    "whySelected": "It combines a zombie-themed shooter setting with a clearly described objective mode.",
+    "firstSessionTip": "Try to sneak the Scarecrow dummy from the Mad Circus to the enemy base; the listing identifies this as a way to win.",
+    "editorialSource": "https://gamemonetize.com/zombie-clash-3d-game",
+    "editorialSourceTitle": "Zombie Clash 3D | Play Now Online for Free"
   },
   {
     "id": "ninja-clash-heroes",
@@ -102,7 +158,15 @@
     "embed": "https://html5.gamemonetize.co/bxj9kkuzrjval3mh9cr20tvlrc3cxsw9/",
     "provider": "GameMonetize",
     "source": "https://html5.gamemonetize.co/bxj9kkuzrjval3mh9cr20tvlrc3cxsw9/",
-    "cover": "/assets/screenshots/ninja-clash-heroes.webp"
+    "cover": "/assets/screenshots/ninja-clash-heroes.webp",
+    "editorial": "Choose from a squad of heroes—including a ninja Scout, samurai, Buddhist monk, or sniper Geisha—and defend the Fortune Cat from enemies in an oriental garden. Unlock class powers, collect stars to open crates with weapons and boosters, and upgrade your character.",
+    "controls": "WASD — movement; SPACE — jump; G — throw grenade; C — crouch; RMB — aim; TAB — score table.",
+    "howToPlay": "Choose a hero and defend the Fortune Cat. Collect stars to open crates containing weapons and boosters, then upgrade your character.",
+    "audience": "Players who enjoy hero-based arena shooters and upgradeable abilities.",
+    "whySelected": "It adds a hero roster and unlockable upgrades to the action-shooter collection.",
+    "firstSessionTip": "Collect stars to open crates containing weapons and boosters.",
+    "editorialSource": "https://gamemonetize.com/ninja-clash-heroes-game",
+    "editorialSourceTitle": "Ninja Clash Heroes | Play Now Online for Free"
   },
   {
     "id": "alien-quarantine",
@@ -115,7 +179,15 @@
     "embed": "https://html5.gamemonetize.co/0qisjurcsxvvmszq08zh60i85n363kgz/",
     "provider": "GameMonetize",
     "source": "https://html5.gamemonetize.co/0qisjurcsxvvmszq08zh60i85n363kgz/",
-    "cover": "/assets/screenshots/alien-quarantine.webp"
+    "cover": "/assets/screenshots/alien-quarantine.webp",
+    "editorial": "Alien Quarantine is a sci-fi top-down shooter set aboard a research station overrun by alien life. Across 20 missions, players clear three escalating waves and face a larger boss at each level while completing objectives such as restoring power, rescuing crew, and recovering samples.",
+    "controls": "WASD / Arrow Keys: Move; Mouse: Aim; Left Click: Fire; Right Click: Throw grenade; E: Use consoles, collect items, and activate exits; Esc: Pause. Touchscreen: use the on-screen movement, fire, grenade, and interact controls.",
+    "howToPlay": "Work through the research station’s missions, clear the waves, and complete objectives such as restoring power, rescuing crew, and recovering samples.",
+    "audience": "Players who enjoy mission-based top-down sci-fi shooters.",
+    "whySelected": "It brings a mission-and-objective structure to the portal’s sci-fi action options.",
+    "firstSessionTip": "Use E to operate consoles, collect items, and activate exits.",
+    "editorialSource": "https://gamemonetize.com/alien-quarantine-game",
+    "editorialSourceTitle": "Alien Quarantine | Play Now Online for Free"
   },
   {
     "id": "realistic-tanks-poopy-war",
@@ -128,7 +200,15 @@
     "embed": "https://html5.gamemonetize.co/uyry5c6ia2qyme3582cb1jvfkldl0qj5/",
     "provider": "GameMonetize",
     "source": "https://html5.gamemonetize.co/uyry5c6ia2qyme3582cb1jvfkldl0qj5/",
-    "cover": "/assets/screenshots/realistic-tanks-poopy-war.webp"
+    "cover": "/assets/screenshots/realistic-tanks-poopy-war.webp",
+    "editorial": "The offline campaign has you fire rockets at opposing tanks across levels and objectives. You can build and upgrade your tank with weapons and choose camouflage; stages and mazes offer different strategies to try.",
+    "controls": "Tab: menu; WASD: drive; mouse: aim/fire; mouse scroll: zoom camera.",
+    "howToPlay": "Drive your tank through the campaign levels, fire at opposing tanks, and complete each objective. The listing also describes tank building and weapon upgrades.",
+    "audience": "Players who enjoy offline tank campaigns and equipment upgrades.",
+    "whySelected": "It adds an offline tank campaign and upgrade-focused format to the action selection.",
+    "firstSessionTip": "Try different strategies for each objective; the listing says the stages and mazes let you test which approach works best.",
+    "editorialSource": "https://gamemonetize.com/realistic-tanks-poopy-war-game",
+    "editorialSourceTitle": "Realistic Tanks Poopy War | Play Now Online for Free"
   },
   {
     "id": "armour-clash",
@@ -141,7 +221,15 @@
     "embed": "https://html5.gamemonetize.co/um4xfulrle0wayb32u1wfw3vpx3lnyli/",
     "provider": "GameMonetize",
     "source": "https://html5.gamemonetize.co/um4xfulrle0wayb32u1wfw3vpx3lnyli/",
-    "cover": "/assets/screenshots/armour-clash.webp"
+    "cover": "/assets/screenshots/armour-clash.webp",
+    "editorial": "Armour Clash is a real-time strategy tank game in which the objective is to destroy the opponent’s base by deploying tanks. The listing says each tank has its own strengths and weaknesses.",
+    "controls": "On desktop and mobile, drag on cards to deploy units.",
+    "howToPlay": "Deploy tanks by dragging or tapping cards and try to destroy the opponent’s base. Each tank has different strengths and weaknesses.",
+    "audience": "Players who enjoy real-time strategy and tactical unit deployment.",
+    "whySelected": "It broadens the action catalogue with real-time strategy built around tank deployment.",
+    "firstSessionTip": "Choose tanks at the appropriate time, as the listing says selecting the right tanks at the right time is the best way to win.",
+    "editorialSource": "https://gamemonetize.com/armour-clash-game",
+    "editorialSourceTitle": "Armour Clash | Play Now Online for Free - GameMonetize.com"
   },
   {
     "id": "woms-world-of-master-survivors",
@@ -154,7 +242,15 @@
     "embed": "https://html5.gamemonetize.co/ucrwra0xix0cevrxifilv1by6wps90xf/",
     "provider": "GameMonetize",
     "source": "https://html5.gamemonetize.co/ucrwra0xix0cevrxifilv1by6wps90xf/",
-    "cover": "/assets/screenshots/woms-world-of-master-survivors.webp"
+    "cover": "/assets/screenshots/woms-world-of-master-survivors.webp",
+    "editorial": "Defend a street corner against endless zombie waves; surviving earns upgrades between waves, including heavier ammunition, cover drones, turrets, and gunship calls.",
+    "controls": "WASD / Arrow keys = Move; Mouse = Aim; Left click = Fire; Q = Deploy turret; E = Call air support; G = Throw grenade; P = Pause. Mobile: Left thumb stick = Move; Right button = Fire; tap the on-screen buttons for turret, air support, and grenade.",
+    "howToPlay": "Defend the street corner from zombie waves and use the upgrades earned between waves to strengthen your run.",
+    "audience": "Players who enjoy top-down zombie survival and choosing upgrades between waves.",
+    "whySelected": "It gives the survival/strategy collection a wave-based defense game with upgrade choices.",
+    "firstSessionTip": "Use the upgrade choices earned between waves to strengthen your defense.",
+    "editorialSource": "https://gamemonetize.com/woms-world-of-master-survivors-game",
+    "editorialSourceTitle": "WOMS World of Master Survivors | Play Now Online for Free"
   },
   {
     "id": "fort-clash-survival",
@@ -167,7 +263,15 @@
     "embed": "https://html5.gamemonetize.co/hwx6v25biq7www5qh9jxe7vjda61r1fg/",
     "provider": "GameMonetize",
     "source": "https://html5.gamemonetize.co/hwx6v25biq7www5qh9jxe7vjda61r1fg/",
-    "cover": "/assets/screenshots/fort-clash-survival.webp"
+    "cover": "/assets/screenshots/fort-clash-survival.webp",
+    "editorial": "Fort Clash Survival is a battle royale against bots in a Minecraft-style world. Search for weapons and loot across different maps, and try to survive until the time runs out.",
+    "controls": "WASD: move; LMB: shoot; RMB: aim; mouse wheel: change weapon; R: reload; Space: jump; P: pause.",
+    "howToPlay": "Search the maps for weapons and loot, then try to survive against the bots until the timer runs out.",
+    "audience": "Players who enjoy battle-royale matches with loot and AI opponents.",
+    "whySelected": "It adds a bot-based battle-royale option with map exploration to the action collection.",
+    "firstSessionTip": "Search for weapons and loot on the maps while keeping the time limit in mind.",
+    "editorialSource": "https://gamemonetize.com/fort-clash-survival-game",
+    "editorialSourceTitle": "Fort Clash Survival | Play Now Online for Free"
   },
   {
     "id": "battle-of-orcs",
@@ -180,7 +284,15 @@
     "embed": "https://html5.gamemonetize.co/jfsf85h2w8m5k168c0nuks2g0dx30k3j/",
     "provider": "GameMonetize",
     "source": "https://html5.gamemonetize.co/jfsf85h2w8m5k168c0nuks2g0dx30k3j/",
-    "cover": "/assets/screenshots/battle-of-orcs.webp"
+    "cover": "/assets/screenshots/battle-of-orcs.webp",
+    "editorial": "Battle of Orcs is a real-time strategy unit-deployment game in which you deploy orcs to destroy the opponent’s base. The listing says you can try different unit combinations to build an effective attack force.",
+    "controls": "Tap on cards to deploy units.",
+    "howToPlay": "Deploy orcs using the unit cards and try to destroy the opponent’s base. Experiment with different unit combinations.",
+    "audience": "Players who enjoy real-time strategy and unit-combination choices.",
+    "whySelected": "It adds a real-time unit-deployment strategy option to the current collection.",
+    "firstSessionTip": "Select the right units at the appropriate time; the listing identifies this as the best way to win.",
+    "editorialSource": "https://gamemonetize.com/battle-of-orcs-game",
+    "editorialSourceTitle": "Battle of Orcs"
   },
   {
     "id": "battle-tung-tung-sahur-2player-game",
