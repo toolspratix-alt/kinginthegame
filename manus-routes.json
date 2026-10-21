@@ -89,10 +89,6 @@
       "title": "Gift Of Alchemy — Play Free Online"
     },
     {
-      "path": "/games/among-dungeon-game.html",
-      "title": "Among Dungeon — Play Free Online"
-    },
-    {
       "path": "/games/ramp-truck-mayhem-game.html",
       "title": "Ramp Truck Mayhem — Play Free Online"
     },
@@ -205,10 +201,6 @@
       "title": "Gift Of Alchemy — Русский"
     },
     {
-      "path": "/ru/games/among-dungeon-game.html",
-      "title": "Among Dungeon — Русский"
-    },
-    {
       "path": "/ru/games/ramp-truck-mayhem-game.html",
       "title": "Ramp Truck Mayhem — Русский"
     },
@@ -315,10 +307,6 @@
     {
       "path": "/id/games/gift-of-alchemy-game.html",
       "title": "Gift Of Alchemy — Bahasa Indonesia"
-    },
-    {
-      "path": "/id/games/among-dungeon-game.html",
-      "title": "Among Dungeon — Bahasa Indonesia"
     },
     {
       "path": "/id/games/ramp-truck-mayhem-game.html",
@@ -429,10 +417,6 @@
       "title": "Gift Of Alchemy — Tiếng Việt"
     },
     {
-      "path": "/vi/games/among-dungeon-game.html",
-      "title": "Among Dungeon — Tiếng Việt"
-    },
-    {
       "path": "/vi/games/ramp-truck-mayhem-game.html",
       "title": "Ramp Truck Mayhem — Tiếng Việt"
     },
@@ -541,10 +525,6 @@
       "title": "Gift Of Alchemy — ไทย"
     },
     {
-      "path": "/th/games/among-dungeon-game.html",
-      "title": "Among Dungeon — ไทย"
-    },
-    {
       "path": "/th/games/ramp-truck-mayhem-game.html",
       "title": "Ramp Truck Mayhem — ไทย"
     },
@@ -651,10 +631,6 @@
     {
       "path": "/hi/games/gift-of-alchemy-game.html",
       "title": "Gift Of Alchemy — हिन्दी"
-    },
-    {
-      "path": "/hi/games/among-dungeon-game.html",
-      "title": "Among Dungeon — हिन्दी"
     },
     {
       "path": "/hi/games/ramp-truck-mayhem-game.html",
@@ -1160,24 +1136,6 @@
       "path": "/ar/games/last-garage-zombie-road-game.html",
       "title": "last-garage-zombie-road-game — ar"
     },
-    "/games/iron-legion-game.html",
-    "/tr/games/iron-legion-game.html",
-    "/de/games/iron-legion-game.html",
-    "/es/games/iron-legion-game.html",
-    "/fr/games/iron-legion-game.html",
-    "/it/games/iron-legion-game.html",
-    "/pt/games/iron-legion-game.html",
-    "/pl/games/iron-legion-game.html",
-    "/nl/games/iron-legion-game.html",
-    "/ja/games/iron-legion-game.html",
-    "/ko/games/iron-legion-game.html",
-    "/zh/games/iron-legion-game.html",
-    "/ar/games/iron-legion-game.html",
-    "/ru/games/iron-legion-game.html",
-    "/id/games/iron-legion-game.html",
-    "/vi/games/iron-legion-game.html",
-    "/th/games/iron-legion-game.html",
-    "/hi/games/iron-legion-game.html",
     {
       "path": "/games/soccer-random-game.html",
       "title": "Soccer Random — Play Free Online"
@@ -1609,6 +1567,78 @@
     {
       "path": "/hi/games/super-kick-boxing-game.html",
       "title": "Super Kick Boxing — Play Free Online"
+    },
+    {
+      "path": "/games/boom-cell-game.html",
+      "title": "Boom Cell — Play Free Online"
+    },
+    {
+      "path": "/tr/games/boom-cell-game.html",
+      "title": "Boom Cell — Play Free Online"
+    },
+    {
+      "path": "/de/games/boom-cell-game.html",
+      "title": "Boom Cell — Play Free Online"
+    },
+    {
+      "path": "/es/games/boom-cell-game.html",
+      "title": "Boom Cell — Play Free Online"
+    },
+    {
+      "path": "/fr/games/boom-cell-game.html",
+      "title": "Boom Cell — Play Free Online"
+    },
+    {
+      "path": "/it/games/boom-cell-game.html",
+      "title": "Boom Cell — Play Free Online"
+    },
+    {
+      "path": "/pt/games/boom-cell-game.html",
+      "title": "Boom Cell — Play Free Online"
+    },
+    {
+      "path": "/pl/games/boom-cell-game.html",
+      "title": "Boom Cell — Play Free Online"
+    },
+    {
+      "path": "/nl/games/boom-cell-game.html",
+      "title": "Boom Cell — Play Free Online"
+    },
+    {
+      "path": "/ja/games/boom-cell-game.html",
+      "title": "Boom Cell — Play Free Online"
+    },
+    {
+      "path": "/ko/games/boom-cell-game.html",
+      "title": "Boom Cell — Play Free Online"
+    },
+    {
+      "path": "/zh/games/boom-cell-game.html",
+      "title": "Boom Cell — Play Free Online"
+    },
+    {
+      "path": "/ar/games/boom-cell-game.html",
+      "title": "Boom Cell — Play Free Online"
+    },
+    {
+      "path": "/ru/games/boom-cell-game.html",
+      "title": "Boom Cell — Play Free Online"
+    },
+    {
+      "path": "/id/games/boom-cell-game.html",
+      "title": "Boom Cell — Play Free Online"
+    },
+    {
+      "path": "/vi/games/boom-cell-game.html",
+      "title": "Boom Cell — Play Free Online"
+    },
+    {
+      "path": "/th/games/boom-cell-game.html",
+      "title": "Boom Cell — Play Free Online"
+    },
+    {
+      "path": "/hi/games/boom-cell-game.html",
+      "title": "Boom Cell — Play Free Online"
     }
   ]
 }

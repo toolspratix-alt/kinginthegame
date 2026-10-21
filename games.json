@@ -291,24 +291,6 @@
     "howToPlay": "Experiment with the available alchemy interactions and follow the discovery path to revive the craft."
   },
   {
-    "id": "among-dungeon-game",
-    "title": "Among Dungeon",
-    "genre": "Mini Strategy",
-    "genreKey": "strategy",
-    "label": "Arcade Survival / Levels",
-    "editorial": "A compact level-based survival platform game with hazards and a clear goal: make it from one side of each level to the other. It is suited to short, readable challenges.",
-    "controls": "Use the directional and action controls shown in the game; careful movement beats rushing.",
-    "audience": "Players looking for short platform survival challenges.",
-    "art": "art-smash",
-    "symbol": "✹",
-    "embed": "https://html5.gamemonetize.co/ag8hqc5musjuub3su73s7sg5zryrx3b7/",
-    "provider": "GameMonetize",
-    "source": "https://gamemonetize.com/among-dungeon-game",
-    "cover": "/assets/screenshots/among-dungeon-game.webp",
-    "whySelected": "It adds a lightweight survival and route-planning experience to the strategy-adjacent collection.",
-    "howToPlay": "Move through each level, avoid hazards and reach the exit while managing the timing of your steps."
-  },
-  {
     "id": "ramp-truck-mayhem-game",
     "title": "Ramp Truck Mayhem",
     "genre": "Racing & Off-Road",
@@ -555,6 +537,24 @@
     "embed": "https://html5.gamemonetize.co/j5zus81dxf916fkiyd1oo2m4wgzlvi0q/",
     "provider": "GameMonetize",
     "cover": "/assets/screenshots/super-kick-boxing-game.webp",
+    "art": "art-pool",
+    "symbol": "✦"
+  },
+  {
+    "id": "boom-cell-game",
+    "title": "Boom Cell",
+    "genre": "Mini Strategy",
+    "genreKey": "strategy",
+    "label": "IO Arena / Strategy",
+    "editorial": "Boom Cell is a strategic microscopic arena where one cell grows into a powerful brigade. The game rewards movement, timing and awareness: expand when the route is safe, avoid larger groups and choose the right moment to challenge rival cell armies.",
+    "whySelected": "It is a current GameMonetize release with a clear strategy loop, arena competition and mobile-ready controls. It gives the Mini Strategy collection a more direct, replayable multiplayer-style identity than a broken platform survival embed.",
+    "howToPlay": "Use the mouse or WASD to move through the arena, collect smaller cells and grow your brigade. Keep checking the surrounding space before committing to a fight; larger groups can overpower you, so route planning is as important as speed.",
+    "controls": "Use the left mouse button or WASD to move. On supported mobile devices, use touch input shown by the game.",
+    "audience": "Players who enjoy .io arenas, light strategy, collecting and short competitive browser sessions.",
+    "embed": "https://html5.gamemonetize.co/m3qnpahqdnc3eltlnsjev9u37g7ujt70/",
+    "provider": "GameMonetize",
+    "source": "https://gamemonetize.com/boom-cell-game",
+    "cover": "/assets/screenshots/boom-cell-game.webp",
     "art": "art-pool",
     "symbol": "✦"
   }
