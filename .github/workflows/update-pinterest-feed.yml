@@ -1,0 +1,29 @@
+name: Update Pinterest RSS feed
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "games.json"
+      - "scripts/generate_pinterest_feed.py"
+
+permissions:
+  contents: write
+
+jobs:
+  update-feed:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate feed
+        run: python3 scripts/generate_pinterest_feed.py
+
+      - name: Commit generated feed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add pinterest-feed.xml
+          git diff --cached --quiet || git commit -m "Update Pinterest RSS feed"
+          git push

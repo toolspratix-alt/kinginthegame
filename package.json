@@ -4,6 +4,7 @@
   "private": true,
   "packageManager": "pnpm@11.0.0",
   "scripts": {
-    "dev": "python3 -m http.server 3000"
+    "dev": "python3 -m http.server 3000",
+    "generate:pinterest": "python3 scripts/generate_pinterest_feed.py"
   }
 }

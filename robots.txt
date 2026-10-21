@@ -4,3 +4,6 @@ Disallow: /api/
 Sitemap: https://www.kinginthegame.com/sitemap.xml
 
 Disallow: /PUBLISHER_SETUP.md
+
+# Pinterest RSS feed for automatic Pin publishing
+Pinterest-Feed: https://www.kinginthegame.com/pinterest-feed.xml
