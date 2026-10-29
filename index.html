@@ -35,5 +35,15 @@
 </main>
 <footer class="portal-footer"><div class="portal-brand"><img src="/assets/king-logo.webp" alt=""><span>King in the <b>Game</b><small data-i18n="brand.tagline">PLAY. DISCOVER. REPEAT.</small></span></div><div><a href="/about.html" data-i18n="footer.about">About this portal</a><span data-i18n="footer.tagline">Play free browser games</span></div><span class="mono">© 2026 KING IN THE GAME</span><div class="legal-links"><a href="/privacy.html" data-i18n="legal.privacy">Privacy</a><a href="/terms.html" data-i18n="legal.terms">Terms</a><a href="/contact.html" data-i18n="legal.contact">Contact</a><a href="/platforms.html" data-i18n="legal.platforms">Platforms</a></div></footer>
 <script src="/portal.js"></script>
+
+<style>
+.category-card{appearance:none;border:0;color:inherit;text-align:left;font:inherit;width:100%;cursor:pointer;position:relative}
+.category-card:focus-visible{outline:2px solid var(--lime);outline-offset:-3px}
+.category-card-action{display:block;margin-top:22px;color:var(--lime);font:10px var(--mono);letter-spacing:.08em}
+.category-card:hover .category-card-action{color:var(--text)}
+</style>
+<script>
+document.querySelectorAll('.category-card').forEach(card=>card.addEventListener('click',()=>{document.querySelector(`#categoryTabs button[data-category="${card.dataset.category}"]`)?.click();document.getElementById('games')?.scrollIntoView({behavior:'smooth',block:'start'})}));
+</script>
 </body>
 </html>
