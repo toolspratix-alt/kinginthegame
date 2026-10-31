@@ -5,7 +5,7 @@
     <link>https://www.kinginthegame.com/</link>
     <description>Curated browser games across multiplayer PvP, mini strategy, racing and sports.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 31 Oct 2026 17:57:22 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 18:14:35 GMT</lastBuildDate>
     <atom:link href="https://www.kinginthegame.com/pinterest-feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Monster Truck Off Road 2 - Play Online</title>
@@ -426,6 +426,42 @@
       <media:content url="https://www.kinginthegame.com/assets/screenshots/gorilgo-fps-online-shooter-game.jpg" medium="image" type="image/webp" />
       <media:title type="html">GORILGO FPS: Online Shooter - PvP &amp; Action</media:title>
       <media:description type="html">Play GORILGO FPS: Online Shooter online. GORILGO FPS: Online Shooter is a fast 3D browser FPS that mixes conventional gunplay with a surprising gorilla transformation. Read the arena, switch between ranged pressure and close combat, and use movement to create the next opening instead of standing still. No download required.</media:description>
+    </item>
+    <item>
+      <title>Formula Apex Rush - Play Online</title>
+      <link>https://www.kinginthegame.com/games/formula-apex-rush-game.html</link>
+      <guid isPermaLink="true">https://www.kinginthegame.com/games/formula-apex-rush-game.html</guid>
+      <description>Play Formula Apex Rush online. Formula Apex Rush turns browser racing into a compact championship across eight regions and 40 events. Rain, debris, upgrades and the rival called THE BARON make each clean lap part of a larger progression run. No download required.</description>
+      <category>Racing &amp; Off-Road</category>
+      <pubDate>Sat, 31 Oct 2026 18:14:35 GMT</pubDate>
+      <enclosure url="https://www.kinginthegame.com/assets/screenshots/formula-apex-rush-game.jpg" type="image/webp" />
+      <media:content url="https://www.kinginthegame.com/assets/screenshots/formula-apex-rush-game.jpg" medium="image" type="image/webp" />
+      <media:title type="html">Formula Apex Rush - Racing &amp; Off-Road</media:title>
+      <media:description type="html">Play Formula Apex Rush online. Formula Apex Rush turns browser racing into a compact championship across eight regions and 40 events. Rain, debris, upgrades and the rival called THE BARON make each clean lap part of a larger progression run. No download required.</media:description>
+    </item>
+    <item>
+      <title>Nutty Rush Kart - Play Online</title>
+      <link>https://www.kinginthegame.com/games/nutty-rush-kart-game.html</link>
+      <guid isPermaLink="true">https://www.kinginthegame.com/games/nutty-rush-kart-game.html</guid>
+      <description>Play Nutty Rush Kart online. Nutty Rush Kart is a colourful 3D kart racer with 12 characters, customizable kart parts and 40 tracks spread across eight worlds. Drifting charges a boost, speed pads reward a good line and nut projectiles let racers turn a close cup race into a tactical sprint. No download required.</description>
+      <category>Racing &amp; Off-Road</category>
+      <pubDate>Sat, 31 Oct 2026 18:14:35 GMT</pubDate>
+      <enclosure url="https://www.kinginthegame.com/assets/screenshots/nutty-rush-kart-game.jpg" type="image/webp" />
+      <media:content url="https://www.kinginthegame.com/assets/screenshots/nutty-rush-kart-game.jpg" medium="image" type="image/webp" />
+      <media:title type="html">Nutty Rush Kart - Racing &amp; Off-Road</media:title>
+      <media:description type="html">Play Nutty Rush Kart online. Nutty Rush Kart is a colourful 3D kart racer with 12 characters, customizable kart parts and 40 tracks spread across eight worlds. Drifting charges a boost, speed pads reward a good line and nut projectiles let racers turn a close cup race into a tactical sprint. No download required.</media:description>
+    </item>
+    <item>
+      <title>Simulator GT Motorsport - Play Online</title>
+      <link>https://www.kinginthegame.com/games/simulator-gt-motorsport-game.html</link>
+      <guid isPermaLink="true">https://www.kinginthegame.com/games/simulator-gt-motorsport-game.html</guid>
+      <description>Play Simulator GT Motorsport online. Simulator GT Motorsport gives browser racers a structured garage loop: pick a GT-style car, improve it, build a skill tree and then choose between Circuit, Short Race, Drag Race and Drift events. The different modes reward different driving habits rather than one universal setup. No download required.</description>
+      <category>Racing &amp; Off-Road</category>
+      <pubDate>Sat, 31 Oct 2026 18:14:35 GMT</pubDate>
+      <enclosure url="https://www.kinginthegame.com/assets/screenshots/simulator-gt-motorsport-game.jpg" type="image/webp" />
+      <media:content url="https://www.kinginthegame.com/assets/screenshots/simulator-gt-motorsport-game.jpg" medium="image" type="image/webp" />
+      <media:title type="html">Simulator GT Motorsport - Racing &amp; Off-Road</media:title>
+      <media:description type="html">Play Simulator GT Motorsport online. Simulator GT Motorsport gives browser racers a structured garage loop: pick a GT-style car, improve it, build a skill tree and then choose between Circuit, Short Race, Drag Race and Drift events. The different modes reward different driving habits rather than one universal setup. No download required.</media:description>
     </item>
   </channel>
 </rss>
