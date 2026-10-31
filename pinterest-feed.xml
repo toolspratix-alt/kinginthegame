@@ -5,7 +5,7 @@
     <link>https://www.kinginthegame.com/</link>
     <description>Curated browser games across multiplayer PvP, mini strategy, racing and sports.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 31 Oct 2026 18:14:35 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 18:32:53 GMT</lastBuildDate>
     <atom:link href="https://www.kinginthegame.com/pinterest-feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Monster Truck Off Road 2 - Play Online</title>
@@ -462,6 +462,18 @@
       <media:content url="https://www.kinginthegame.com/assets/screenshots/simulator-gt-motorsport-game.jpg" medium="image" type="image/webp" />
       <media:title type="html">Simulator GT Motorsport - Racing &amp; Off-Road</media:title>
       <media:description type="html">Play Simulator GT Motorsport online. Simulator GT Motorsport gives browser racers a structured garage loop: pick a GT-style car, improve it, build a skill tree and then choose between Circuit, Short Race, Drag Race and Drift events. The different modes reward different driving habits rather than one universal setup. No download required.</media:description>
+    </item>
+    <item>
+      <title>Modern Strike Shooting Game - Play Online</title>
+      <link>https://www.kinginthegame.com/games/modern-strike-shooting-game-game.html</link>
+      <guid isPermaLink="true">https://www.kinginthegame.com/games/modern-strike-shooting-game-game.html</guid>
+      <description>Play Modern Strike Shooting Game online. Modern Strike Shooting Game is a focused browser FPS built around precision, quick reactions and tactical movement. Enter compact combat encounters, read the battlefield before moving and improve your aim instead of relying on uncontrolled fire. No download required.</description>
+      <category>PvP &amp; Action</category>
+      <pubDate>Sat, 31 Oct 2026 18:32:53 GMT</pubDate>
+      <enclosure url="https://www.kinginthegame.com/assets/screenshots/modern-strike-shooting-game-game.jpg" type="image/webp" />
+      <media:content url="https://www.kinginthegame.com/assets/screenshots/modern-strike-shooting-game-game.jpg" medium="image" type="image/webp" />
+      <media:title type="html">Modern Strike Shooting Game - PvP &amp; Action</media:title>
+      <media:description type="html">Play Modern Strike Shooting Game online. Modern Strike Shooting Game is a focused browser FPS built around precision, quick reactions and tactical movement. Enter compact combat encounters, read the battlefield before moving and improve your aim instead of relying on uncontrolled fire. No download required.</media:description>
     </item>
   </channel>
 </rss>
