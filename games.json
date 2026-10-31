@@ -557,5 +557,24 @@
     "cover": "/assets/screenshots/boom-cell-game.webp",
     "art": "art-pool",
     "symbol": "✦"
+  },
+  {
+    "id": "gorilgo-fps-online-shooter-game",
+    "title": "GORILGO FPS: Online Shooter",
+    "genre": "PvP & Action",
+    "genreKey": "action",
+    "label": "3D Online FPS / Gorilla Combat",
+    "token": "hoex3mtd9ybmhmz4t057b6i1u25l38qo",
+    "source": "https://gamemonetize.com/gorilgo-fps-online-shooter-game",
+    "editorial": "GORILGO FPS: Online Shooter is a fast 3D browser FPS that mixes conventional gunplay with a surprising gorilla transformation. Read the arena, switch between ranged pressure and close combat, and use movement to create the next opening instead of standing still.",
+    "whySelected": "GameMonetize lists it as a current 3D multiplayer and action title, and its human-versus-gorilla combat gives the PvP & Action collection a distinctive hook. Its verified mobile-ready status also makes it a strong fit for quick browser sessions.",
+    "howToPlay": "Move through the arena with WASD, jump with Space and press F to transform into a gorilla. Use human form to control distance with weapons, then change form when an opponent is exposed or the fight becomes close-range. Keep moving, check corners before committing and switch forms deliberately rather than using the transformation on cooldown.",
+    "controls": "Desktop: WASD to move, Space to jump, F to transform into a gorilla. Mobile: use the on-screen controls provided by the game.",
+    "audience": "Players who enjoy browser FPS games, online arena combat, fast movement and unusual transformation mechanics.",
+    "embed": "https://html5.gamemonetize.co/hoex3mtd9ybmhmz4t057b6i1u25l38qo/",
+    "provider": "GameMonetize",
+    "cover": "/assets/screenshots/gorilgo-fps-online-shooter-game.jpg",
+    "art": "art-smash",
+    "symbol": "✦"
   }
 ]
