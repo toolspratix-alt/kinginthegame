@@ -633,5 +633,24 @@
     "cover": "/assets/screenshots/simulator-gt-motorsport-game.jpg",
     "art": "art-racing",
     "symbol": "✦"
+  },
+  {
+    "id": "modern-strike-shooting-game-game",
+    "title": "Modern Strike Shooting Game",
+    "genre": "PvP & Action",
+    "genreKey": "action",
+    "label": "Military FPS / Tactical Shooting",
+    "token": "gb1p2hjo6ij6h733k1regku3jwuvk98s",
+    "source": "https://gamemonetize.com/modern-strike-shooting-game-game",
+    "editorial": "Modern Strike Shooting Game is a focused browser FPS built around precision, quick reactions and tactical movement. Enter compact combat encounters, read the battlefield before moving and improve your aim instead of relying on uncontrolled fire.",
+    "whySelected": "GameMonetize lists it as a recent mobile-ready Action title with Adventure tags. Its clear first-person shooting loop adds a direct military FPS option to the PvP & Action collection and complements the portal’s existing arena and team-combat games.",
+    "howToPlay": "Move with W, Arrow Up, S, Arrow Down, A, Arrow Left, D or Arrow Right. Use the mouse to click buttons and manage the interface. Start by learning the arena layout, keep your crosshair at likely enemy height and move between cover points instead of staying exposed while reloading or changing position.",
+    "controls": "Desktop: W/Arrow Up move forward; S/Arrow Down move back; A/Arrow Left move left; D/Arrow Right move right; use the mouse to click buttons. Mobile: use the on-screen controls supplied by the game.",
+    "audience": "Players who enjoy browser FPS games, military shooting, tactical movement and short action sessions.",
+    "embed": "https://html5.gamemonetize.co/gb1p2hjo6ij6h733k1regku3jwuvk98s/",
+    "provider": "GameMonetize",
+    "cover": "/assets/screenshots/modern-strike-shooting-game-game.jpg",
+    "art": "art-smash",
+    "symbol": "✦"
   }
 ]
