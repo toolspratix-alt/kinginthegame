@@ -1,0 +1,44 @@
+:root{--guide-gap:14px}
+.guide-page{max-width:1180px;margin:0 auto;padding:82px clamp(18px,8vw,125px) 110px}
+.guide-hero{padding:18px 0 70px;border-bottom:1px solid var(--line)}
+.guide-hero h1{max-width:900px;font:600 clamp(48px,7vw,88px)/.96 var(--display);letter-spacing:-.075em;margin:25px 0}
+.guide-hero h1 em{font-style:normal;color:var(--violet)}
+.guide-lead{max-width:720px;color:var(--muted);font-size:16px;line-height:1.8}
+.guide-section{padding:62px 0 0}
+.guide-section-head{margin-bottom:24px}
+.guide-section-head .mono{display:block;margin-bottom:14px}
+.guide-section-head h2{font:500 clamp(30px,4vw,48px)/1 var(--display);letter-spacing:-.055em;margin:0}
+.guide-lanes{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:var(--guide-gap)}
+.guide-lane{background:var(--surface);border:1px solid var(--line);padding:25px 25px 18px}
+.guide-lane h3{font:500 24px/1.1 var(--display);letter-spacing:-.035em;margin:23px 0 10px}
+.guide-lane>p,.guide-method>p{color:var(--muted);font-size:13px;line-height:1.8}
+.guide-game-links{list-style:none;padding:0;margin:20px 0 0;border-top:1px solid var(--line)}
+.guide-game-links li{display:flex;justify-content:space-between;align-items:center;gap:12px;padding:12px 0;border-bottom:1px solid var(--line);font-size:12px}
+.guide-game-links a,.text-link{color:var(--text);text-decoration:none}
+.guide-game-links a:hover,.text-link:hover{color:var(--lime)}
+.guide-game-links span{font:9px var(--mono);letter-spacing:.04em;text-align:right;color:var(--muted)}
+.guide-steps ol{padding-left:22px;color:var(--muted);font-size:14px;line-height:1.85}
+.guide-steps li{padding:5px 0 5px 6px}
+.guide-steps strong{color:var(--text)}
+.guide-note{border-left:2px solid var(--lime);padding:10px 15px;color:var(--muted);font-size:12px;line-height:1.8;background:rgba(200,241,105,.035)}
+.guide-method{padding-bottom:22px}
+.guide-method .text-link{display:inline-block;margin-top:12px;color:var(--lime);font:11px var(--mono);text-transform:uppercase;letter-spacing:.05em}
+.guide-updated{margin-top:28px;color:var(--muted);font:10px var(--mono);letter-spacing:.08em}
+.guide-language{display:flex;gap:9px;margin-left:auto;font:10px var(--mono)}
+.guide-language a{color:var(--muted);text-decoration:none;padding:6px 7px;border:1px solid var(--line)}
+.guide-language a[aria-current=page],.guide-language a:hover{color:var(--bg);background:var(--lime);border-color:var(--lime)}
+[dir=rtl] .guide-game-links li{flex-direction:row-reverse;text-align:right}
+[dir=rtl] .guide-note{border-left:0;border-right:2px solid var(--lime)}
+@media(max-width:700px){
+  .guide-page{padding-top:58px}
+  .guide-hero{padding-bottom:48px}
+  .guide-lanes{grid-template-columns:1fr}
+  .guide-lane{padding:21px 18px 14px}
+  .guide-section{padding-top:48px}
+  .guide-game-links li{align-items:flex-start;flex-direction:column;gap:4px}
+  .guide-game-links span{text-align:left}
+  .guide-language{margin-left:0}
+  .portal-header{gap:18px}
+  .portal-header nav{display:flex;gap:14px;flex-wrap:wrap}
+  .portal-header nav a{font-size:9px}
+}
