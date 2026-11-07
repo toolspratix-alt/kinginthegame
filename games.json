@@ -652,5 +652,24 @@
     "cover": "/assets/screenshots/modern-strike-shooting-game-game.jpg",
     "art": "art-smash",
     "symbol": "✦"
+  },
+  {
+    "id": "neo-traffic-rider-championship-game",
+    "title": "Neo Traffic Rider Championship Online",
+    "genre": "Racing & Off-Road",
+    "genreKey": "racing",
+    "label": "Motorcycle Traffic Racing / Championship",
+    "token": "dm8ngpar3dl31cyznpozi35l5tlworw2",
+    "source": "https://gamemonetize.com/neo-traffic-rider-championship-game",
+    "editorial": "Neo Traffic Rider Championship Online puts you in the cockpit of a sportbike and turns traffic racing into a structured championship. Race seven rivals across six destinations, complete 18 events, improve the engine and tyres, then switch to Rider Trials or Unlimited Run when you want a different challenge.",
+    "whySelected": "GameMonetize lists this as a recent mobile-ready Racing game with Adventure tags. Its championship events, slipstream system, boost timing, upgrades and traffic-focused Unlimited Run mode make it a natural fit for the Racing & Off-Road collection.",
+    "howToPlay": "Choose a destination and learn the road rhythm before chasing the lead. Steer with A/D or the Left/Right Arrow keys, use W or Up when Auto Throttle is off, brake with S or Down, then activate boost with Space or Shift after building a useful passing line or slipstream. Try Rider Trials for focused goals and Unlimited Run for distance records.",
+    "controls": "Desktop: A/D or Left/Right steer; W/Up accelerate when Auto Throttle is off; S/Down brake; Space/Shift boost; Esc/P pause or resume. Mobile: use the on-screen controls supplied by the game.",
+    "audience": "Players who enjoy motorcycle racing, traffic dodging, championship progression, boost timing and quick browser sessions.",
+    "embed": "https://html5.gamemonetize.co/dm8ngpar3dl31cyznpozi35l5tlworw2/",
+    "provider": "GameMonetize",
+    "cover": "/assets/screenshots/neo-traffic-rider-championship-game.jpg",
+    "art": "art-racing",
+    "symbol": "✦"
   }
 ]
