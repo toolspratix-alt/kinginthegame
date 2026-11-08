@@ -1,0 +1,237 @@
+{
+  "locale": "it",
+  "home": {
+    "meta_title": "Giochi, soluzioni e guide gaming | King in the Game",
+    "meta_description": "Consigli pratici sui giochi per browser, soluzioni sicure ai problemi più comuni e suggerimenti sinceri sull'attrezzatura gaming, da King in the Game. Leggi, condividi e trova il tuo prossimo gioco.",
+    "eyebrow": "IL BLOG DEI GIOCATORI",
+    "title": "Scelte migliori.\nPiù gioco.",
+    "lead": "Consigli utili e schietti per trovare giochi per browser, risolvere i problemi di avvio più comuni e scegliere l'attrezzatura gaming con lucidità.",
+    "latest": "ULTIMI ARTICOLI",
+    "disclosure_title": "Come funzionano i consigli",
+    "disclosure": "Spieghiamo su cosa si basa ogni articolo. Se un articolo contiene un link affiliato, lo segnaliamo accanto al link; se effettui un acquisto, il sito potrebbe ricevere una commissione senza costi aggiuntivi per te. Non affermiamo di aver testato prodotti, a meno che l'articolo non lo dichiari esplicitamente."
+  },
+  "ui": {
+    "nav_blog": "Blog",
+    "nav_home": "Home",
+    "nav_games": "Giochi",
+    "nav_guides": "Guide",
+    "nav_about": "Chi siamo",
+    "read_article": "Leggi l'articolo",
+    "read_time": "min di lettura",
+    "published": "Pubblicato",
+    "updated": "Aggiornato",
+    "share_title": "Condividi questo articolo",
+    "share_native": "Condividi",
+    "share_copy": "Copia link",
+    "share_copied": "Copiato",
+    "share_x": "X",
+    "share_facebook": "Facebook",
+    "share_whatsapp": "WhatsApp",
+    "share_telegram": "Telegram",
+    "share_reddit": "Reddit",
+    "back_to_blog": "Tutti gli articoli",
+    "related_games": "Giochi menzionati",
+    "open_game": "Apri la pagina del gioco",
+    "faq": "Risposte rapide",
+    "affiliate_title": "Nota sui link affiliati",
+    "affiliate_empty": "Questa guida al momento non contiene link affiliati a prodotti. È una lista di controllo per gli acquisti, non una prova pratica dei prodotti. Se in futuro aggiungeremo link a partner, li indicheremo chiaramente accanto al consiglio.",
+    "footer_about": "Informazioni sul portale",
+    "footer_privacy": "Privacy",
+    "footer_terms": "Termini",
+    "footer_contact": "Contatti",
+    "footer_tagline": "Gioca gratis ai giochi per browser"
+  },
+  "posts": [
+    {
+      "slug": "two-player-browser-games",
+      "category": "GIOCHI CONSIGLIATI",
+      "meta_title": "Giochi per browser a 2 giocatori: scegli la sfida",
+      "meta_description": "Cerchi giochi per browser a due giocatori? Prima di invitare un amico, controlla dispositivo, comandi e modalità di gioco. Ecco una rapida lista di controllo e alcuni giochi consigliati.",
+      "title": "Cerchi un gioco per browser a 2 giocatori? Parti dalla configurazione.",
+      "excerpt": "La scelta migliore dipende da più del genere. Prima verifica se vuoi uno schermo condiviso o due dispositivi, poi controlla i comandi e la modalità di gioco.",
+      "minutes": 5,
+      "date_published": "2026-11-09",
+      "sections": [
+        {
+          "heading": "Decidi come giocare insieme",
+          "paragraphs": [
+            "Prima di scegliere un titolo, rispondi a una domanda pratica: giocherete entrambi sullo stesso dispositivo oppure ciascuno si collegherà da un dispositivo separato? Sono due modi diversi di giocare. Un gioco indicato come adatto a due giocatori potrebbe usare una sola tastiera, uno schermo condiviso, una stanza online o un'altra configurazione. Il solo titolo non conferma quale modalità sia supportata.",
+            "Se siete seduti insieme, cerca istruzioni chiare per due giocatori o per il gioco in locale e verifica che i comandi si possano condividere comodamente. Se siete lontani, cerca una modalità multigiocatore online e un modo per invitare un amico o unirti a lui. Se la pagina del gioco non lo specifica, considera la modalità non confermata anziché tirare a indovinare."
+          ]
+        },
+        {
+          "heading": "Scegli il ritmo adatto al gruppo",
+          "paragraphs": [
+            "Per una sfida veloce a turni, i giochi a tema sportivo possono essere un buon punto di partenza. Per esempio, il portale include Soccer Random e VOLLEY CLASH nella raccolta sportiva. Questo indica la categoria del catalogo, non garantisce che uno dei due titoli abbia una specifica modalità locale o online; controlla la pagina del singolo gioco prima di invitare qualcuno.",
+            "Se cerchi un titolo presentato esplicitamente come gioco per due, Battle Tung Tung Sahur 2Player è una scelta naturale da esaminare. Apri la pagina, verifica le istruzioni mostrate e valuta se i comandi sono adatti alla tua configurazione. Per una sessione a squadre o in stile sparatutto, esplora la raccolta PvP e azione, ma verifica la modalità di gioco per ciascun titolo."
+          ]
+        },
+        {
+          "heading": "Prima di invitare qualcuno, fai tre controlli",
+          "paragraphs": [
+            "Per prima cosa, verifica il numero di giocatori e se si gioca in locale o online. Poi controlla i comandi e i dispositivi supportati. Infine, avvia il gioco una volta da solo prima di inviare il link. Così puoi evitare inconvenienti, come una modalità diversa da quella prevista, comandi scomodi su un'unica tastiera o un gioco temporaneamente non disponibile.",
+            "Condividi la pagina esatta del gioco, non una pagina generica della categoria. Il tuo amico potrà leggere le stesse istruzioni e vedere le stesse informazioni sul fornitore. Se il titolo dipende da una piattaforma esterna, la disponibilità può cambiare: tieni pronta una seconda opzione."
+          ]
+        },
+        {
+          "heading": "In breve",
+          "paragraphs": [
+            "Scegli prima la configurazione, poi l'atmosfera e infine il gioco. Il nome o il genere di un titolo sono indizi, non prove delle sue funzionalità multigiocatore. Controlla le istruzioni sulla pagina del gioco: passerai meno tempo a risolvere problemi e più tempo a decidere chi farà il turno successivo."
+          ]
+        }
+      ],
+      "game_links": [
+        {
+          "id": "battle-tung-tung-sahur-2player-game",
+          "title": "Battle Tung Tung Sahur 2Player",
+          "caption": "Il titolo suggerisce due giocatori; verifica la configurazione nel gioco."
+        },
+        {
+          "id": "soccer-random-game",
+          "title": "Soccer Random",
+          "caption": "Un gioco sportivo della raccolta attuale."
+        },
+        {
+          "id": "volley-clash-game",
+          "title": "VOLLEY CLASH",
+          "caption": "Un gioco a tema pallavolo; controlla la modalità indicata."
+        }
+      ],
+      "faq": [
+        {
+          "question": "Tutti i giochi per browser a 2 giocatori funzionano con una sola tastiera?",
+          "answer": "No. Il numero di giocatori e i comandi variano da un titolo all'altro. Prima di iniziare, controlla le istruzioni per il gioco in locale, su dispositivo condiviso o online."
+        },
+        {
+          "question": "Posso invitare un amico a qualsiasi gioco del portale?",
+          "answer": "Non necessariamente. Il portale rimanda a giochi ospitati su piattaforme di terze parti e le opzioni multigiocatore dipendono dal singolo titolo. Verifica la modalità sulla pagina del gioco."
+        },
+        {
+          "question": "Cosa dovrei condividere con un amico?",
+          "answer": "Condividi il link diretto alla pagina del gioco, così entrambi potrete consultare le stesse informazioni su comandi, fornitore e disponibilità."
+        }
+      ]
+    },
+    {
+      "slug": "browser-game-not-loading",
+      "category": "RISOLUZIONE DEI PROBLEMI",
+      "meta_title": "Il gioco per browser non si carica? Prova questi controlli sicuri",
+      "meta_description": "Il gioco per browser mostra una schermata vuota? Prova questi controlli sicuri per connessione, browser, compatibilità del dispositivo e disponibilità del gioco di terze parti.",
+      "title": "Il gioco per browser non si carica? Prova prima questi controlli.",
+      "excerpt": "Un riquadro vuoto non significa sempre che il gioco non sia più disponibile. Segui con calma una lista di controllo sicura per capire se il caricamento è lento o se c'è un problema con il browser, il dispositivo o il fornitore.",
+      "minutes": 5,
+      "date_published": "2026-11-09",
+      "sections": [
+        {
+          "heading": "1. Attendi qualche istante",
+          "paragraphs": [
+            "Alcuni titoli si caricano all'interno di una finestra di gioco incorporata e il gioco stesso potrebbe richiedere più tempo della pagina che lo contiene. Attendi brevemente, poi controlla se nel riquadro del gioco compare un indicatore di caricamento o un'istruzione. Evita di fare clic ripetutamente, soprattutto se il gioco ha già iniziato a rispondere.",
+            "Se la pagina include una descrizione del gioco, una fonte o un link al fornitore, tieni a portata di mano queste informazioni. Ti aiutano a distinguere la pagina del portale dal servizio di terze parti che fornisce effettivamente il gioco."
+          ]
+        },
+        {
+          "heading": "2. Controlla le cose semplici senza ridurre la sicurezza",
+          "paragraphs": [
+            "Verifica che la connessione funzioni aprendo un'altra pagina che conosci. Poi prova un normale aggiornamento della pagina. Se il gioco potrebbe salvare i progressi solo durante la sessione, ricorda che ricaricandolo potresti ricominciare da capo. Se il dispositivo è sotto carico, chiudi alcune schede impegnative e assicurati che il browser sia aggiornato.",
+            "Per far funzionare un gioco per browser, non installare estensioni, file eseguibili o ‘lettori speciali’ proposti da finestre pop-up inaspettate. Un gioco pensato per avviarsi nella pagina non dovrebbe richiedere un download sconosciuto. Mantieni attive le protezioni di sicurezza del browser."
+          ]
+        },
+        {
+          "heading": "3. Verifica la compatibilità del dispositivo e dei comandi",
+          "paragraphs": [
+            "I comandi e la compatibilità con i dispositivi variano da un gioco all'altro. Un titolo progettato per tastiera e mouse può essere difficile da usare su un telefono, mentre i comandi touch potrebbero non essere disponibili per tutti i giochi. Prima di cambiare dispositivo, leggi la pagina del gioco e le eventuali istruzioni mostrate nel riquadro.",
+            "Se un titolo non funziona, provane un altro della stessa categoria. Se diversi giochi non correlati smettono di funzionare nello stesso momento, il problema potrebbe dipendere dalla connessione, dalle impostazioni del browser o da un fornitore di terze parti, anziché da un singolo titolo."
+          ]
+        },
+        {
+          "heading": "4. Considera che il problema potrebbe dipendere dal fornitore",
+          "paragraphs": [
+            "King in the Game è un portale di scoperta; i singoli titoli sono forniti dalle rispettive piattaforme. Un fornitore può modificare la disponibilità, il comportamento di caricamento o i contenuti incorporati. Se la pagina del gioco e il link al fornitore sono disponibili, confronta la scheda del fornitore con la versione incorporata. Se nessuna delle due è disponibile, riprova più tardi o scegli un altro titolo.",
+            "La procedura di risoluzione più sicura è semplice: attendi, controlla la connessione, aggiorna la pagina una volta, verifica le istruzioni per il dispositivo ed evita download sconosciuti. Se il problema persiste, quando contatti il sito o il fornitore indica il titolo del gioco e il dispositivo che stai usando."
+          ]
+        }
+      ],
+      "game_links": [
+        {
+          "id": "rocket-clash-3d",
+          "title": "Rocket Clash 3D",
+          "caption": "Apri un altro titolo e confronta le istruzioni della relativa pagina."
+        },
+        {
+          "id": "monster-truck-off-road-2",
+          "title": "Monster Truck Off Road 2",
+          "caption": "Se un gioco non è disponibile, prova una categoria diversa."
+        }
+      ],
+      "faq": [
+        {
+          "question": "Devo scaricare un lettore se me lo chiede un gioco per browser?",
+          "answer": "Non installare file o estensioni sconosciuti proposti da richieste inaspettate. Se il gioco non si carica, usa il link al fornitore presente nella pagina oppure scegli un altro titolo."
+        },
+        {
+          "question": "Perché la finestra del gioco resta vuota?",
+          "answer": "Potrebbe dipendere dal browser, dalla connessione, dalla compatibilità del dispositivo o dalla piattaforma di terze parti. Controlla le istruzioni del gioco e prova ad aggiornare la pagina una volta prima di proseguire con la risoluzione del problema."
+        },
+        {
+          "question": "Il portale può garantire che un gioco sia sempre disponibile?",
+          "answer": "No. I giochi sono forniti da piattaforme di terze parti, quindi l'accesso e il comportamento dei contenuti incorporati possono cambiare indipendentemente dal portale."
+        }
+      ]
+    },
+    {
+      "slug": "budget-gaming-setup",
+      "category": "GUIDA AGLI ACQUISTI",
+      "meta_title": "Postazione gaming economica: cosa comprare per primo",
+      "meta_description": "Crea una postazione gaming comoda con un budget limitato. Dai priorità a comandi, comfort, compatibilità e resi prima delle specifiche appariscenti o degli accessori.",
+      "title": "Una postazione gaming comoda ed economica: cosa comprare per primo.",
+      "excerpt": "Non serve una scrivania piena di accessori per divertirsi con i giochi per browser. Parti dai comandi che usi davvero, poi investi in comfort e compatibilità, non nelle promesse di marketing.",
+      "minutes": 6,
+      "date_published": "2026-11-09",
+      "sections": [
+        {
+          "heading": "Parti dai giochi, non dalla lista della spesa",
+          "paragraphs": [
+            "Prima di acquistare qualcosa, fai un elenco dei giochi a cui giochi davvero e dei comandi che usano. Molti giochi per browser si basano su tastiera e mouse, ma i comandi variano da un gioco all'altro e alcuni supportano il touch. Per prima cosa controlla le istruzioni sulla pagina del gioco. Un nuovo accessorio non può risolvere il problema di un titolo incompatibile con il tuo dispositivo o con il metodo di controllo che preferisci.",
+            "Stabilisci un budget preciso e tienine una parte da parte finché non capisci cosa ti risulta scomodo. Un aggiornamento utile risolve un problema ricorrente, come un mouse inaffidabile, una tastiera troppo piccola o un visore scomodo, non una specifica di cui non hai mai avuto bisogno."
+          ]
+        },
+        {
+          "heading": "Dai priorità a comfort e compatibilità",
+          "paragraphs": [
+            "Se usi il mouse per sessioni lunghe, scegli dimensioni e forma che risultino comode per la tua mano. Controlla che la connessione sia compatibile con il computer e valuta se preferisci un modello con o senza cavo. Un'elevata sensibilità dichiarata o un effetto luminoso, da soli, non dimostrano che un mouse faccia al caso tuo.",
+            "Per la tastiera, considera il layout, lo spazio sulla scrivania, il rumore e la facilità con cui raggiungi i tasti che usi. Un visore con cuffie può essere utile se l'audio nitido o la chat vocale sono importanti nei giochi a cui giochi; altrimenti, potrebbe essere un optional. Il comfort è soggettivo, quindi una buona politica di reso può contare più di un lungo elenco di funzionalità."
+          ]
+        },
+        {
+          "heading": "Un semplice ordine per le spese",
+          "paragraphs": [
+            "Per prima cosa, verifica che il browser e il dispositivo che già possiedi rispettino le istruzioni mostrate dal gioco. Poi sostituisci l'articolo che crea più difficoltà durante il normale utilizzo. Infine, valuta accessori audio o da scrivania opzionali solo se risolvono un problema concreto. Non dare per scontato che l'etichetta ‘gaming’ migliori automaticamente la frequenza dei fotogrammi o le prestazioni del gioco.",
+            "Prima di concludere l'acquisto, confronta il prezzo totale, la compatibilità, la garanzia, le condizioni di reso e il venditore. Leggi recensioni indipendenti recenti del modello esatto e cerca eventuali problemi ricorrenti di comfort o affidabilità. Non decidere basandoti su un solo video di un influencer o su una specifica messa in evidenza."
+          ]
+        },
+        {
+          "heading": "Come gestiamo i consigli sui prodotti",
+          "paragraphs": [
+            "Questo articolo è una lista generale di controllo per gli acquisti, non una recensione pratica né un'affermazione che abbiamo testato prodotti specifici. Al momento non contiene link affiliati a prodotti. Se in futuro il portale aggiungerà link a partner, li segnaleremo accanto al consiglio e spiegheremo quando un acquisto potrebbe fruttare al sito una commissione senza costi aggiuntivi per te.",
+            "Una guida utile all'attrezzatura dovrebbe spiegare cosa è stato verificato, cosa non è stato verificato e a chi potrebbe essere adatto un prodotto. Finché un articolo specifico non sarà stato valutato e il rapporto di affiliazione non sarà chiaro, il consiglio più onesto è usare la lista qui sopra e acquistare solo quando un aggiornamento risolve una necessità reale."
+          ]
+        }
+      ],
+      "game_links": [],
+      "faq": [
+        {
+          "question": "I giochi per browser richiedono un mouse da gaming?",
+          "answer": "Non sempre. Controlla i comandi dei giochi a cui giochi. Un mouse comodo e affidabile può essere utile quando un titolo lo richiede, ma l'etichetta ‘gaming’ da sola non lo rende indispensabile."
+        },
+        {
+          "question": "Dovrei comprare prima un visore con cuffie?",
+          "answer": "Solo se l'audio o la chat vocale sono importanti per i tuoi giochi. Parti dall'uso che ne farai davvero e dal budget, poi valuta comfort, compatibilità e possibilità di reso."
+        },
+        {
+          "question": "Questo articolo contiene link affiliati?",
+          "answer": "Al momento questa guida non contiene link a prodotti attivi. Qualsiasi futuro consiglio affiliato sarà segnalato accanto al relativo link."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,237 @@
+{
+  "locale": "tr",
+  "home": {
+    "meta_title": "Oyunlar, Çözümler ve Ekipman Rehberleri | King in the Game",
+    "meta_description": "King in the Game'den tarayıcı oyunu önerileri, güvenli sorun giderme ipuçları ve dürüst oyun ekipmanı tavsiyeleri. Okuyun, paylaşın ve sıradaki oyununuzu bulun.",
+    "eyebrow": "OYUNCU BLOGU",
+    "title": "Daha iyi seçimler.\nDaha çok oyun.",
+    "lead": "Tarayıcı oyunları bulmak, yaygın açılma sorunlarını gidermek ve oyun ekipmanlarını sağduyuyla seçmek için açık ve işe yarar notlar.",
+    "latest": "SON YAZILAR",
+    "disclosure_title": "Öneriler nasıl hazırlanıyor?",
+    "disclosure": "Her yazının neye dayandığını açıklıyoruz. Bir yazıda satış ortaklığı bağlantısı varsa, bu bağlantının yanında belirtilir; satın alım yapmanız hâlinde site, size ek ücret yansımadan komisyon kazanabilir. Yazıda açıkça belirtilmedikçe ürünleri test ettiğimizi iddia etmiyoruz."
+  },
+  "ui": {
+    "nav_blog": "Blog",
+    "nav_home": "Ana sayfa",
+    "nav_games": "Oyunlar",
+    "nav_guides": "Rehberler",
+    "nav_about": "Hakkında",
+    "read_article": "Yazıyı oku",
+    "read_time": "dk okuma",
+    "published": "Yayımlandı",
+    "updated": "Güncellendi",
+    "share_title": "Bu yazıyı paylaş",
+    "share_native": "Paylaş",
+    "share_copy": "Bağlantıyı kopyala",
+    "share_copied": "Kopyalandı",
+    "share_x": "X",
+    "share_facebook": "Facebook",
+    "share_whatsapp": "WhatsApp",
+    "share_telegram": "Telegram",
+    "share_reddit": "Reddit",
+    "back_to_blog": "Tüm yazılar",
+    "related_games": "Yazıda geçen oyunlar",
+    "open_game": "Oyun sayfasını aç",
+    "faq": "Kısa yanıtlar",
+    "affiliate_title": "Satış ortaklığı notu",
+    "affiliate_empty": "Bu rehberde şu anda satış ortaklığına dayalı ürün bağlantısı yok. Bu bir satın alma kontrol listesi; ürünü deneyerek hazırlanmış bir test değildir. İleride iş ortağı bağlantıları eklenirse, önerinin yanında açıkça etiketlenecektir.",
+    "footer_about": "Bu portal hakkında",
+    "footer_privacy": "Gizlilik",
+    "footer_terms": "Koşullar",
+    "footer_contact": "İletişim",
+    "footer_tagline": "Ücretsiz tarayıcı oyunları oynayın"
+  },
+  "posts": [
+    {
+      "slug": "two-player-browser-games",
+      "category": "OYUN ÖNERİLERİ",
+      "meta_title": "2 Kişilik Tarayıcı Oyunları: Doğru Oyunu Seçin",
+      "meta_description": "İki kişilik tarayıcı oyunu mu arıyorsunuz? Arkadaşınızı davet etmeden önce cihazı, kontrolleri ve oyun modunu kontrol edin. Bu kısa kontrol listesinden ve oyun önerilerinden yararlanın.",
+      "title": "2 kişilik tarayıcı oyunu mu arıyorsunuz? Önce kurulumu belirleyin.",
+      "excerpt": "En uygun oyun yalnızca türe bağlı değildir. Önce tek ekranda mı yoksa iki ayrı cihazda mı oynayacağınıza karar verin; ardından oyunun kontrollerini ve modunu doğrulayın.",
+      "minutes": 5,
+      "date_published": "2026-11-09",
+      "sections": [
+        {
+          "heading": "Birlikte nasıl oynayacağınıza karar verin",
+          "paragraphs": [
+            "Bir oyun seçmeden önce şu pratik soruyu yanıtlayın: İki oyuncu aynı cihazı mı kullanacak, yoksa herkes ayrı bir cihazdan mı katılacak? Bunlar farklı oynama biçimleridir. İki kişilik olarak etiketlenen bir oyun tek klavye, ortak ekran, çevrimiçi oda ya da başka bir kurulum kullanabilir. Yalnızca oyun başlığı, hangi kurulumu desteklediğini doğrulamaz.",
+            "Yan yana oturuyorsanız, iki kişilik veya yerel oyun talimatlarının açık olup olmadığına bakın ve kontrollerin rahatça paylaşılabildiğini kontrol edin. Ayrı yerlerdeyseniz çevrimiçi çok oyunculu bir mod ve arkadaşınızı davet etme ya da oyuna katılma seçeneği arayın. Oyun sayfasında bu bilgi yoksa tahminde bulunmak yerine modu doğrulanmamış kabul edin."
+          ]
+        },
+        {
+          "heading": "Oyunun temposunu gruba göre seçin",
+          "paragraphs": [
+            "Sırayla hızlıca oynanabilecek bir oyun için spor temaları iyi bir başlangıç olabilir. Örneğin portalın spor koleksiyonunda Soccer Random ve VOLLEY CLASH listeleniyor. Bu, koleksiyondaki kategorilerini belirtir; iki oyundan herhangi birinin belirli bir yerel veya çevrimiçi modu olduğuna dair güvence vermez. Birini davet etmeden önce ilgili oyunun sayfasını kontrol edin.",
+            "Açıkça iki kişilik olarak sunulan bir oyun arıyorsanız Battle Tung Tung Sahur 2Player incelemeye değer doğal bir adaydır. Sayfasını açın, gösterilen talimatları doğrulayın ve kontrollerin kurulumunuza uygun olup olmadığına karar verin. Takım veya nişancı tarzı bir oyun oturumu için PvP ve aksiyon koleksiyonuna göz atabilirsiniz; ancak oyuncu modlarını her oyun için ayrı ayrı doğrulayın."
+          ]
+        },
+        {
+          "heading": "Davet etmeden önce üç şeyi kontrol edin",
+          "paragraphs": [
+            "Önce oyuncu sayısını ve oyunun yerel mi çevrimiçi mi olduğunu doğrulayın. İkinci olarak kontrolleri ve cihaz desteğini kontrol edin. Son olarak bağlantıyı göndermeden önce oyunu kendiniz bir kez başlatın. Böylece beklediğinizden farklı bir mod, tek klavyede kullanışsız bir kontrol düzeni veya geçici olarak kullanılamayan bir oyun gibi önlenebilir pürüzleri fark edebilirsiniz.",
+            "Genel bir kategori sayfası yerine doğrudan ilgili oyun sayfasını paylaşın. Arkadaşınız aynı talimatları okuyabilir ve aynı sağlayıcı bilgilerini görebilir. Oyun harici bir platforma bağlıysa kullanılabilirlik değişebilir; bu nedenle ikinci bir seçeneği hazır bulundurun."
+          ]
+        },
+        {
+          "heading": "Kısaca",
+          "paragraphs": [
+            "Önce oynama kurulumunu, sonra istediğiniz havayı, en son oyunu seçin. Bir oyunun adı veya türü, çok oyunculu özelliklerine dair ipucudur; kanıtı değildir. Oyun sayfasındaki talimatları kontrol ederseniz sorun gidermeye daha az, sıradaki turun kimin olacağına karar vermeye daha çok zaman ayırırsınız."
+          ]
+        }
+      ],
+      "game_links": [
+        {
+          "id": "battle-tung-tung-sahur-2player-game",
+          "title": "Battle Tung Tung Sahur 2Player",
+          "caption": "Adı iki oyunculu olduğunu düşündürüyor; oyun içi kurulumu doğrulayın."
+        },
+        {
+          "id": "soccer-random-game",
+          "title": "Soccer Random",
+          "caption": "Mevcut koleksiyondan bir spor oyunu önerisi."
+        },
+        {
+          "id": "volley-clash-game",
+          "title": "VOLLEY CLASH",
+          "caption": "Voleybol temalı bir oyun önerisi; listelenen modu kontrol edin."
+        }
+      ],
+      "faq": [
+        {
+          "question": "Her 2 kişilik tarayıcı oyunu tek klavyede oynanır mı?",
+          "answer": "Hayır. Oyuncu sayısı ve kontroller oyuna göre değişir. Başlamadan önce oyunun talimatlarından yerel, aynı cihazda veya çevrimiçi oynama seçeneklerini kontrol edin."
+        },
+        {
+          "question": "Portaldaki her oyuna bir arkadaşımı davet edebilir miyim?",
+          "answer": "Her zaman değil. Portal, üçüncü taraf platformlardaki oyunlara bağlantı verir ve çok oyunculu seçenekler her oyuna göre değişir. Modu oyun sayfasından doğrulayın."
+        },
+        {
+          "question": "Arkadaşımla ne paylaşmalıyım?",
+          "answer": "İki oyuncunun da aynı kontrolleri, sağlayıcıyı ve kullanılabilirlik bilgilerini inceleyebilmesi için doğrudan oyun sayfasını paylaşın."
+        }
+      ]
+    },
+    {
+      "slug": "browser-game-not-loading",
+      "category": "SORUN GİDERME",
+      "meta_title": "Tarayıcı Oyunu Açılmıyor mu? Güvenli Kontrolleri Deneyin",
+      "meta_description": "Tarayıcı oyunu boş ekranda mı kaldı? Bağlantı, tarayıcı, cihaz desteği ve üçüncü taraf oyunun kullanılabilirliği için bu güvenli kontrolleri deneyin.",
+      "title": "Tarayıcı oyunu açılmıyor mu? Önce bu kontrolleri deneyin.",
+      "excerpt": "Boş bir oyun penceresi, oyunun artık mevcut olmadığı anlamına gelmez. Yavaş yüklenmeyi tarayıcı, cihaz veya sağlayıcı sorunlarından ayırmak için sakin ve güvenli bir kontrol listesi izleyin.",
+      "minutes": 5,
+      "date_published": "2026-11-09",
+      "sections": [
+        {
+          "heading": "1. Oyun alanının yüklenmesi için biraz bekleyin",
+          "paragraphs": [
+            "Bazı oyunlar gömülü bir oyun penceresinde yüklenir ve oyunun kendisi, çevresindeki sayfadan daha geç açılabilir. Kısa bir süre bekleyin, ardından oyun alanında bir yüklenme göstergesi veya talimat olup olmadığına bakın. Özellikle oyun yanıt vermeye başladıysa art arda tıklamaktan kaçının.",
+            "Sayfada oyun açıklaması, kaynak veya sağlayıcı bağlantısı varsa görünür durumda tutun. Bu bilgiler, portal sayfasıyla oyunu gerçekten sunan üçüncü taraf hizmeti birbirinden ayırmanıza yardımcı olur."
+          ]
+        },
+        {
+          "heading": "2. Güvenlikten ödün vermeden basit kontrolleri yapın",
+          "paragraphs": [
+            "Başka, bildiğiniz bir sayfayı açarak bağlantınızın çalıştığını doğrulayın. Ardından normal şekilde bir kez yenileyin. Oyun ilerlemesini yalnızca oturum sırasında kaydediyor olabileceğinden, sayfayı yenilemenin oyunu baştan başlatabileceğini unutmayın. Cihazınız yoğun çalışıyorsa kaynak tüketen birkaç sekmeyi kapatın ve tarayıcınızın güncel olduğundan emin olun.",
+            "Tarayıcı oyununun çalışması için beklenmedik bir açılır penceredeki uzantıyı, çalıştırılabilir dosyayı veya ‘özel oynatıcıyı’ yüklemeyin. Sayfada açılması gereken bir oyun bilinmeyen bir indirme gerektirmemelidir. Tarayıcınızın güvenlik korumalarını etkin tutun."
+          ]
+        },
+        {
+          "heading": "3. Cihaz ve kontrol desteğini kontrol edin",
+          "paragraphs": [
+            "Kontroller ve cihaz desteği oyunlar arasında farklılık gösterir. Klavye ve fare için tasarlanmış bir oyunu telefonda kullanmak zor olabilir; ayrıca her oyunda dokunmatik kontroller bulunmayabilir. Cihaz değiştirmeden önce oyun sayfasını ve oyun penceresinde gösterilen talimatları okuyun.",
+            "Bir oyun açılmazsa aynı kategoriden başka bir oyunu deneyin. Birbiriyle ilgisiz birkaç oyun aynı anda açılmıyorsa sorun tek bir oyundan ziyade bağlantınızdan, tarayıcı ayarlarınızdan veya üçüncü taraf bir sağlayıcıdan kaynaklanıyor olabilir."
+          ]
+        },
+        {
+          "heading": "4. Sorunun sağlayıcıdan kaynaklanabileceğini unutmayın",
+          "paragraphs": [
+            "King in the Game bir keşif portalıdır; oyunları ilgili platformları sunar. Bir sağlayıcı kullanılabilirliği, yüklenme davranışını veya gömülü içeriği değiştirebilir. Oyun sayfası ve sağlayıcı bağlantısı varsa sağlayıcının kendi listesini gömülü sürümle karşılaştırın. Her ikisi de kullanılamıyorsa daha sonra tekrar deneyin veya başka bir oyun seçin.",
+            "En güvenli sorun giderme yolu basittir: bekleyin, bağlantınızı kontrol edin, sayfayı bir kez yenileyin, cihaz talimatlarını doğrulayın ve bilinmeyen dosyaları indirmekten kaçının. Sorun sürerse siteyle veya sağlayıcıyla iletişime geçerken oyunun adını ve kullandığınız cihazı belirtin."
+          ]
+        }
+      ],
+      "game_links": [
+        {
+          "id": "rocket-clash-3d",
+          "title": "Rocket Clash 3D",
+          "caption": "Başka bir oyunu açıp sayfasındaki talimatları karşılaştırın."
+        },
+        {
+          "id": "monster-truck-off-road-2",
+          "title": "Monster Truck Off Road 2",
+          "caption": "Oyun pencerelerinden biri kullanılamıyorsa farklı bir kategori deneyin."
+        }
+      ],
+      "faq": [
+        {
+          "question": "Tarayıcı oyunu isterse bir oynatıcı indirmeli miyim?",
+          "answer": "Beklenmedik istemlerden bilinmeyen dosya veya uzantılar yüklemeyin. Oyun açılmazsa oyun sayfasındaki sağlayıcı bağlantısını kullanın veya başka bir oyun seçin."
+        },
+        {
+          "question": "Oyun penceresi neden boş kalıyor?",
+          "answer": "Tarayıcı, bağlantı, cihaz desteği veya üçüncü taraf platformla ilgili bir sorun olabilir. Daha fazla sorun gidermeye geçmeden oyun talimatlarını kontrol edin ve sayfayı bir kez yenileyin."
+        },
+        {
+          "question": "Portal bir oyunun her zaman kullanılabilir olacağını garanti edebilir mi?",
+          "answer": "Hayır. Oyunlar üçüncü taraf platformlardan sunulduğu için erişim ve gömülü oyun davranışı portaldan bağımsız olarak değişebilir."
+        }
+      ]
+    },
+    {
+      "slug": "budget-gaming-setup",
+      "category": "SATIN ALMA REHBERİ",
+      "meta_title": "Uygun Bütçeli Oyun Kurulumu: Önce Ne Almalı?",
+      "meta_description": "Bütçenizi aşmadan rahat bir oyun kurulumu oluşturun. Gösterişli özelliklere veya ekstralara para vermeden önce kontrolleri, rahatlığı, uyumluluğu ve iade koşullarını önceliklendirin.",
+      "title": "Bütçeye uygun, rahat bir oyun kurulumu: önce ne almalı?",
+      "excerpt": "Tarayıcı oyunlarının keyfini çıkarmak için masanızı ekipmanla doldurmanız gerekmez. Önce gerçekten kullandığınız kontrol araçlarına, sonra da pazarlama iddialarına değil rahatlığa ve uyumluluğa yatırım yapın.",
+      "minutes": 6,
+      "date_published": "2026-11-09",
+      "sections": [
+        {
+          "heading": "Alışveriş listesiyle değil, oynadığınız oyunlarla başlayın",
+          "paragraphs": [
+            "Herhangi bir şey satın almadan önce gerçekten oynadığınız oyunları ve kullandıkları kontrolleri listeleyin. Pek çok tarayıcı oyunu klavye ve fareyle oynanır; ancak kontroller oyuna göre değişir ve bazıları dokunmatik girişi destekler. Önce oyun sayfasındaki talimatları kontrol edin. Yeni donanım, cihazınızı veya tercih ettiğiniz kontrol yöntemini desteklemeyen bir oyunu düzeltmez.",
+            "Kesin bir bütçe belirleyin ve neyin rahatsızlık verdiğini anlayana kadar bir kısmını harcamayın. Yararlı bir yükseltme, daha önce hiç ihtiyaç duymadığınız bir özelliği değil; güven vermeyen bir fare, dar bir klavye veya rahatsız bir kulaklık gibi tekrar eden bir sorunu çözer."
+          ]
+        },
+        {
+          "heading": "Rahatlığı ve uyumluluğu önceliklendirin",
+          "paragraphs": [
+            "Uzun süre fare kullanıyorsanız elinize rahat oturan bir boyut ve şekil seçin. Bağlantı türünün bilgisayarınızla çalışıp çalışmadığını ve kablolu mu kablosuz mu tercih ettiğinizi kontrol edin. Yüksek bir hassasiyet değeri veya aydınlatma efekti tek başına farenin size uygun olduğunun kanıtı değildir.",
+            "Klavye seçerken tuş düzenini, masa alanını, ses seviyesini ve kullandığınız tuşlara kolayca erişip erişemediğinizi düşünün. Oynadığınız oyunlar için net ses veya sesli sohbet önemliyse kulaklık değerlendirmeye değer; değilse isteğe bağlı bir ek olabilir. Rahatlık kişiye özeldir; bu nedenle iade politikası, uzun bir özellik listesinden daha önemli olabilir."
+          ]
+        },
+        {
+          "heading": "Harcamalar için basit bir öncelik sırası",
+          "paragraphs": [
+            "Önce mevcut tarayıcınızın ve cihazınızın oyunda gösterilen talimatları karşıladığından emin olun. İkinci olarak normal oyun sırasında en çok sorun çıkaran parçayı değiştirin. Üçüncü olarak yalnızca gerçek bir ihtiyacı karşılıyorsa isteğe bağlı ses veya masa aksesuarlarını düşünün. ‘Oyuncu ekipmanı’ etiketi taşımasının kare hızını veya oyun performansını otomatik olarak artıracağını varsaymayın.",
+            "Ödeme yapmadan önce toplam fiyatı, uyumluluğu, garantiyi, iade koşullarını ve satıcıyı karşılaştırın. Tam model için yakın tarihli bağımsız değerlendirmeleri okuyun; tekrarlanan rahatlık veya güvenilirlik sorunlarına dikkat edin. Kararınızı tek bir fenomen videosuna ya da öne çıkarılan bir teknik özelliğe dayandırmayın."
+          ]
+        },
+        {
+          "heading": "Ürün önerilerine yaklaşımımız",
+          "paragraphs": [
+            "Bu yazı genel bir satın alma kontrol listesidir; uygulamalı bir inceleme veya belirli ürünleri test ettiğimize dair bir iddia değildir. Şu anda satış ortaklığına dayalı ürün bağlantısı içermiyor. Portal ileride iş ortağı bağlantıları eklerse bunları önerinin yanında etiketleyecek ve satın alımın siteye size ek ücret yansıtmadan komisyon kazandırabileceği durumları açıklayacağız.",
+            "Yararlı bir ekipman rehberi, nelerin kontrol edildiğini, nelerin kontrol edilmediğini ve bir ürünün kimlere uygun olabileceğini belirtmelidir. Belirli bir ürün değerlendirilene ve satış ortaklığı ilişkisi açıkça belirtilene kadar en dürüst öneri, yukarıdaki kontrol listesini kullanmak ve yalnızca bir yükseltme gerçek bir ihtiyacı karşılıyorsa satın almaktır."
+          ]
+        }
+      ],
+      "game_links": [],
+      "faq": [
+        {
+          "question": "Tarayıcı oyunları için oyuncu faresi gerekir mi?",
+          "answer": "Her zaman değil. Oynadığınız oyunların kontrollerini inceleyin. Rahat ve güvenilir bir fare, fare kullanılan oyunlarda yardımcı olabilir; ancak ‘oyuncu’ etiketi tek başına onu gerekli kılmaz."
+        },
+        {
+          "question": "Önce kulaklık mı almalıyım?",
+          "answer": "Yalnızca oynadığınız oyunlarda ses veya sesli sohbet önemliyse. Önce gerçek kullanımınızı ve bütçenizi belirleyin; ardından rahatlığı, uyumluluğu ve iade koşullarını değerlendirin."
+        },
+        {
+          "question": "Bu yazıda satış ortaklığı bağlantısı var mı?",
+          "answer": "Hayır, bu rehberde şu anda etkin ürün bağlantısı yok. Gelecekteki satış ortaklığı önerileri bağlantılarının yanında belirtilecektir."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,237 @@
+{
+  "locale": "pl",
+  "home": {
+    "meta_title": "Wybór gier, porady i sprzęt | King in the Game",
+    "meta_description": "Praktyczne polecajki gier przeglądarkowych, bezpieczna pomoc w rozwiązywaniu problemów i rzetelne porady dotyczące sprzętu gamingowego od King in the Game. Czytaj, udostępniaj i znajdź swoją następną grę.",
+    "eyebrow": "BLOG DLA GRACZY",
+    "title": "Lepszy wybór.\nWięcej grania.",
+    "lead": "Przydatne, konkretne wskazówki dotyczące wyszukiwania gier przeglądarkowych, rozwiązywania typowych problemów z uruchamianiem i wyboru sprzętu gamingowego z rozwagą.",
+    "latest": "NAJNOWSZE ARTYKUŁY",
+    "disclosure_title": "Jak powstają rekomendacje",
+    "disclosure": "Wyjaśniamy, na czym opiera się każdy artykuł. Jeśli zawiera link afiliacyjny, oznaczymy go w pobliżu; witryna może otrzymać prowizję, jeśli dokonasz zakupu, bez dodatkowych kosztów dla Ciebie. Nie twierdzimy, że testowaliśmy produkty, chyba że artykuł wyraźnie to stwierdza."
+  },
+  "ui": {
+    "nav_blog": "Blog",
+    "nav_home": "Strona główna",
+    "nav_games": "Gry",
+    "nav_guides": "Poradniki",
+    "nav_about": "O nas",
+    "read_article": "Czytaj artykuł",
+    "read_time": "min czytania",
+    "published": "Opublikowano",
+    "updated": "Zaktualizowano",
+    "share_title": "Udostępnij ten artykuł",
+    "share_native": "Udostępnij",
+    "share_copy": "Kopiuj link",
+    "share_copied": "Skopiowano",
+    "share_x": "X",
+    "share_facebook": "Facebook",
+    "share_whatsapp": "WhatsApp",
+    "share_telegram": "Telegram",
+    "share_reddit": "Reddit",
+    "back_to_blog": "Wszystkie artykuły",
+    "related_games": "Wspomniane gry",
+    "open_game": "Otwórz stronę gry",
+    "faq": "Szybkie odpowiedzi",
+    "affiliate_title": "Informacja o afiliacji",
+    "affiliate_empty": "Ten poradnik nie zawiera obecnie afiliacyjnych linków do produktów. To lista kontrolna przed zakupem, a nie praktyczny test produktu. Jeśli później dodamy linki partnerskie, będą wyraźnie oznaczone przy rekomendacji.",
+    "footer_about": "O tym portalu",
+    "footer_privacy": "Prywatność",
+    "footer_terms": "Warunki",
+    "footer_contact": "Kontakt",
+    "footer_tagline": "Graj za darmo w gry przeglądarkowe"
+  },
+  "posts": [
+    {
+      "slug": "two-player-browser-games",
+      "category": "WYBÓR GIER",
+      "meta_title": "Gry przeglądarkowe dla 2 osób: wybierz odpowiednią",
+      "meta_description": "Szukasz gier przeglądarkowych dla dwóch osób? Zanim zaprosisz znajomego, sprawdź urządzenie, sterowanie i tryb gry. Skorzystaj z krótkiej listy kontrolnej i propozycji gier.",
+      "title": "Szukasz gry przeglądarkowej dla 2 osób? Zacznij od konfiguracji.",
+      "excerpt": "Najlepszy wybór zależy nie tylko od gatunku. Najpierw ustal, czy chcecie grać na jednym wspólnym ekranie, czy na dwóch urządzeniach, a potem sprawdź sterowanie i tryb gry.",
+      "minutes": 5,
+      "date_published": "2026-11-09",
+      "sections": [
+        {
+          "heading": "Ustalcie, jak chcecie grać razem",
+          "paragraphs": [
+            "Zanim wybierzesz tytuł, odpowiedz na jedno praktyczne pytanie: czy obie osoby będą korzystać z tego samego urządzenia, czy każda dołączy z osobnego? To dwa różne sposoby gry. Gra oznaczona jako przeznaczona dla dwóch osób może wykorzystywać jedną klawiaturę, wspólny ekran, pokój online albo inną konfigurację. Sam tytuł nie potwierdza, który wariant obsługuje.",
+            "Jeśli siedzicie razem, poszukaj jasnych instrukcji dotyczących gry dla dwóch osób lub gry lokalnej i sprawdź, czy da się wygodnie współdzielić sterowanie. Jeśli gracie z różnych miejsc, poszukaj trybu wieloosobowego online oraz możliwości zaproszenia znajomego lub dołączenia do niego. Jeśli strona gry tego nie wyjaśnia, uznaj tryb za niepotwierdzony, zamiast zgadywać."
+          ]
+        },
+        {
+          "heading": "Dopasuj tempo do grupy",
+          "paragraphs": [
+            "Jeśli chcecie szybko rozgrywać rundy na zmianę, dobrym punktem wyjścia mogą być gry o tematyce sportowej. Na przykład w sportowej kolekcji portalu znajdują się Soccer Random i VOLLEY CLASH. To opis kategorii katalogowej, a nie gwarancja, że którykolwiek z tych tytułów ma określony tryb lokalny lub online; przed zaproszeniem drugiej osoby sprawdź stronę konkretnej gry.",
+            "Jeśli szukasz tytułu wyraźnie przedstawionego jako gra dla dwóch osób, warto sprawdzić Battle Tung Tung Sahur 2Player. Otwórz stronę gry, potwierdź widoczne instrukcje i oceń, czy sterowanie pasuje do Waszej konfiguracji. Na sesję zespołową lub w stylu strzelanki przejrzyj kolekcję PvP i gier akcji, ale weryfikuj tryby graczy osobno dla każdego tytułu."
+          ]
+        },
+        {
+          "heading": "Przed zaproszeniem sprawdź trzy rzeczy",
+          "paragraphs": [
+            "Po pierwsze, potwierdź liczbę graczy i to, czy gra jest lokalna, czy online. Po drugie, sprawdź sterowanie i obsługiwane urządzenia. Po trzecie, uruchom grę samodzielnie, zanim wyślesz link. Dzięki temu unikniesz niepotrzebnych problemów, takich jak inny tryb, niż się spodziewasz, niewygodne sterowanie na jednej klawiaturze albo chwilowa niedostępność gry.",
+            "Udostępnij bezpośredni link do konkretnej gry, a nie ogólną stronę kategorii. Znajomy będzie mógł przeczytać te same instrukcje i zobaczyć te same informacje o dostawcy. Jeśli tytuł zależy od zewnętrznej platformy, jego dostępność może się zmienić, więc przygotuj drugą opcję."
+          ]
+        },
+        {
+          "heading": "W skrócie",
+          "paragraphs": [
+            "Najpierw wybierzcie konfigurację, potem nastrój, a na końcu grę. Nazwa lub gatunek tytułu to wskazówka, a nie dowód na dostępność określonych funkcji wieloosobowych. Sprawdź instrukcje na stronie gry, a mniej czasu poświęcisz na rozwiązywanie problemów i więcej na ustalanie, kto gra następną rundę."
+          ]
+        }
+      ],
+      "game_links": [
+        {
+          "id": "battle-tung-tung-sahur-2player-game",
+          "title": "Battle Tung Tung Sahur 2Player",
+          "caption": "Nazwa sugeruje grę dla dwóch osób; potwierdź konfigurację w grze."
+        },
+        {
+          "id": "soccer-random-game",
+          "title": "Soccer Random",
+          "caption": "Propozycja sportowa z aktualnej kolekcji."
+        },
+        {
+          "id": "volley-clash-game",
+          "title": "VOLLEY CLASH",
+          "caption": "Gra o tematyce siatkarskiej; sprawdź podany tryb."
+        }
+      ],
+      "faq": [
+        {
+          "question": "Czy każda przeglądarkowa gra dla 2 osób działa na jednej klawiaturze?",
+          "answer": "Nie. Liczba graczy i sterowanie różnią się w zależności od tytułu. Zanim zaczniesz, sprawdź w instrukcjach gry, czy obsługuje grę lokalną, na wspólnym urządzeniu czy online."
+        },
+        {
+          "question": "Czy mogę zaprosić znajomego do dowolnej gry w portalu?",
+          "answer": "Niekoniecznie. Portal prowadzi do gier na zewnętrznych platformach, a opcje wieloosobowe zależą od konkretnego tytułu. Potwierdź tryb na stronie gry."
+        },
+        {
+          "question": "Co udostępnić znajomemu?",
+          "answer": "Udostępnij bezpośrednią stronę gry, aby obie osoby mogły sprawdzić te same informacje o sterowaniu, dostawcy i dostępności."
+        }
+      ]
+    },
+    {
+      "slug": "browser-game-not-loading",
+      "category": "ROZWIĄZYWANIE PROBLEMÓW",
+      "meta_title": "Gra przeglądarkowa się nie ładuje? Bezpieczne sposoby",
+      "meta_description": "Gra przeglądarkowa zatrzymuje się na pustym ekranie? Wypróbuj bezpieczne sposoby sprawdzenia połączenia, przeglądarki, obsługi urządzenia i dostępności gry u zewnętrznego dostawcy.",
+      "title": "Gra przeglądarkowa się nie ładuje? Najpierw wykonaj te czynności.",
+      "excerpt": "Pusty ekran gry nie zawsze oznacza, że tytuł zniknął. Spokojnie i bezpiecznie sprawdź, czy przyczyną jest wolne ładowanie, przeglądarka, urządzenie czy dostawca.",
+      "minutes": 5,
+      "date_published": "2026-11-09",
+      "sections": [
+        {
+          "heading": "1. Daj grze chwilę na załadowanie",
+          "paragraphs": [
+            "Niektóre tytuły ładują się w osadzonym oknie gry, a sama gra może uruchamiać się dłużej niż otaczająca ją strona. Poczekaj chwilę, a potem sprawdź, czy w obszarze gry pojawił się wskaźnik ładowania lub instrukcja. Unikaj wielokrotnego klikania, zwłaszcza jeśli gra już zaczęła reagować.",
+            "Jeśli na stronie znajdują się opis gry, źródło lub link do dostawcy, pozostaw je widoczne. Te informacje pomogą odróżnić stronę portalu od zewnętrznej usługi, która faktycznie udostępnia grę."
+          ]
+        },
+        {
+          "heading": "2. Sprawdź podstawowe kwestie, nie obniżając poziomu bezpieczeństwa",
+          "paragraphs": [
+            "Sprawdź, czy połączenie działa, otwierając inną znaną Ci stronę. Następnie odśwież stronę raz, w zwykły sposób. Jeśli gra może zapisywać postępy tylko w trakcie sesji, pamiętaj, że ponowne wczytanie może ją zrestartować. Zamknij kilka obciążających kart, jeśli urządzenie jest przeciążone, i upewnij się, że przeglądarka jest aktualna.",
+            "Nie instaluj rozszerzeń, plików wykonywalnych ani „specjalnego odtwarzacza” z nieoczekiwanego wyskakującego okienka, aby uruchomić grę przeglądarkową. Gra przeznaczona do uruchamiania na stronie nie powinna wymagać pobierania nieznanych plików. Nie wyłączaj zabezpieczeń przeglądarki."
+          ]
+        },
+        {
+          "heading": "3. Sprawdź obsługę urządzenia i sterowanie",
+          "paragraphs": [
+            "Obsługa urządzeń i sterowanie różnią się w zależności od gry. Tytuł zaprojektowany z myślą o klawiaturze i myszy może być trudny w obsłudze na telefonie, a sterowanie dotykowe może nie być dostępne w każdej grze. Przed zmianą urządzenia przeczytaj informacje na stronie gry i instrukcje wyświetlane w oknie gry.",
+            "Jeśli nie działa jeden tytuł, spróbuj uruchomić inną grę z tej samej kategorii. Jeśli kilka niezwiązanych ze sobą gier przestaje działać jednocześnie, problem może dotyczyć połączenia, ustawień przeglądarki lub zewnętrznego dostawcy, a nie pojedynczego tytułu."
+          ]
+        },
+        {
+          "heading": "4. Weź pod uwagę, że przyczyną może być dostawca",
+          "paragraphs": [
+            "King in the Game to portal pomagający odkrywać gry; poszczególne tytuły są udostępniane przez odpowiednie platformy. Dostawca może zmienić dostępność, sposób ładowania lub osadzoną zawartość. Jeśli strona gry i link do dostawcy są dostępne, porównaj ofertę dostawcy z wersją osadzoną. Jeśli obie są niedostępne, spróbuj później lub wybierz inny tytuł.",
+            "Najbezpieczniejszy sposób rozwiązywania problemów jest prosty: poczekaj, sprawdź połączenie, odśwież stronę raz, zweryfikuj instrukcje dotyczące urządzenia i unikaj nieznanych plików do pobrania. Jeśli problem nie ustępuje, podaj tytuł gry i używane urządzenie, kontaktując się z witryną lub dostawcą."
+          ]
+        }
+      ],
+      "game_links": [
+        {
+          "id": "rocket-clash-3d",
+          "title": "Rocket Clash 3D",
+          "caption": "Otwórz inną grę i porównaj instrukcje na jej stronie."
+        },
+        {
+          "id": "monster-truck-off-road-2",
+          "title": "Monster Truck Off Road 2",
+          "caption": "Jeśli jedna gra jest niedostępna, spróbuj innej kategorii."
+        }
+      ],
+      "faq": [
+        {
+          "question": "Czy mam pobrać odtwarzacz, jeśli gra przeglądarkowa tego wymaga?",
+          "answer": "Nie instaluj nieznanych plików ani rozszerzeń po nieoczekiwanych komunikatach. Jeśli gra się nie ładuje, skorzystaj z linku do dostawcy na jej stronie albo wybierz inny tytuł."
+        },
+        {
+          "question": "Dlaczego okno gry pozostaje puste?",
+          "answer": "Może to wynikać z przeglądarki, połączenia, obsługi urządzenia lub działania zewnętrznej platformy. Sprawdź instrukcje gry i raz odśwież stronę, zanim przejdziesz do dalszego rozwiązywania problemów."
+        },
+        {
+          "question": "Czy portal może zagwarantować, że gra będzie zawsze dostępna?",
+          "answer": "Nie. Gry są udostępniane przez zewnętrzne platformy, dlatego dostęp i działanie osadzonej wersji mogą się zmieniać niezależnie od portalu."
+        }
+      ]
+    },
+    {
+      "slug": "budget-gaming-setup",
+      "category": "PORADNIK ZAKUPOWY",
+      "meta_title": "Budżetowe stanowisko gamingowe: co kupić najpierw",
+      "meta_description": "Urządź wygodne stanowisko do grania niewielkim kosztem. Przed efektownymi parametrami i dodatkami postaw na sterowanie, wygodę, zgodność i możliwość zwrotu.",
+      "title": "Wygodne stanowisko gamingowe przy ograniczonym budżecie: co kupić najpierw.",
+      "excerpt": "Nie potrzebujesz biurka pełnego sprzętu, aby cieszyć się grami przeglądarkowymi. Zacznij od używanych elementów sterowania, a potem wydawaj pieniądze na wygodę i zgodność — nie na hasła marketingowe.",
+      "minutes": 6,
+      "date_published": "2026-11-09",
+      "sections": [
+        {
+          "heading": "Zacznij od gier, a nie od listy zakupów",
+          "paragraphs": [
+            "Zanim cokolwiek kupisz, wypisz gry, w które naprawdę grasz, i używane w nich sterowanie. Wiele gier przeglądarkowych opiera się na klawiaturze i myszy, ale sterowanie zależy od gry, a niektóre tytuły obsługują ekran dotykowy. Najpierw sprawdź instrukcje na stronie gry. Nowy sprzęt nie rozwiąże problemu, jeśli tytuł nie obsługuje Twojego urządzenia lub preferowanego sposobu sterowania.",
+            "Ustal sztywny budżet i nie wydawaj jego części, dopóki nie dowiesz się, co jest niewygodne. Przydatne ulepszenie rozwiązuje powracający problem — na przykład zawodną mysz, zbyt ciasną klawiaturę lub niewygodne słuchawki — a nie poprawia parametr, którego nigdy nie potrzebowałeś."
+          ]
+        },
+        {
+          "heading": "Postaw na wygodę i zgodność",
+          "paragraphs": [
+            "Jeśli podczas dłuższych sesji używasz myszy, wybierz rozmiar i kształt, które dobrze leżą w dłoni. Sprawdź, czy sposób jej podłączenia jest zgodny z komputerem i czy wolisz model przewodowy, czy bezprzewodowy. Wysoka deklarowana wartość czułości ani podświetlenie same w sobie nie dowodzą, że mysz będzie dla Ciebie odpowiednia.",
+            "Wybierając klawiaturę, weź pod uwagę układ, miejsce na biurku, poziom hałasu i łatwość sięgania do używanych klawiszy. Warto rozważyć słuchawki, jeśli w grach, w które grasz, liczy się wyraźny dźwięk lub czat głosowy; w przeciwnym razie mogą być dodatkiem, z którego można zrezygnować. Wygoda jest kwestią indywidualną, dlatego możliwość zwrotu może mieć większe znaczenie niż długa lista funkcji."
+          ]
+        },
+        {
+          "heading": "Prosta kolejność wydatków",
+          "paragraphs": [
+            "Po pierwsze, upewnij się, że używana przeglądarka i urządzenie spełniają wymagania podane w instrukcjach gry. Po drugie, wymień ten element, który najbardziej przeszkadza podczas zwykłej rozgrywki. Po trzecie, rozważ dodatkowe akcesoria audio lub biurkowe tylko wtedy, gdy rozwiązują konkretny problem. Nie zakładaj, że etykieta „gamingowy” automatycznie poprawia liczbę klatek na sekundę lub wydajność gry.",
+            "Przed zakupem porównaj całkowitą cenę, zgodność, gwarancję, warunki zwrotu i sprzedawcę. Przeczytaj najnowsze, niezależne opinie o konkretnym modelu i zwróć uwagę na powtarzające się uwagi dotyczące wygody lub niezawodności. Nie podejmuj decyzji na podstawie jednego filmiku influencera ani wyróżnionego parametru."
+          ]
+        },
+        {
+          "heading": "Jak podchodzimy do rekomendacji produktów",
+          "paragraphs": [
+            "Ten artykuł to ogólna lista kontrolna przed zakupem, a nie praktyczna recenzja ani twierdzenie, że testowaliśmy konkretne produkty. Obecnie nie zawiera afiliacyjnych linków do produktów. Jeśli portal doda później linki partnerskie, oznaczymy je przy rekomendacji i wyjaśnimy, kiedy zakup może przynieść witrynie prowizję bez dodatkowych kosztów dla Ciebie.",
+            "Przydatny poradnik sprzętowy powinien informować, co sprawdzono, czego nie sprawdzono i komu dany produkt może odpowiadać. Dopóki konkretny produkt nie zostanie oceniony, a jego relacja afiliacyjna jasno wskazana, najuczciwiej jest skorzystać z powyższej listy kontrolnej i kupować tylko wtedy, gdy ulepszenie zaspokaja rzeczywistą potrzebę."
+          ]
+        }
+      ],
+      "game_links": [],
+      "faq": [
+        {
+          "question": "Czy do gier przeglądarkowych potrzebna jest mysz gamingowa?",
+          "answer": "Nie zawsze. Sprawdź sterowanie w grach, w które grasz. Wygodna i niezawodna mysz może się przydać, jeśli dany tytuł jej używa, ale sama etykieta „gamingowa” nie oznacza, że jest konieczna."
+        },
+        {
+          "question": "Czy w pierwszej kolejności kupić słuchawki?",
+          "answer": "Tylko jeśli dźwięk lub czat głosowy mają znaczenie w Twoich grach. Zacznij od własnych potrzeb i budżetu, a następnie weź pod uwagę wygodę, zgodność i możliwość zwrotu."
+        },
+        {
+          "question": "Czy ten artykuł zawiera linki afiliacyjne?",
+          "answer": "Obecnie w tym poradniku nie ma aktywnych linków do produktów. Każda przyszła rekomendacja afiliacyjna zostanie oznaczona przy linku."
+        }
+      ]
+    }
+  ]
+}

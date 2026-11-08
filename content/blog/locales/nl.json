@@ -1,0 +1,237 @@
+{
+  "locale": "nl",
+  "home": {
+    "meta_title": "Speltips, oplossingen en gamegear | King in the Game",
+    "meta_description": "Praktische tips voor browsergames, veilig problemen oplossen en eerlijk advies over gaminggear van King in the Game. Lees, deel en ontdek je volgende game.",
+    "eyebrow": "HET SPELERSBLOG",
+    "title": "Betere keuzes.\nMeer speelplezier.",
+    "lead": "Handige, duidelijke tips om browsergames te vinden, veelvoorkomende startproblemen op te lossen en met een helder hoofd gaminggear te kiezen.",
+    "latest": "NIEUWSTE ARTIKELEN",
+    "disclosure_title": "Zo werken aanbevelingen",
+    "disclosure": "We leggen uit waarop elk artikel is gebaseerd. Bevat een artikel een affiliatelink, dan vermelden we dat bij die link; de site kan een commissie ontvangen als je iets koopt, zonder extra kosten voor jou. We beweren niet dat we producten hebben getest, tenzij het artikel dat expliciet vermeldt."
+  },
+  "ui": {
+    "nav_blog": "Blog",
+    "nav_home": "Home",
+    "nav_games": "Games",
+    "nav_guides": "Gidsen",
+    "nav_about": "Over ons",
+    "read_article": "Artikel lezen",
+    "read_time": "min leestijd",
+    "published": "Gepubliceerd",
+    "updated": "Bijgewerkt",
+    "share_title": "Deel dit artikel",
+    "share_native": "Delen",
+    "share_copy": "Link kopiëren",
+    "share_copied": "Gekopieerd",
+    "share_x": "X",
+    "share_facebook": "Facebook",
+    "share_whatsapp": "WhatsApp",
+    "share_telegram": "Telegram",
+    "share_reddit": "Reddit",
+    "back_to_blog": "Alle artikelen",
+    "related_games": "Vermelde games",
+    "open_game": "Gamepagina openen",
+    "faq": "Korte antwoorden",
+    "affiliate_title": "Affiliatevermelding",
+    "affiliate_empty": "Deze gids bevat momenteel geen affiliatelinks naar producten. Het is een checklist voor aankopen, geen praktijktest van producten. Als er later partnerlinks worden toegevoegd, worden die duidelijk vermeld naast de aanbeveling.",
+    "footer_about": "Over dit gameportaal",
+    "footer_privacy": "Privacy",
+    "footer_terms": "Voorwaarden",
+    "footer_contact": "Contact",
+    "footer_tagline": "Speel gratis browsergames"
+  },
+  "posts": [
+    {
+      "slug": "two-player-browser-games",
+      "category": "GAMETIPS",
+      "meta_title": "Browsergames voor 2 spelers: kies de juiste match",
+      "meta_description": "Op zoek naar browsergames voor twee spelers? Controleer apparaat, besturing en spelmodus voordat je een vriend uitnodigt. Gebruik deze korte checklist en gametips.",
+      "title": "Op zoek naar een browsergame voor 2 spelers? Begin met de opstelling.",
+      "excerpt": "De beste match hangt van meer af dan het genre. Bepaal eerst of je één gedeeld scherm of twee apparaten wilt gebruiken en controleer daarna de besturing en spelmodus.",
+      "minutes": 5,
+      "date_published": "2026-11-09",
+      "sections": [
+        {
+          "heading": "Bepaal hoe jullie samen gaan spelen",
+          "paragraphs": [
+            "Beantwoord voordat je een titel kiest één praktische vraag: spelen beide spelers op hetzelfde apparaat, of doet ieder mee vanaf een eigen apparaat? Dat zijn verschillende manieren van spelen. Een game die als geschikt voor twee spelers wordt aangeduid, kan één toetsenbord, een gedeeld scherm, een online speelkamer of een andere opstelling gebruiken. Alleen de titel vertelt niet welke optie wordt ondersteund.",
+            "Zitten jullie bij elkaar, zoek dan naar duidelijke instructies voor twee spelers of lokaal spelen en controleer of de besturing prettig gedeeld kan worden. Zijn jullie niet bij elkaar, zoek dan naar een online multiplayermodus en een mogelijkheid om een vriend uit te nodigen of mee te laten doen. Staat de modus niet op de gamepagina, ga er dan niet naar raden maar beschouw die als onbevestigd."
+          ]
+        },
+        {
+          "heading": "Stem het tempo af op de groep",
+          "paragraphs": [
+            "Voor een snelle wedstrijd waarbij je om de beurt speelt, kunnen sportthema's een eenvoudig beginpunt zijn. Zo vermeldt het portaal Soccer Random en VOLLEY CLASH in de sportcollectie. Dat geeft hun categorie in het aanbod aan, maar belooft niet dat een van beide titels een bepaalde lokale of online modus heeft; controleer de afzonderlijke gamepagina voordat je iemand uitnodigt.",
+            "Wil je een titel die expliciet als game voor twee spelers wordt gepresenteerd, dan is Battle Tung Tung Sahur 2Player een logische kandidaat om te bekijken. Open de pagina, controleer de getoonde instructies en bepaal of de besturing bij jullie opstelling past. Voor een team- of shooterachtige sessie kun je de PvP- en actiecollectie bekijken, maar controleer per titel welke spelersmodi beschikbaar zijn."
+          ]
+        },
+        {
+          "heading": "Controleer drie dingen voordat je iemand uitnodigt",
+          "paragraphs": [
+            "Controleer eerst het aantal spelers en of je lokaal of online kunt spelen. Kijk daarna naar de besturing en de ondersteunde apparaten. Start de game ten slotte zelf een keer voordat je de link verstuurt. Zo voorkom je onnodige problemen, zoals een andere modus dan verwacht, onhandige bediening op één toetsenbord of een game die tijdelijk niet beschikbaar is.",
+            "Deel de specifieke gamepagina en niet een algemene categoriepagina. Je vriend kan dan dezelfde instructies en providergegevens bekijken. Als de titel afhankelijk is van een extern platform, kan de beschikbaarheid veranderen; houd dus een tweede optie achter de hand."
+          ]
+        },
+        {
+          "heading": "Kort samengevat",
+          "paragraphs": [
+            "Kies eerst de opstelling, dan de sfeer en daarna de game. De naam of het genre van een titel is een aanwijzing, geen bewijs van de multiplayerfuncties. Controleer de instructies op de gamepagina; zo besteed je minder tijd aan problemen oplossen en meer tijd aan bepalen wie de volgende ronde wint."
+          ]
+        }
+      ],
+      "game_links": [
+        {
+          "id": "battle-tung-tung-sahur-2player-game",
+          "title": "Battle Tung Tung Sahur 2Player",
+          "caption": "De titel wijst op twee spelers; controleer de opstelling in de game."
+        },
+        {
+          "id": "soccer-random-game",
+          "title": "Soccer Random",
+          "caption": "Een sportkeuze uit de huidige collectie."
+        },
+        {
+          "id": "volley-clash-game",
+          "title": "VOLLEY CLASH",
+          "caption": "Een keuze met volleybalthema; controleer de vermelde modus."
+        }
+      ],
+      "faq": [
+        {
+          "question": "Werkt elke browsergame voor 2 spelers met één toetsenbord?",
+          "answer": "Nee. Het aantal spelers en de besturing verschillen per titel. Controleer vóór je begint de instructies voor lokaal spelen, spelen op een gedeeld apparaat of online spelen."
+        },
+        {
+          "question": "Kan ik een vriend uitnodigen voor elke game op het portaal?",
+          "answer": "Niet per se. Het portaal linkt naar games op platforms van derden en de multiplayeropties hangen af van de afzonderlijke titel. Controleer de modus op de gamepagina."
+        },
+        {
+          "question": "Wat kan ik het beste met een vriend delen?",
+          "answer": "Deel de directe gamepagina, zodat jullie allebei dezelfde informatie over besturing, provider en beschikbaarheid kunnen bekijken."
+        }
+      ]
+    },
+    {
+      "slug": "browser-game-not-loading",
+      "category": "PROBLEMEN OPLOSSEN",
+      "meta_title": "Browsergame laadt niet? Probeer deze veilige controles",
+      "meta_description": "Blijft een browsergame op een leeg scherm staan? Probeer deze veilige controles voor je verbinding, browser, apparaatondersteuning en de beschikbaarheid van games van derden.",
+      "title": "Laadt een browsergame niet? Probeer eerst deze controles.",
+      "excerpt": "Een lege gameweergave betekent niet altijd dat de game verdwenen is. Gebruik een rustige, veilige checklist om te onderscheiden of het laden traag is of dat er een probleem is met de browser, het apparaat of de provider.",
+      "minutes": 5,
+      "date_published": "2026-11-09",
+      "sections": [
+        {
+          "heading": "1. Geef het gamevenster even de tijd",
+          "paragraphs": [
+            "Sommige titels laden in een ingebed gamevenster en het kan langer duren voordat de game klaar is dan de pagina eromheen. Wacht even en kijk daarna of het gamevenster een laadindicator of instructie toont. Klik niet steeds opnieuw, vooral niet als de game al begint te reageren.",
+            "Staat er een beschrijving van de game, bronvermelding of link naar de provider op de pagina, laat die dan in beeld. Zo kun je de portaalpagina onderscheiden van de dienst van een derde partij die de game daadwerkelijk aanbiedt."
+          ]
+        },
+        {
+          "heading": "2. Controleer de eenvoudige dingen zonder beveiliging op te geven",
+          "paragraphs": [
+            "Controleer of je verbinding werkt door een andere vertrouwde pagina te openen. Vernieuw de pagina daarna één keer op de normale manier. Als de game voortgang mogelijk alleen tijdens een sessie opslaat, houd er dan rekening mee dat opnieuw laden de game kan herstarten. Sluit een paar zware tabbladen als je apparaat overbelast is en zorg dat je browser is bijgewerkt.",
+            "Installeer geen extensie, uitvoerbaar bestand of 'speciale speler' uit een onverwachte pop-up om een browsergame te laten werken. Een game die in de pagina hoort te starten, zou geen onbekende download nodig moeten hebben. Laat de beveiligingsfuncties van je browser ingeschakeld."
+          ]
+        },
+        {
+          "heading": "3. Controleer de ondersteuning voor je apparaat en besturing",
+          "paragraphs": [
+            "De besturing en apparaatondersteuning verschillen per game. Een titel die is ontworpen voor toetsenbord en muis kan lastig te bedienen zijn op een telefoon, terwijl niet elke game aanraakbediening ondersteunt. Lees de gamepagina en eventuele instructies in het gamevenster voordat je van apparaat wisselt.",
+            "Werkt één titel niet, probeer dan een andere game uit dezelfde categorie. Als meerdere niet-gerelateerde games tegelijk niet werken, kan het probleem bij je verbinding, browserinstellingen of een externe provider liggen in plaats van bij één specifieke titel."
+          ]
+        },
+        {
+          "heading": "4. Houd rekening met een probleem bij de provider",
+          "paragraphs": [
+            "King in the Game is een ontdekkingsportaal; afzonderlijke titels worden aangeboden door de bijbehorende platforms. Een provider kan de beschikbaarheid, het laadgedrag of de ingebedde inhoud wijzigen. Zijn de gamepagina en de providerlink beschikbaar, vergelijk dan de eigen vermelding van de provider met de ingebedde versie. Zijn beide niet beschikbaar, probeer het later opnieuw of kies een andere titel.",
+            "De veiligste aanpak voor het oplossen van problemen is eenvoudig: wacht, controleer je verbinding, vernieuw de pagina één keer, controleer de apparaatinstructies en vermijd onbekende downloads. Blijft het probleem bestaan, vermeld dan de gametitel en je apparaat wanneer je contact opneemt met de site of provider."
+          ]
+        }
+      ],
+      "game_links": [
+        {
+          "id": "rocket-clash-3d",
+          "title": "Rocket Clash 3D",
+          "caption": "Open een andere titel en vergelijk de instructies op de pagina."
+        },
+        {
+          "id": "monster-truck-off-road-2",
+          "title": "Monster Truck Off Road 2",
+          "caption": "Probeer een andere categorie als een gamevenster niet beschikbaar is."
+        }
+      ],
+      "faq": [
+        {
+          "question": "Moet ik een speler downloaden als een browsergame daarom vraagt?",
+          "answer": "Installeer geen onbekende bestanden of extensies na onverwachte meldingen. Gebruik de providerlink op de gamepagina of kies een andere titel als de game niet laadt."
+        },
+        {
+          "question": "Waarom blijft het gamevenster leeg?",
+          "answer": "Mogelijk ligt het aan de browser, verbinding, apparaatondersteuning of het platform van een derde partij. Controleer de game-instructies en probeer één keer de pagina te vernieuwen voordat je verder problemen gaat oplossen."
+        },
+        {
+          "question": "Kan het portaal garanderen dat een game altijd beschikbaar is?",
+          "answer": "Nee. Games worden aangeboden door platforms van derden, dus de toegang en het gedrag van ingebedde games kunnen onafhankelijk van het portaal veranderen."
+        }
+      ]
+    },
+    {
+      "slug": "budget-gaming-setup",
+      "category": "KOOPGIDS",
+      "meta_title": "Een betaalbare game-opstelling: wat koop je eerst?",
+      "meta_description": "Stel betaalbaar een comfortabele game-opstelling samen. Geef prioriteit aan bediening, pasvorm, compatibiliteit en retourmogelijkheden, niet aan opvallende specificaties of extra's.",
+      "title": "Een comfortabele game-opstelling met een beperkt budget: wat koop je eerst?",
+      "excerpt": "Je hebt geen bureau vol apparatuur nodig om van browsergames te genieten. Begin met de bediening die je echt gebruikt en geef daarna geld uit aan comfort en compatibiliteit, niet aan marketingclaims.",
+      "minutes": 6,
+      "date_published": "2026-11-09",
+      "sections": [
+        {
+          "heading": "Begin bij de games, niet bij je boodschappenlijst",
+          "paragraphs": [
+            "Maak voordat je iets koopt een lijst van de games die je daadwerkelijk speelt en de besturing die ze gebruiken. Veel browsergames werken met toetsenbord en muis, maar de bediening verschilt per game en sommige ondersteunen aanraking. Controleer eerst de instructies op de gamepagina. Nieuwe apparatuur lost niet op dat een titel je apparaat of voorkeursmethode voor bediening niet ondersteunt.",
+            "Stel een vast budget vast en houd een deel ervan achter de hand totdat je weet wat oncomfortabel aanvoelt. Een nuttige upgrade verhelpt een terugkerend probleem, zoals een onbetrouwbare muis, een krap toetsenbord of een oncomfortabele headset, en niet een specificatie die je nooit nodig hebt gehad."
+          ]
+        },
+        {
+          "heading": "Geef prioriteit aan comfort en compatibiliteit",
+          "paragraphs": [
+            "Gebruik je de muis tijdens lange sessies, kies dan een formaat en vorm die prettig in je hand liggen. Controleer of de aansluiting met je computer werkt en of je liever een bedrade of draadloze muis hebt. Een hoge geadverteerde gevoeligheidswaarde of lichteffect is op zichzelf geen bewijs dat een muis bij je past.",
+            "Denk bij een toetsenbord aan de indeling, de ruimte op je bureau, het geluid en of de toetsen die je gebruikt goed bereikbaar zijn. Een headset is het overwegen waard als helder geluid of voicechat belangrijk is voor de games die je speelt; anders is het misschien een optionele extra. Comfort is persoonlijk, dus een retourbeleid kan belangrijker zijn dan een lange lijst functies."
+          ]
+        },
+        {
+          "heading": "Een eenvoudige volgorde voor je uitgaven",
+          "paragraphs": [
+            "Controleer eerst of je huidige browser en apparaat voldoen aan de instructies die de game vermeldt. Vervang daarna het artikel dat tijdens normaal spelen voor de meeste hinder zorgt. Overweeg pas als derde optionele audio- of bureauaccessoires, en alleen als die een echt probleem oplossen. Ga er niet van uit dat het label 'gaming' automatisch de beeldsnelheid of gameprestaties verbetert.",
+            "Vergelijk vóór het afrekenen de totaalprijs, compatibiliteit, garantie, retourvoorwaarden en verkoper. Lees recente onafhankelijke recensies van het exacte model en let op terugkerende klachten over comfort of betrouwbaarheid. Baseer je keuze niet op één influencerfilmpje of een opvallende specificatie."
+          ]
+        },
+        {
+          "heading": "Zo gaan we om met productaanbevelingen",
+          "paragraphs": [
+            "Dit artikel is een algemene checklist voor aankopen, geen praktijktest en geen bewering dat we specifieke producten hebben getest. Het bevat momenteel geen affiliatelinks naar producten. Als het portaal later partnerlinks toevoegt, vermelden we dat naast de aanbeveling en leggen we uit wanneer een aankoop de site een commissie kan opleveren, zonder extra kosten voor jou.",
+            "Een nuttige gids voor gaminggear vertelt wat wel en niet is gecontroleerd en voor wie een product geschikt kan zijn. Totdat een specifiek artikel is beoordeeld en de affiliaterelatie duidelijk is, is het eerlijkste advies de bovenstaande checklist te gebruiken en alleen iets te kopen als een upgrade een echte behoefte oplost."
+          ]
+        }
+      ],
+      "game_links": [],
+      "faq": [
+        {
+          "question": "Heb je voor browsergames een gamingmuis nodig?",
+          "answer": "Niet altijd. Controleer de besturing van de games die je speelt. Een comfortabele, betrouwbare muis kan handig zijn als een titel er een gebruikt, maar alleen het label 'gaming' maakt een muis niet noodzakelijk."
+        },
+        {
+          "question": "Kan ik het beste eerst een headset kopen?",
+          "answer": "Alleen als geluid of voicechat belangrijk is voor je games. Begin bij je daadwerkelijke gebruik en budget en kijk daarna naar comfort, compatibiliteit en retourmogelijkheden."
+        },
+        {
+          "question": "Bevat dit artikel affiliatelinks?",
+          "answer": "Er zijn op dit moment geen productlinks actief in deze gids. Toekomstige affiliateverwijzingen worden bij de link vermeld."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,237 @@
+{
+  "locale": "en",
+  "home": {
+    "meta_title": "Game Picks, Fixes & Gear Guides | King in the Game",
+    "meta_description": "Practical browser-game picks, safe troubleshooting and honest gaming-gear advice from King in the Game. Read, share and find your next game.",
+    "eyebrow": "THE PLAYER BLOG",
+    "title": "Better picks.\nMore play.",
+    "lead": "Useful, straight-talking notes for finding browser games, fixing common launch problems and choosing gaming gear with a clear head.",
+    "latest": "LATEST ARTICLES",
+    "disclosure_title": "How recommendations work",
+    "disclosure": "We explain what each article is based on. If an article contains an affiliate link, it will be identified near that link; the site may earn a commission if you buy, at no extra cost to you. We do not claim to have tested products unless the article says so."
+  },
+  "ui": {
+    "nav_blog": "Blog",
+    "nav_home": "Home",
+    "nav_games": "Games",
+    "nav_guides": "Guides",
+    "nav_about": "About",
+    "read_article": "Read article",
+    "read_time": "min read",
+    "published": "Published",
+    "updated": "Updated",
+    "share_title": "Share this article",
+    "share_native": "Share",
+    "share_copy": "Copy link",
+    "share_copied": "Copied",
+    "share_x": "X",
+    "share_facebook": "Facebook",
+    "share_whatsapp": "WhatsApp",
+    "share_telegram": "Telegram",
+    "share_reddit": "Reddit",
+    "back_to_blog": "All articles",
+    "related_games": "Games mentioned",
+    "open_game": "Open game page",
+    "faq": "Quick answers",
+    "affiliate_title": "Affiliate note",
+    "affiliate_empty": "This guide currently has no affiliate product links. It is a buying checklist, not a hands-on product test. If partner links are added later, they will be clearly labelled beside the recommendation.",
+    "footer_about": "About this portal",
+    "footer_privacy": "Privacy",
+    "footer_terms": "Terms",
+    "footer_contact": "Contact",
+    "footer_tagline": "Play free browser games"
+  },
+  "posts": [
+    {
+      "slug": "two-player-browser-games",
+      "category": "GAME PICKS",
+      "meta_title": "2-Player Browser Games: Choose the Right Match",
+      "meta_description": "Looking for two-player browser games? Check device, controls and game mode before inviting a friend. Use this quick checklist and game picks.",
+      "title": "Looking for a 2-player browser game? Start with the setup.",
+      "excerpt": "The best match depends on more than genre. First check whether you want one shared screen or two devices, then confirm the game’s controls and mode.",
+      "minutes": 5,
+      "date_published": "2026-11-09",
+      "sections": [
+        {
+          "heading": "Decide how you will play together",
+          "paragraphs": [
+            "Before picking a title, answer one practical question: will both players use the same device, or will each person join from a separate device? Those are different ways to play. A game labelled for two players may use one keyboard, a shared screen, an online room, or another setup. The title alone does not confirm which one it supports.",
+            "If you are sitting together, look for clear two-player or local-play instructions and check whether the controls can be shared comfortably. If you are apart, look for an online multiplayer mode and a way to invite or join a friend. When the game page does not say, treat the mode as unconfirmed rather than guessing."
+          ]
+        },
+        {
+          "heading": "Match the pace to the group",
+          "paragraphs": [
+            "For a quick turn-taking match, sports themes can be an easy place to start. For example, the portal lists Soccer Random and VOLLEY CLASH in its sports collection. That describes their catalogue category, not a promise that either title has a particular local or online mode; check the individual game page before inviting someone.",
+            "If you want a title explicitly presented as two-player, Battle Tung Tung Sahur 2Player is a natural candidate to inspect. Open its page, confirm the displayed instructions and decide whether the controls suit your setup. For a team or shooter-style session, browse the PvP and action collection, but verify player modes title by title."
+          ]
+        },
+        {
+          "heading": "Use a three-check invitation test",
+          "paragraphs": [
+            "First, confirm the player count and whether play is local or online. Second, check the controls and device support. Third, launch the game once yourself before sending the link. This catches avoidable friction such as a mode that is not what you expected, a control layout that is awkward on one keyboard, or a game that is temporarily unavailable.",
+            "Share the exact game page rather than a broad category page. Your friend can read the same instructions and see the same provider information. If the title depends on an external platform, availability can change, so keep a second option ready."
+          ]
+        },
+        {
+          "heading": "The short version",
+          "paragraphs": [
+            "Choose the setup first, the mood second and the game third. A title’s name or genre is a clue, not proof of its multiplayer features. Check the instructions on the game page and you will spend less time troubleshooting and more time deciding who gets the next round."
+          ]
+        }
+      ],
+      "game_links": [
+        {
+          "id": "battle-tung-tung-sahur-2player-game",
+          "title": "Battle Tung Tung Sahur 2Player",
+          "caption": "The title signals two-player; confirm its in-game setup."
+        },
+        {
+          "id": "soccer-random-game",
+          "title": "Soccer Random",
+          "caption": "A sports pick from the current collection."
+        },
+        {
+          "id": "volley-clash-game",
+          "title": "VOLLEY CLASH",
+          "caption": "A volleyball-themed pick; check the listed mode."
+        }
+      ],
+      "faq": [
+        {
+          "question": "Does every 2-player browser game work on one keyboard?",
+          "answer": "No. Player count and controls vary by title. Check the game’s instructions for local, shared-device or online play before you start."
+        },
+        {
+          "question": "Can I invite a friend to any game on the portal?",
+          "answer": "Not necessarily. The portal links to games from third-party platforms, and multiplayer options depend on each individual title. Confirm its mode on the game page."
+        },
+        {
+          "question": "What should I share with a friend?",
+          "answer": "Share the direct game page so both players can review the same controls, provider and availability information."
+        }
+      ]
+    },
+    {
+      "slug": "browser-game-not-loading",
+      "category": "TROUBLESHOOTING",
+      "meta_title": "Browser Game Not Loading? Try These Safe Checks",
+      "meta_description": "A browser game stuck on a blank screen? Try these safe checks for connection, browser, device support and third-party game availability.",
+      "title": "Browser game not loading? Try these checks first.",
+      "excerpt": "A blank player does not always mean the game is gone. Use a calm, safe checklist to separate a slow load from a browser, device or provider issue.",
+      "minutes": 5,
+      "date_published": "2026-11-09",
+      "sections": [
+        {
+          "heading": "1. Give the game area a moment",
+          "paragraphs": [
+            "Some titles load inside an embedded game window, and the game itself may take longer than the page around it. Wait briefly, then check whether the player area shows a loading indicator or an instruction. Avoid clicking repeatedly, especially if the game has already started responding.",
+            "If the page has a game description, source or provider link, keep it in view. That information helps you distinguish the portal page from the third-party service that actually supplies the game."
+          ]
+        },
+        {
+          "heading": "2. Check the simple things without lowering security",
+          "paragraphs": [
+            "Confirm that your connection is working by opening another familiar page. Then try one normal refresh. If the game may save progress only during a session, remember that reloading could restart it. Close a few demanding tabs if your device is under load and make sure your browser is up to date.",
+            "Do not install an extension, executable or ‘special player’ from an unexpected pop-up to make a browser game run. A game that is meant to launch in the page should not require an unknown download. Keep your browser’s security protections enabled."
+          ]
+        },
+        {
+          "heading": "3. Check device and control support",
+          "paragraphs": [
+            "Controls and device support differ between games. A title designed around keyboard and mouse may be difficult to use on a phone, while touch controls may not be available for every game. Read the game page and any instructions shown in the player before switching devices.",
+            "If one title fails, try another game from the same category. If several unrelated games fail at the same time, the issue may be with your connection, browser settings or a third-party provider rather than a single title."
+          ]
+        },
+        {
+          "heading": "4. Know when the provider may be the cause",
+          "paragraphs": [
+            "King in the Game is a discovery portal; individual titles are delivered by their respective platforms. A provider can change availability, loading behavior or embedded content. If the game page and provider link are available, compare the provider’s own listing with the embedded version. If both are unavailable, try again later or choose another title.",
+            "The safest troubleshooting path is simple: wait, check your connection, refresh once, verify device instructions and avoid unknown downloads. If the problem continues, note the game title and device when you contact the site or provider."
+          ]
+        }
+      ],
+      "game_links": [
+        {
+          "id": "rocket-clash-3d",
+          "title": "Rocket Clash 3D",
+          "caption": "Open another title and compare its page instructions."
+        },
+        {
+          "id": "monster-truck-off-road-2",
+          "title": "Monster Truck Off Road 2",
+          "caption": "Try a different category if one player is unavailable."
+        }
+      ],
+      "faq": [
+        {
+          "question": "Should I download a player if a browser game asks me to?",
+          "answer": "Do not install unknown files or extensions from unexpected prompts. Use the game page’s provider link or choose another title if the player does not load."
+        },
+        {
+          "question": "Why does the game window stay blank?",
+          "answer": "It may be waiting on the browser, connection, device support or the third-party platform. Check the game instructions and try one refresh before troubleshooting further."
+        },
+        {
+          "question": "Can the portal guarantee a game will always be available?",
+          "answer": "No. Games are supplied by third-party platforms, so access and embedded behavior can change independently of the portal."
+        }
+      ]
+    },
+    {
+      "slug": "budget-gaming-setup",
+      "category": "BUYING GUIDE",
+      "meta_title": "A Budget Gaming Setup: What to Buy First",
+      "meta_description": "Build a comfortable gaming setup on a budget. Prioritize controls, fit, compatibility and returns before paying for flashy specs or extras.",
+      "title": "A comfortable gaming setup on a budget: what to buy first.",
+      "excerpt": "You do not need a desk full of gear to enjoy browser games. Start with the controls you actually use, then spend on comfort and compatibility—not marketing claims.",
+      "minutes": 6,
+      "date_published": "2026-11-09",
+      "sections": [
+        {
+          "heading": "Start with the games, not the shopping list",
+          "paragraphs": [
+            "Before buying anything, list the games you actually play and the controls they use. Many browser titles rely on keyboard and mouse, but controls differ by game and some support touch input. Check the instructions on the game page first. New hardware cannot fix a title that does not support your device or preferred control method.",
+            "Set a firm budget and keep part of it unspent until you know what feels uncomfortable. A useful upgrade solves a repeated problem—such as an unreliable mouse, cramped keyboard or uncomfortable headset—not a specification you have never needed."
+          ]
+        },
+        {
+          "heading": "Prioritize comfort and compatibility",
+          "paragraphs": [
+            "If you use a mouse for long sessions, choose a size and shape that feel comfortable in your hand. Check whether its connection works with your computer and whether you prefer wired or wireless. A high advertised sensitivity number or lighting effect is not, by itself, evidence that a mouse will suit you.",
+            "For a keyboard, think about layout, desk space, noise and whether the keys you use are easy to reach. A headset is worth considering if clear audio or voice chat matters to the games you play; otherwise, it may be an optional extra. Comfort is personal, so a return policy can matter more than a long feature list."
+          ]
+        },
+        {
+          "heading": "A simple order for spending",
+          "paragraphs": [
+            "First, make sure your existing browser and device meet the instructions shown by the game. Second, replace the item that causes the most friction during normal play. Third, consider optional audio or desk accessories only if they solve a real problem. Do not assume that a ‘gaming’ label automatically improves frame rate or game performance.",
+            "Before checkout, compare the total price, compatibility, warranty, return terms and seller. Read recent independent reviews for the exact model and look for recurring comfort or reliability issues. Avoid making a decision from a single influencer clip or a headline specification."
+          ]
+        },
+        {
+          "heading": "How we handle product recommendations",
+          "paragraphs": [
+            "This article is a general buying checklist, not a hands-on review or a claim that we tested particular products. It currently contains no affiliate product links. If the portal adds partner links later, we will label them beside the recommendation and explain when a purchase may earn the site a commission at no extra cost to you.",
+            "A useful gear guide should tell you what was checked, what was not checked and who a product may suit. Until a specific item has been evaluated and its affiliate relationship is clear, the most honest recommendation is to use the checklist above and buy only when an upgrade solves a real need."
+          ]
+        }
+      ],
+      "game_links": [],
+      "faq": [
+        {
+          "question": "Do browser games require a gaming mouse?",
+          "answer": "Not always. Check the controls for the games you play. A comfortable, reliable mouse can help when a title uses one, but the ‘gaming’ label alone does not make it necessary."
+        },
+        {
+          "question": "Should I buy a headset first?",
+          "answer": "Only if audio or voice chat matters to your games. Start with your actual use and budget, then consider comfort, compatibility and returns."
+        },
+        {
+          "question": "Does this article contain affiliate links?",
+          "answer": "No product links are active in this guide right now. Any future affiliate recommendation will be identified near its link."
+        }
+      ]
+    }
+  ]
+}
