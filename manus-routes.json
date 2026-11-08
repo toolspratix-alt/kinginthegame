@@ -2147,6 +2147,10 @@
     {
       "path": "/hi/games/dark-hunt-dragon-valley-game.html",
       "title": "Dark Hunt: Dragon Valley — Play Free Online"
+    },
+    {
+      "path": "/games/dark-hunt-dragon-valley/",
+      "title": "Dark Hunt: Dragon Valley — Self-hosted Game"
     }
   ]
 }
