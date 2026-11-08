@@ -10,6 +10,8 @@ const muteButton = document.querySelector('#mute');
 /** @type {HTMLButtonElement} */
 const exitGameButton = document.querySelector('#exit-game');
 /** @type {HTMLButtonElement} */
+const fullscreenButton = document.querySelector('#fullscreen-game');
+/** @type {HTMLButtonElement} */
 const mobileFireButton = document.querySelector('#mobile-fire');
 /** @type {HTMLButtonElement} */
 const mobileShieldButton = document.querySelector('#mobile-shield');
@@ -1138,8 +1140,10 @@ function positionLossActions() {
 }
 
 function resizeCanvas() {
-  const viewportWidth = window.visualViewport?.width || window.innerWidth;
-  const viewportHeight = window.visualViewport?.height || window.innerHeight;
+  // The game runs inside a portal iframe, so size from the actual game
+  // container rather than assuming the top-level browser viewport.
+  const viewportWidth = Math.max(1, gameContainer.clientWidth || window.visualViewport?.width || window.innerWidth);
+  const viewportHeight = Math.max(1, gameContainer.clientHeight || window.visualViewport?.height || window.innerHeight);
   const isRotatedMobile = viewportHeight > viewportWidth && viewportWidth <= 900;
   gameContainer.classList.toggle('is-rotated-mobile', isRotatedMobile);
 
@@ -1163,6 +1167,30 @@ function resizeCanvas() {
 window.addEventListener('resize', () => resizeCanvas());
 window.addEventListener('orientationchange', () => resizeCanvas());
 window.visualViewport?.addEventListener('resize', () => resizeCanvas());
+
+async function toggleFullscreen() {
+  try {
+    if (document.fullscreenElement) {
+      await document.exitFullscreen();
+    } else if (gameContainer.requestFullscreen) {
+      await gameContainer.requestFullscreen({ navigationUI: 'hide' });
+    }
+  } catch (error) {
+    console.warn('Fullscreen was not available in this browser.', error);
+  }
+}
+
+function updateFullscreenButton() {
+  const active = Boolean(document.fullscreenElement);
+  fullscreenButton.textContent = active ? '⛶' : '⛶';
+  fullscreenButton.setAttribute('aria-label', active ? 'Exit fullscreen' : 'Enter fullscreen');
+  fullscreenButton.title = active ? 'Exit fullscreen' : 'Enter fullscreen';
+  resizeCanvas();
+}
+
+fullscreenButton.addEventListener('click', toggleFullscreen);
+document.addEventListener('fullscreenchange', updateFullscreenButton);
+canvas.addEventListener('dblclick', toggleFullscreen);
 resizeCanvas();
 
 function pointerPosition(event) {

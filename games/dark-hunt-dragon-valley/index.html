@@ -20,12 +20,13 @@
       #game-container { width: 100%; height: 100%; height: 100dvh; display: grid; place-items: center; position: relative; overflow: hidden; background: radial-gradient(circle at 50% 25%, #161c2b, #030407 70%); }
       canvas { display: block; width: 100%; height: 100%; max-width: 1920px; max-height: 1080px; box-shadow: 0 0 90px #000; cursor: none; touch-action: none; }
       canvas.title-screen { cursor: var(--hunt-cursor); }
-      #mute, #exit-game { position: fixed; top: 18px; z-index: 6; width: 48px; height: 48px; border-radius: 50%; border: 1px solid #9f8c69; color: #e8d7ad; background: #090b10e8; font-size: 20px; cursor: pointer; transition: background 140ms ease, border-color 140ms ease, transform 140ms ease; }
+      #mute, #exit-game, #fullscreen-game { position: fixed; top: 18px; z-index: 6; width: 48px; height: 48px; border-radius: 50%; border: 1px solid #9f8c69; color: #e8d7ad; background: #090b10e8; font-size: 20px; cursor: pointer; transition: background 140ms ease, border-color 140ms ease, transform 140ms ease; }
       #mute { right: 18px; }
+      #fullscreen-game { right: 134px; border-color: #6d9b96; color: #b9eee2; font-size: 22px; line-height: 1; }
       #exit-game { right: 76px; border-color: #8f6660; color: #e0b5a9; font-size: 27px; line-height: 1; }
-      #mute:hover, #exit-game:hover { background: #241b14; border-color: #f3cb78; }
-      #exit-game:focus-visible, #mute:focus-visible { outline: 2px solid #9cf1e6; outline-offset: 2px; }
-      #exit-game:active, #mute:active { transform: scale(0.94); }
+      #mute:hover, #fullscreen-game:hover, #exit-game:hover { background: #241b14; border-color: #f3cb78; }
+      #fullscreen-game:focus-visible, #exit-game:focus-visible, #mute:focus-visible { outline: 2px solid #9cf1e6; outline-offset: 2px; }
+      #fullscreen-game:active, #exit-game:active, #mute:active { transform: scale(0.94); }
       #language-select { position: fixed; left: 18px; top: 18px; z-index: 4; min-width: 148px; height: 42px; padding: 0 12px; border: 1px solid #9f8c69; border-radius: 10px; color: #e8d7ad; background: #090b10e8; font: 700 14px Inter, sans-serif; cursor: pointer; }
       #language-select:focus { outline: 2px solid #9cf1e6; outline-offset: 2px; }
       .touch-controls { display: none; position: fixed; left: 0; right: 0; bottom: max(18px, env(safe-area-inset-bottom)); z-index: 5; justify-content: space-between; align-items: end; padding: 0 22px; pointer-events: none; }
@@ -53,9 +54,12 @@
         .touch-controls { display: flex; }
         #mute, #exit-game { top: max(14px, env(safe-area-inset-top)); }
         #mute { right: 14px; }
+        #fullscreen-game { right: 126px; }
         #exit-game { right: 70px; }
         canvas { box-shadow: none; }
       }
+      #game-container:fullscreen { width: 100vw; height: 100vh; background: #030407; }
+      #game-container:-webkit-full-screen { width: 100vw; height: 100vh; background: #030407; }
       @media (max-width: 520px) {
         #language-select { left: 10px; top: 10px; min-width: 118px; height: 36px; padding: 0 8px; font-size: 12px; }
         .touch-control { width: 78px; height: 78px; font-size: 12px; }
@@ -82,6 +86,7 @@
         <option value="pt">Português</option>
       </select>
       <button id="mute" aria-label="Mute or unmute audio">♫</button>
+      <button id="fullscreen-game" type="button" aria-label="Enter fullscreen" title="Enter fullscreen">⛶</button>
       <button id="exit-game" type="button" aria-label="Exit hunt" title="Exit hunt">×</button>
       <div id="loss-actions" hidden aria-label="End of hunt actions">
         <button id="loss-retry" class="loss-action loss-action--retry" type="button">CONTINUE HUNT</button>
