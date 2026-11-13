@@ -232,6 +232,106 @@
           "answer": "Non, aucun lien vers un produit n’est actif dans ce guide pour le moment. Toute future recommandation affiliée sera signalée à proximité de son lien."
         }
       ]
+    },
+    {
+      "slug": "browser-game-lag-fixes",
+      "category": "DÉPANNAGE",
+      "meta_title": "Jeu navigateur lent : vérifier saccades et délai",
+      "meta_description": "Jeu qui saccade ou commandes tardives ? Des vérifications simples pour distinguer réseau, navigateur, appareil et jeu, sans booster.",
+      "title": "Jeu dans le navigateur lent ? Vérifier les saccades et le délai",
+      "excerpt": "Les animations saccadées et les commandes tardives peuvent avoir différentes causes. Cette liste pratique vous aide à tester les causes probables une à une, à éviter les solutions rapides risquées et à savoir quand essayer un autre jeu.",
+      "minutes": 6,
+      "date_published": "2026-11-13",
+      "references_heading": "Aide officielle des navigateurs (en anglais)",
+      "references": [
+        {
+          "title": "Aide Google Chrome : personnaliser les performances de Chrome",
+          "url": "https://support.google.com/chrome/answer/12929150?hl=en"
+        },
+        {
+          "title": "Assistance Mozilla : Firefox utilise trop de mémoire ou de ressources processeur",
+          "url": "https://support.mozilla.org/en-US/kb/firefox-uses-too-much-memory-or-cpu-resources"
+        }
+      ],
+      "sections": [
+        {
+          "heading": "Repérez le symptôme avant de modifier quoi que ce soit",
+          "paragraphs": [
+            "Le mot « latence » désigne plusieurs symptômes. Si vos commandes répondent tardivement ou si le jeu revient en arrière après une action, un délai de connexion ou du serveur de jeu est une possibilité. Si l’animation saccade même lorsque vous n’effectuez aucun mouvement en ligne, la charge du navigateur ou de l’appareil peut être en cause. Un joueur figé ou vide est un autre symptôme. Ces indices aident à choisir un test, mais ne permettent pas à eux seuls d’identifier la cause.",
+            "Commencez par noter ce qui se passe : commandes tardives, images saccadées ou écran de chargement qui ne se termine jamais. Ensuite, ne modifiez qu’un seul élément à la fois et rejouez la même situation. Si le jeu ne démarre jamais, consultez plutôt la liste de vérification du chargement des jeux dans le navigateur dans les articles connexes ci-dessous, au lieu de traiter le problème comme une latence en cours de partie."
+          ]
+        },
+        {
+          "heading": "Commencez par des vérifications sans risque",
+          "paragraphs": [
+            "Fermez les onglets et applications que vous n’utilisez pas, en particulier les pages qui diffusent des vidéos ou d’autres contenus exigeants, puis testez à nouveau le même jeu. L’assistance Mozilla recommande, lorsque Firefox utilise trop de ressources, de réduire le nombre d’onglets, de fermer ceux qui sollicitent beaucoup le système ainsi que les autres applications, et de vérifier si une extension est en cause. Les menus et les effets précis varient selon le navigateur et l’appareil.",
+            "Ne faites qu’un seul changement à la fois. Laissez le jeu se stabiliser un instant, puis répétez la même action et comparez. Si vous venez d’ouvrir le jeu, évitez de l’actualiser à répétition : le rechargement peut redémarrer une session ou faire perdre une progression non enregistrée."
+          ]
+        },
+        {
+          "heading": "Vérifiez séparément la connexion",
+          "paragraphs": [
+            "Si c’est possible, mettez en pause un téléchargement volumineux ou une vidéo en continu qui utilise la même connexion, puis faites un nouvel essai. En Wi-Fi, vous rapprocher du routeur peut aider si le signal est faible. Si d’autres sites et jeux sont également lents, la connexion ou l’appareil mérite d’être examiné ; un seul résultat de test de débit ne peut pas expliquer tous les délais en jeu.",
+            "Si un seul titre se comporte différemment alors que les autres pages fonctionnent normalement, le jeu, son fournisseur ou le chemin vers son serveur peuvent être en cause. C’est un indice, pas la preuve que votre appareil ou votre connexion ne pose aucun problème. Consultez les instructions propres au jeu et réessayez plus tard avant de modifier des paramètres réseau ou de sécurité avancés."
+          ]
+        },
+        {
+          "heading": "Vérifiez les réglages d’alimentation et des onglets du navigateur",
+          "paragraphs": [
+            "Si le ralentissement apparaît principalement lorsque votre appareil fonctionne sur batterie, consultez les paramètres officiels de performances ou d’alimentation du navigateur. L’aide de Google indique que l’économiseur d’énergie de Chrome peut modifier les performances des jeux et des vidéos. Ne comparez les conditions que si cela convient à votre appareil ; ne désactivez pas par défaut les fonctions d’économie de batterie, car elles peuvent être utiles dans votre situation.",
+            "Certains navigateurs peuvent également suspendre ou désactiver les onglets en arrière-plan. L’économiseur de mémoire de Chrome, par exemple, peut désactiver les onglets inactifs et les recharger lorsque vous y revenez. Gardez l’onglet du jeu actif pendant le test et consultez l’aide de votre navigateur pour connaître les noms des paramètres, qui peuvent varier selon la version."
+          ]
+        },
+        {
+          "heading": "Comparez avec un autre jeu",
+          "paragraphs": [
+            "Essayez un autre titre d’une catégorie différente et comparez-le sur le même appareil et la même connexion. La collection du portail comprend des exemples de jeux de course, de sport et d’action, tels que Monster Truck Off Road 2, Soccer Random et Rocket Clash 3D. Ce sont des jeux de comparaison, et non la promesse que l’un d’eux fonctionnera sans problème sur toutes les configurations.",
+            "Si plusieurs pages ou jeux sans rapport entre eux saccadent, concentrez-vous sur le navigateur, l’appareil ou la connexion. Si un seul titre pose problème, notez son nom et réessayez plus tard ; un problème lié au jeu ou à un service tiers peut échapper au contrôle du portail."
+          ]
+        },
+        {
+          "heading": "Évitez les solutions rapides risquées",
+          "paragraphs": [
+            "Méfiez-vous des téléchargements ou extensions qui promettent d’augmenter les FPS en un clic. Un module complémentaire peut solliciter les ressources du navigateur ou demander des accès que vous n’avez pas besoin d’accorder, et un outil générique ne peut pas garantir de résoudre le problème d’un jeu en particulier. Privilégiez les paramètres documentés par le fabricant de votre navigateur ou de votre appareil.",
+            "Effacer tous les cookies ou toutes les données de site n’est pas une première mesure contre la latence : cela peut vous déconnecter ou réinitialiser vos préférences enregistrées, sans nécessairement régler la cause. Si vous avez besoin d’une aide propre à votre navigateur, consultez les références officielles ci-dessus. Si le lecteur est vide ou si le jeu ne démarre jamais, utilisez la liste distincte de vérification du chargement dans les articles connexes."
+          ]
+        }
+      ],
+      "game_links": [
+        {
+          "id": "monster-truck-off-road-2",
+          "title": "Monster Truck Off Road 2",
+          "caption": "Un exemple de jeu de course issu de la collection sélectionnée ; les performances varient selon l’appareil et la connexion."
+        },
+        {
+          "id": "soccer-random-game",
+          "title": "Soccer Random",
+          "caption": "Un exemple de jeu de sport à titre de comparaison, sans garantie de rapidité."
+        },
+        {
+          "id": "rocket-clash-3d",
+          "title": "Rocket Clash 3D",
+          "caption": "Un exemple de jeu d’action ; essayer un autre titre peut aider à cerner le symptôme, mais pas à en diagnostiquer la cause."
+        }
+      ],
+      "faq": [
+        {
+          "question": "La latence signifie-t-elle toujours que ma connexion Internet est lente ?",
+          "answer": "Non. Des commandes tardives peuvent être liées à la connexion ou au service de jeu, tandis que des animations saccadées peuvent être dues à la charge du navigateur ou de l’appareil. Ces tendances sont des indices, pas un diagnostic certain. Comparez avec un autre site ou jeu avant de modifier les paramètres."
+        },
+        {
+          "question": "Dois-je vider le cache de mon navigateur pour corriger la latence ?",
+          "answer": "Pas comme première étape. Effacer les cookies ou les données de site peut vous déconnecter ou réinitialiser vos préférences enregistrées, sans forcément résoudre un problème de performances. Commencez par des vérifications sans risque et suivez les conseils officiels du navigateur si vous devez effectuer une réinitialisation précise."
+        },
+        {
+          "question": "Puis-je désactiver l’économiseur d’énergie pour accélérer tous les jeux ?",
+          "answer": "Aucun réglage ne le garantit. Chrome indique que l’économiseur d’énergie peut modifier les performances des jeux et des vidéos, mais le désactiver peut réduire l’autonomie de la batterie. Comparez le même jeu uniquement si cela convient à votre appareil et à vos besoins."
+        },
+        {
+          "question": "Que faire si un seul jeu a de la latence ?",
+          "answer": "Le problème peut être propre à ce titre, à son fournisseur ou au chemin vers son serveur. Essayez un autre jeu à titre de comparaison, consultez les instructions du titre et réessayez plus tard. Une comparaison réduit le nombre de possibilités, mais ne prouve pas la cause exacte."
+        }
+      ]
     }
   ]
 }

@@ -48,12 +48,15 @@
 .blog-share-status{flex-basis:100%;min-height:1em;color:#d4fb48;font:11px 'DM Mono',monospace}
 .blog-article-body{color:#c8d1df;font-size:17px;line-height:1.86}
 .blog-content-section{margin:30px 0}
-.blog-content-section h2,.blog-faq h2,.blog-related-games h2,.blog-more>h2{margin:0 0 14px;color:#f0f3f9;font:600 clamp(23px,3vw,31px)/1.2 'Space Grotesk',sans-serif;letter-spacing:-.025em}
+.blog-content-section h2,.blog-faq h2,.blog-references h2,.blog-related-games h2,.blog-more>h2{margin:0 0 14px;color:#f0f3f9;font:600 clamp(23px,3vw,31px)/1.2 'Space Grotesk',sans-serif;letter-spacing:-.025em}
 .blog-content-section p{margin:0 0 17px}
 .blog-faq{margin:42px 0 0}
 .blog-faq details{border-top:1px solid rgba(255,255,255,.13);padding:15px 2px;color:#b9c4d3}
 .blog-faq summary{cursor:pointer;color:#eff3f9;font-weight:600;line-height:1.5}
 .blog-faq details p{margin:12px 0 0;line-height:1.7}
+.blog-references{margin:38px 0 0;padding-top:22px;border-top:1px solid rgba(255,255,255,.13)}
+.blog-references ul{display:grid;gap:10px;margin:0;padding-inline-start:20px;color:#aeb9c9;line-height:1.65}
+.blog-references a{color:#d4fb48;text-decoration:underline;text-underline-offset:3px}
 .blog-related-games{margin-top:38px}
 .blog-related-games ul{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px;margin:0;padding:0;list-style:none}
 .blog-game-link{display:grid;gap:8px;height:100%;padding:16px;border:1px solid rgba(255,255,255,.12);border-radius:10px;background:#101722;text-decoration:none}

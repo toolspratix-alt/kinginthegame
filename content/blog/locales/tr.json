@@ -232,6 +232,106 @@
           "answer": "Hayır, bu rehberde şu anda etkin ürün bağlantısı yok. Gelecekteki satış ortaklığı önerileri bağlantılarının yanında belirtilecektir."
         }
       ]
+    },
+    {
+      "slug": "browser-game-lag-fixes",
+      "category": "SORUN GİDERME",
+      "meta_title": "Tarayıcı Oyunlarında Takılma: Güvenli Kontroller",
+      "meta_description": "Tarayıcı oyunları takılıyor veya kontroller geç mi yanıt veriyor? Ağ, tarayıcı, cihaz ya da oyun sorunlarını ayırt etmek için düşük riskli kontrolleri deneyin.",
+      "title": "Tarayıcı Oyunu Takılıyor mu? Gecikme ve Takılmalar İçin Güvenli Kontroller",
+      "excerpt": "Kesintili animasyonların ve geç yanıt veren kontrollerin farklı nedenleri olabilir. Bu pratik kontrol listesi, olası nedenleri teker teker sınamanıza, riskli kestirme çözümlerden kaçınmanıza ve başka bir oyunu ne zaman denemeniz gerektiğini anlamanıza yardımcı olur.",
+      "minutes": 6,
+      "date_published": "2026-11-13",
+      "references_heading": "Resmî tarayıcı yardımı (İngilizce)",
+      "references": [
+        {
+          "title": "Google Chrome Yardım: Chrome performansını kişiselleştirme",
+          "url": "https://support.google.com/chrome/answer/12929150?hl=en"
+        },
+        {
+          "title": "Mozilla Destek: Firefox çok fazla bellek veya işlemci kaynağı kullanıyor",
+          "url": "https://support.mozilla.org/en-US/kb/firefox-uses-too-much-memory-or-cpu-resources"
+        }
+      ],
+      "sections": [
+        {
+          "heading": "Herhangi bir şeyi değiştirmeden önce belirtiyi belirleyin",
+          "paragraphs": [
+            "İnsanlar “gecikme” sözcüğünü birkaç farklı belirti için kullanır. Kontrolleriniz geç yanıt veriyorsa veya bir hareketten sonra oyun geriye sarıyorsa olası nedenlerden biri bağlantı ya da oyun sunucusu gecikmesidir. Çevrimiçi hamle yapmadığınız sırada bile animasyon takılıyorsa tarayıcı veya cihaz yükü etkili olabilir. Donmuş ya da boş bir oyun alanı ise farklı bir belirtidir. Bu ipuçları bir test seçmenize yardımcı olur; tek başlarına nedeni göstermez.",
+            "Önce ne olduğunu not edin: kontrollerin geç yanıt vermesi, karelerin kesintili görünmesi ya da yükleme ekranının hiç tamamlanmaması. Ardından her seferinde tek bir şeyi değiştirin ve aynı durumu yeniden deneyin. Oyun hiç başlamıyorsa bunu oyun içi gecikme sorunu olarak ele almak yerine aşağıdaki ilgili makalelerdeki tarayıcı oyunu yükleme kontrol listesini kullanın."
+          ]
+        },
+        {
+          "heading": "Düşük riskli kontrollerle başlayın",
+          "paragraphs": [
+            "Kullanmadığınız sekmeleri ve uygulamaları, özellikle video oynatan veya yoğun içerik sunan sayfaları kapatıp aynı oyunu yeniden deneyin. Firefox çok fazla kaynak kullanıyorsa Mozilla’nın Firefox destek sayfası daha az sekme kullanmayı, çok kaynak tüketen sekmeleri ve diğer uygulamaları kapatmayı ve bir uzantının etkisi olup olmadığını kontrol etmeyi önerir. Menüler ve sonuçlar tarayıcıya ve cihaza göre değişebilir.",
+            "Her seferinde yalnızca bir değişiklik deneyin. Oyunun oturması için biraz bekleyin, ardından aynı hareketi tekrarlayıp karşılaştırın. Oyunu yeni açtıysanız art arda yenilemekten kaçının; sayfayı yeniden yüklemek oturumu baştan başlatabilir veya kaydedilmemiş ilerlemeyi kaybettirebilir."
+          ]
+        },
+        {
+          "heading": "Bağlantıyı ayrıca kontrol edin",
+          "paragraphs": [
+            "Uygunsa, bağlantınızı paylaşan büyük bir indirmeyi veya video akışını duraklatıp yeniden deneyin. Wi-Fi kullanıyorsanız sinyal zayıf olduğunda yönlendiriciye yaklaşmak yardımcı olabilir. Başka siteler ve oyunlar da yavaşsa bağlantı veya cihazı incelemek gerekir; tek bir hız testi sonucu oyun içindeki her gecikmeyi açıklayamaz.",
+            "Diğer sayfalar normal çalışırken yalnızca tek bir oyun farklı davranıyorsa oyunun kendisi, sağlayıcısı veya sunucusuna giden ağ yolu etkili olabilir. Bu bir ipucudur; cihazınızın ya da bağlantınızın kesinlikle sorunsuz olduğunu kanıtlamaz. Gelişmiş ağ veya güvenlik ayarlarını değiştirmeden önce oyunun kendi talimatlarını kontrol edin ve daha sonra yeniden deneyin."
+          ]
+        },
+        {
+          "heading": "Tarayıcının güç ve sekme ayarlarını kontrol edin",
+          "paragraphs": [
+            "Yavaşlama çoğunlukla cihazınız pil gücüyle çalışırken ortaya çıkıyorsa tarayıcının resmî performans veya güç ayarlarını kontrol edin. Google’ın Chrome yardımına göre Enerji Tasarrufu oyun ve video performansını değiştirebilir. Koşulları yalnızca cihazınız için uygunsa karşılaştırın; durumunuza uygun olabileceği için pil tasarrufu özelliklerini varsayılan olarak kapatmayın.",
+            "Bazı tarayıcılar arka plan sekmelerini duraklatabilir veya devre dışı bırakabilir. Örneğin Chrome’un Bellek Tasarrufu özelliği etkin olmayan sekmeleri devre dışı bırakabilir ve sekmeye geri döndüğünüzde yeniden yükleyebilir. Test sırasında oyun sekmesini etkin tutun; sürüme göre değişebilen ayar adları için tarayıcınızın kendi yardım sayfasına başvurun."
+          ]
+        },
+        {
+          "heading": "Başka bir oyunla karşılaştırın",
+          "paragraphs": [
+            "Farklı bir kategoriden başka bir oyun deneyin ve aynı cihazla, aynı bağlantıda karşılaştırın. Portalın koleksiyonunda Monster Truck Off Road 2, Soccer Random ve Rocket Clash 3D gibi yarış, spor ve aksiyon örnekleri bulunur. Bunlar karşılaştırma seçenekleridir; herhangi bir oyunun her kurulumda sorunsuz çalışacağına dair garanti değildir.",
+            "Birbiriyle ilgisiz birkaç sayfa veya oyun takılıyorsa tarayıcı, cihaz ya da bağlantı kontrollerine odaklanın. Sorun yalnızca tek bir oyundaysa adını not edip daha sonra yeniden deneyin; oyunun içindeki veya üçüncü taraf bir hizmetteki sorun portalın denetimi dışında olabilir."
+          ]
+        },
+        {
+          "heading": "Riskli kestirme çözümlerden kaçının",
+          "paragraphs": [
+            "Tek tıkla FPS artışı vadeden indirmelere veya uzantılara karşı dikkatli olun. Bir eklenti tarayıcı kaynaklarını etkileyebilir ya da vermeniz gerekmeyen erişim izinleri isteyebilir; genel amaçlı bir araç da belirli bir oyun için çözüm garantisi veremez. Tarayıcınızın veya cihaz üreticinizin belgelediği ayarları tercih edin.",
+            "Tüm çerezleri veya site verilerini temizlemek gecikme için ilk başvurulacak çözüm değildir: oturumunuzu kapatabilir veya kaydedilmiş tercihleri sıfırlayabilir ve nedeni gidermeyebilir. Tarayıcıya özel yardıma ihtiyacınız varsa yukarıdaki resmî kaynakları kullanın. Oyun alanı boşsa veya oyun hiç başlamıyorsa ilgili makalelerdeki ayrı yükleme kontrol listesini kullanın."
+          ]
+        }
+      ],
+      "game_links": [
+        {
+          "id": "monster-truck-off-road-2",
+          "title": "Monster Truck Off Road 2",
+          "caption": "Seçkin koleksiyondan bir yarış örneği; performans cihaza ve bağlantıya göre değişir."
+        },
+        {
+          "id": "soccer-random-game",
+          "title": "Soccer Random",
+          "caption": "Karşılaştırma için bir spor oyunu örneği; hız garantisi değildir."
+        },
+        {
+          "id": "rocket-clash-3d",
+          "title": "Rocket Clash 3D",
+          "caption": "Bir aksiyon oyunu örneği; başka bir oyun belirtinin olasılıklarını daraltmaya yardımcı olabilir, ancak nedenini teşhis etmez."
+        }
+      ],
+      "faq": [
+        {
+          "question": "Gecikme her zaman internetimin yavaş olduğu anlamına mı gelir?",
+          "answer": "Hayır. Kontrollerin geç yanıt vermesi bağlantıyla veya oyun hizmetiyle ilgili olabilirken animasyonun takılması tarayıcı ya da cihaz yükünden kaynaklanabilir. Bu örüntüler kesin teşhis değil, ipucudur. Ayarları değiştirmeden önce başka bir siteyi veya oyunu karşılaştırın."
+        },
+        {
+          "question": "Gecikmeyi gidermek için tarayıcı önbelleğini temizlemeli miyim?",
+          "answer": "İlk adım olarak hayır. Çerezleri veya site verilerini temizlemek oturumunuzu kapatabilir ya da kaydedilmiş tercihleri sıfırlayabilir; ayrıca performans sorununu çözmeyebilir. Önce düşük riskli kontrolleri deneyin; belirli bir sıfırlama gerekiyorsa resmî tarayıcı desteğinin yönergelerini izleyin."
+        },
+        {
+          "question": "Her oyunu hızlandırmak için Enerji Tasarrufu’nu kapatabilir miyim?",
+          "answer": "Hiçbir ayar bunu garanti etmez. Chrome, Enerji Tasarrufu’nun oyun ve video performansını değiştirebileceğini belirtiyor; ancak bu özelliği kapatmak pil ömrünü etkileyebilir. Aynı oyunu yalnızca cihazınız ve ihtiyaçlarınız için uygunsa karşılaştırın."
+        },
+        {
+          "question": "Ya yalnızca tek bir oyun takılıyorsa?",
+          "answer": "Sorun o oyuna, sağlayıcısına veya sunucusuna giden ağ yoluna özgü olabilir. Karşılaştırma için başka bir oyun deneyin, oyunun talimatlarını kontrol edin ve daha sonra yeniden deneyin. Karşılaştırma olasılıkları daraltır, ancak kesin nedeni kanıtlamaz."
+        }
+      ]
     }
   ]
 }

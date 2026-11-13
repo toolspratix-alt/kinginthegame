@@ -147,6 +147,8 @@ def post_schema(locale: str, post: dict[str, Any], url: str, cover: str) -> dict
         [post["title"], post["excerpt"]]
         + [p for section in post["sections"] for p in [section["heading"], *section["paragraphs"]]]
         + [part for faq in post["faq"] for part in [faq["question"], faq["answer"]]]
+        + [post.get("references_heading", "")]
+        + [reference["title"] for reference in post.get("references", [])]
     )
     return {
         "@context": "https://schema.org", "@type": "BlogPosting", "headline": post["title"],
@@ -217,6 +219,13 @@ def article_page(locale: str, data: dict[str, Any], post: dict[str, Any], games:
         + "</section>" for section in post["sections"]
     )
     faqs = "".join(f'<details><summary>{esc(item["question"])}</summary><p>{esc(item["answer"])}</p></details>' for item in post["faq"])
+    references_html = ""
+    if post.get("references"):
+        reference_items = "".join(
+            f'<li><a href="{esc(item["url"])}" target="_blank" rel="noopener noreferrer">{esc(item["title"])}</a></li>'
+            for item in post["references"]
+        )
+        references_html = f'<section class="blog-references"><h2>{esc(post["references_heading"])}</h2><ul>{reference_items}</ul></section>'
     games_html = ""
     if post.get("game_links"):
         cards = "".join(
@@ -238,7 +247,7 @@ def article_page(locale: str, data: dict[str, Any], post: dict[str, Any], games:
 <nav class="blog-breadcrumb" aria-label="Breadcrumb"><a href="{esc(home_href)}">{esc(ui['nav_home'])}</a><span aria-hidden="true">/</span><a href="{esc(archive_href)}">{esc(ui['nav_blog'])}</a><span aria-hidden="true">/</span><span aria-current="page">{esc(post['category'])}</span></nav>
 <article class="blog-article"><header class="blog-article-header"><span class="blog-category">{esc(post['category'])}</span><h1>{title}</h1><p class="blog-article-excerpt">{esc(post['excerpt'])}</p><div class="blog-article-meta"><span>{esc(ui['published'])}: <time datetime="{esc(post['date_published'])}">{esc(post['date_published'])}</time></span><span>{post['minutes']} {esc(ui['read_time'])}</span></div><img class="blog-article-cover" src="{esc(cover)}" alt="{esc(post['title'])}" fetchpriority="high"></header>
 {share_panel(locale, post, ui)}<div class="blog-article-body">{sections}</div>{affiliate}
-<section class="blog-faq"><h2>{esc(ui['faq'])}</h2>{faqs}</section>{games_html}</article>
+<section class="blog-faq"><h2>{esc(ui['faq'])}</h2>{faqs}</section>{references_html}{games_html}</article>
 {related_html}
 </main>''' + footer(locale, data)
         + f'<script>localStorage.setItem("kitg-language",{json.dumps(locale)});</script><script src="/blog-nav.js" defer></script><script src="/blog-share.js" defer></script></body></html>')
